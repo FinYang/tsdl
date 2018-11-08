@@ -1,0 +1,2 @@
+# tsdl
+The Time Series Data Library (TSDL) was created by Rob Hyndman, Professor of Statistics at Monash University, Australia.

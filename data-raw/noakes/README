@@ -1,0 +1,101 @@
+NOAKES data directory
+Monthly riverflow time series used in the forecasting experiments reported
+in the article "Forecasting monthly riverflow time series" by D.J. Noakes,
+A.I. McLeod & K.W. Hipel (1985), International Journal of Forecasting,
+Vol. 1, pp.179-190.
+See also:
+A.I. McLeod, D.J. Noakes, K.W. Hipel & R.M. Thompstone (1987). ``Combining 
+hydrologic forecasts''. Journal of the American Society of Civil Engineers, 
+Water Resources Planning and Management Division, V.113, pp.29-41.
+
+Brief Summary Of The Data Files In The Directory mhsets/noakes
+
+1.  AMERICAN.1
+AMERICAN RIVER AT FAIR OAKS, CALIFORNIA, OCTOBER 1906 - SEPTEMBER 1960         
+
+2.  BOISE.1
+BOISE RIVER NEAR TWIN SPRINGS, IDAHO,OCTOBER 1912 TO SEPTEMBER 1960            
+
+3.  CLEARWAT.1
+CLEARWATER RIVER AT KAMIAH, IDAHO 1911 TO 1965                                 
+
+4.  COLUM.1
+STATION NO. 08NA002 COLUMBIA RIVER AT NICHOLSON 1933-69 37 YRS.                
+
+5.  CURRENT.1
+CURRENT RIVER AT VAN BUREN, MO 1922 TO 1960                                    
+
+6.  ENGLISH.1
+STATION 05QA001  ENGLISH R. NEAR SIOUX LOOKOUT O. 1922-77                      
+
+7.  FEATHER.1
+FEATHER RIVER AT OROVILLE, CALIFORNIA, OCTOBER 1902 - SEPTEMBER 1977           
+
+8.  JAMES.1
+JAMES RIVER AT BUCHANAN, VA 1911 TO 1960                                       
+
+9.  JUDITH.1
+JUDITH RIVER NEAR UTICA, MT. 1920 TO 1960                                      
+
+10.  MAD.1
+MAD RIVER NEAR SPRINGFIELD, OH. 1915 TO 1960                                   
+
+11.  MADISON.1
+MADISON RIVER NEAR WEST YELLOWSTONE, MT. 1923 TO 1960                          
+
+12.  MBOULDER.1
+MIDDLE BOULDER CREEK AT NEDERLAND, CO. 1912 TO 1960                            
+
+13.  MCKENZIE.1
+MCKENZIE RIVER AT MCKENZIE BRIDGE, OREGON, OCTOBER 1911 TO SEPTEMBER 1960      
+
+14.  MISINAB.1
+STATION NO. 04LJ001 MISSINAIBI RIVER AT MATTICE  1921-76  56 YRS.              
+
+15.  NAMAKAN.1
+STATION  05PA006  NAMAKAN R. AT LAC LA CROIX ONT.  1923-77                     
+
+16.  NECHES.1
+NECHES RIVER NEAR ROCKLAND, TEXAS 1914 TO 1960                                 
+
+17.  NMAGNET.1
+STATION 02EA005  N. MAGNETAWAN R., BURKS FALLS O. 1916-77                      
+
+18.  OOSTANAU.1
+OOSTANAULA RIVER AT RESACA, GA 1893 TO 1960                                    
+
+19.  PIGEON.1
+STATION 02AA001 PIGEON R. NEAR MIDDLE FALLS ONT. 1924-77                       
+
+20.  RAPPAHAN.1
+RAPPAHANNOCK RIVER NEAR FREDERICKSBURG, VA 1911 TO 1960                        
+
+21.  RICHELU.1
+STATION 02OJ007  RICHELIEU R. AT FRYERS RAPDS QUE 1938-77                      
+
+22.  RIOGRAND.1
+ 006 FURNAS - VAZOES MEDIAS MENSAIS (M3/S) - 1931 A 1978                       
+
+23.  SAUGEEN.1
+SAUGEEN RIVER, WALKERTON, 1915-1976                                            
+
+24.  SFSKYKOM.1
+S.F. SKYKOMISH RIVER NEAR INDEX, WASHINGTON,OCTOBER 1923 TO SEPTEMBER 1960     
+
+25.  SSASK.1
+S. SASK. RIVER AT SASKTOON- 624 MONTHLY FLOWS IN CMS-OCT 1911 TO OCT 1963      
+
+26.  STJOHNS.1
+STATION 01AD002  SAINT JOHNS R. AT FORT KENT N.B. 1927-77                      
+
+27.  TRINITY.1
+TRINITY RIVER AT LEWISTON, CALIFORNIA, OCTOBER 1912 - SEPTEMBER 1960           
+
+28.  TURTLE.1
+STATION 05PB014  TURTLE R. NEAR MINE CENTRE ONT.  1921-77                      
+
+29.  WBDELAWA.1
+WEST BRANCH DELAWARE RIVER AT HALE EDDY, NY 1916 TO 1960                       
+
+30.  WOLF.1
+WOLF RIVER AT NEW LONDON, WI 1914 TO 1960                                      

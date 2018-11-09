@@ -1,0 +1,52 @@
+Miscellaneous time series.
+
+Brief Summary Of The Data Files In The Directory mhsets/misc
+
+1.  CAFFEINE.1
+CAFFEINE LEVELS IN INSTANT COFFEE (SEASONAL PERIOD = 5)                        
+
+2.  CIGB.2
+Biomonthly cigarette consumption and price, 1966-74                            
+#consumption per adult in real dollars                                         
+#real price index of cigarettes                                                
+#Ref: McLeod (1977) Ph.D. Thesis: Topics in Time Series.                       
+
+3.  FREEDMAN.1
+Freedman's Nonlinear Time Series                                               
+#z_t = f(z_(t-1)), where f(x)=2x if x<=0.5 and f(x)=2-2x, x>0.5                
+
+4.  KINGS.1
+Age of Death of Successive Kings of England                                    
+#starting with William the Conqueror                                           
+#Source: McNeill, "Interactive Data Analysis"                                  
+
+5.  LOGISTIC.1
+logistic map, mu=3.9                                                           
+#z_t = mu z_ t-1  (1-z_ t-1 )                                                  
+
+6.  PACK.2
+Y - INDOOR TEMPERATURE,  X - OUTDOOR TEMPERATURE                               
+#original data from a paper by D. Pack                                         
+
+7.  PAPER.2
+PAPER-MAKING PROCESS DATA (TEE AND WU). OUTPUT AND INPUT VARIABLE              
+
+8.  QBIRTHS.1
+Number of births, daily, Quebec, January 1, 1977 to December 31, 1990.         
+#source: B. Quenneville, Statistics Canada                                     
+
+9.  SALESX.1
+SALES OF COMPANY X, JAN. 1965 TO MAY 1971                                      
+#Reference: Chatfield, C. and Prothero, D.L. (1973).                           
+#Box-Jenkins seasonal forecasting: problems in a case-study                    
+#Journal of the Royal Statistical Society A, Vol. 136, pp.295--336             
+
+10.  SAUGEEN.1
+Mean daily Saugeen riverflows, Jan 1, 1915 to Dec 31, 1979                     
+
+11.  SIMAR4.1
+Simulated AR(4), beta=(2.7607, -3.8106, 2.6535, -0.9238), n=800                
+#bimodal spectral density, peaks are close together                            
+#see Percival and Walden (1994)                                                
+#    "Spectral Analysis for Physical Applications", Cambridge Univ. Press      
+#    p.46, equation (46a)                                                      

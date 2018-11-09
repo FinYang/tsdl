@@ -1,0 +1,248 @@
+Selected interesting time series from Appendix A of H. Roberts (1992) 
+"Data Analysis for Managers" published by Scientific Press.
+
+Brief Summary Of The Data Files In The Directory mhsets/roberts
+
+1.  AARIVINT.1
+Intervals between aircraft arrivals in control zone                            
+
+2.  ALIGN.1
+The total number of alignment errors per airplane in a sample of 50 planes.    
+#Original Source: Grant and Leavenworth.                                       
+
+3.  ATT.1
+Returns for AT&T, 1961:1-1967:12                                               
+#84 MONTHS DATA--JAN 1961 THRU DEC 1967--ON RETURNS FOR AT&T                   
+#see also NYSE.1, IBM.1                                                        
+
+4.  BEARDS.1
+Percent of Men with full beards, 1866-1911, annual                             
+#see also, skirts.1                                                            
+#SEE MARIJA NORUSIS'S 1981 SPSS PRIMER FOR DETAILS AND                         
+#ADDITIONAL DATA EXTENDING BACK TO 1842 AND FORWARD TO 1953                    
+
+5.  BLUME.1
+Monthly unit sales, Winnebago Industries, Inc., Nov. 1966 - Feb. 1972.         
+
+6.  BOXHU1.1
+#Yields of 20 consecutive batches of a chemical process.                       
+#The first 10 batches were run under a standard process and the                
+#second 10 under a modified process aimed at increasing mean                   
+#yield.  Source: Box, Hunter, and Hunter, Statistics for                       
+#Experimenters, Wiley, 1978.                                                   
+
+7.  BOXHUN.1
+Production record of 210 consecutive yield values.                             
+#Taken from Box, Hunter, and Hunter, *Statistics for Experimenters*,           
+#Wiley, 1978, pages 32-3.                                                      
+
+8.  CCPI.1
+One-month change in CPI, 1963:4-1971:7                                         
+#see also, tbills.1, scoles.1                                                  
+
+9.  CRYER.1
+Chemical process data                                                          
+#from "The Estimation of Sigma for an X Chart: MR/d2 or                        
+#S/c4", Jonathan D. Cryer and Thompas P. Ryan, manuscript, February, 1989      
+
+10.  DJ.1
+Monthly closings of the Dow-Jones Industrial Index Aug 1968 - Aug 1981         
+
+11.  DJWEEK.1
+WEEKLY CLOSINGS OF THE DOW-JONES INDUSTRIAL AVERAGE, July 1971-Aug 2, 1974     
+#JULY 1971 THROUGH 2 AUGUST 1974.  DATA QUOTED IN UNPUBLISHED PAPER BY D.      
+#A. HSU, TAKEN FROM "NEW YORK STOCK EXCHANGE: STOCK PRICES", PUBLISHED         
+#QUARTERLY BY STANDARD AND POOR CO., NEW YORK, N.Y.                            
+
+12.  EGDEMAN.2
+Measurements of center thickness and axial difference                          
+#Measurements of center thickness (in mils) and axial difference (in mils) of  
+#25 contact lenses pulled from the production process at regular intervals.    
+#Tolerances: 0.4 mil +/- 0.01 mil for center thickness; axial difference must  
+#be less than 0.0025 mil.                                                      
+#Taken from Rick L. Edgeman and Susan B. Athey, "Digidot Plots for Process     
+#Surveillance", Quality Progress, May, 1990, 66-68.                            
+
+13.  G.1
+NOMINAL GOVERNMENT PRODUCT (BILLION DOLLARS)  1929-1974, U.S.                  
+
+14.  GLOBWARM.1
+Surface air "temperature change" for the globe, 1880-1985. Degrees Celsius.    
+#"Temperature change" actually means temperature against an arbitrary zero     
+#point.  From James Hansen and Sergej Lebedeff, "Global Trends of Measured     
+#Surface Air Temperature", `Journal of Geophysical Research`, Vol. 92, No.     
+#D11, pages 13,345-13,372, November 20, 1987.                                  
+
+15.  GNPN.1
+NOMINAL GNP (BILLION DOLLARS)  1890-1974, U.S.                                 
+
+16.  GNPR.1
+REAL GNP  (BILLION DOLLARS)  1890-1974, U.S.                                   
+
+17.  GRANT.1
+Diameters, consecutive batches of 5                                            
+#100 measurements of pitch diameter -- DIAM -- of threads on                   
+#aircraft fittings.  Values expressed in units of 0.0001 inch in               
+#excess of 0.4000 inch.  Specifications call for "37 plus or minus             
+#13".  Each successive group of five readings are items                        
+#consecutively produced at times about one hour apart.  From Eugene            
+#L. Grant, Statistical Quality Control, McGraw-Hill, 1946.                     
+
+18.  GRUEN.1
+Quarterly unit sales of the SPSS Manual, 1976:1-1982:4                         
+#Quarterly unit sales of the SPSS Manual, Second Edition, from                 
+#1976:1 through 1982:4.  (SPSS is a leading statistical computing              
+#package; the manual was actually sold through McGraw-Hill, Inc.)              
+
+19.  HALSEY.1
+Degree days per heating in Chicago, 1931:2 - 1977:8, monthly                   
+#DEGREE DAYS PER HEATING YEAR IN CHICAGO, 1931-2 TO 1977-8.                    
+#A DEGREE DAY IS THE DIFFERENCE BETWEEN 65 DEGREES F. AND THE ACTUAL           
+#DAILY MEAN TEMPERATURE IF THE LATTER IS 65 DEGREES OR LESS;                   
+#OTHERWISE THE VALUE IS ZERO.  THE SUM OF DEGREE DAYS FROM JULY 1              
+#THROUGH THE FOLLOWING JUNE 30 -- DDAYS -- IS A MEASURE OF COLD WEATHER        
+#SEVERITY.                                                                     
+
+20.  HARBOR.1
+Mean July water level, Harbor Beach, Michigan, 1860-1986                       
+#Mean July average water surface elevation, in feet, IGLD (1955)               
+#for Harbor Beach, Michigan, on Lake Huron, Station 5014.  1860--1986.         
+#Source: Great Lakes Water Levels, 1860-1986. U.S. Dept. of Commerce,          
+#National Oceanic and Atmospheric Administration, National Ocean Survey.       
+
+21.  IBM.1
+Monthly returns, IBM common stock. Jan. 1961-Dec. 1967.                        
+#see also NYSE.1, ATT.1                                                        
+
+22.  IPI.1
+IMPLICIT PRICE INDEX  1890-1974, U.S.                                          
+
+23.  IRONSU.3
+39 daily observations, blast furnace data (bof, sulfur, coke)                  
+#39 DAILY OBSERVATIONS OF:                                                     
+#BOF--SULFUR IN BASIC OXYGEN STEEL                                             
+#SULFUR--SULFUR IN HOT METAL                                                   
+#COKE--MOISTURE IN COKE USED                                                   
+#FOR A BLAST FURNACE OPERATION                                                 
+# BOF    SULFUR      COKE                                                      
+
+24.  ISH66.1
+Quality control data, 5 measurements per day                                   
+#Data from Ishikawa, *Guide to Quality Control*, Table 7.2, page 66.           
+#Each row shows five measurements taken at successive times on a given day:    
+#6:00, 10:00, 14:00, 18:00, and 22:00.  Thus the 25 rows represent 25 days,    
+#which we shall assume to be consecutive working days.                         
+
+25.  JOE.3
+#Three monthly series for the period 1954:1 to 1985:12.                        
+#The first  series is the commercial paper rate, expressed by the annual       
+#percentage rate, e.g. 8.36.                                                   
+#The second series is the monthly return on the S&P 500 index.                 
+#The third series is the return, before transaction costs, to an               
+#investment strategy based on the commercial paper rate.                       
+
+26.  LAKEMICH.1
+Highest mean monthly level, Lake Michigan, 1860-1955                           
+#Lake Michigan-Huron, highest monthly mean level for each calendar year,       
+#1860-1955.  (Add 500 to get height in feet above sea level.)                  
+
+27.  LYNDPIN.2
+Annual Domestic Sales and Adverstising, Pinkham Medicine, 1907-60              
+#Annual domestic sales and advertising of Lydia E. Pinkham Medicine            
+#Company, 1907-1960 (in $1000).  Source: Kristian S. Palda, The                
+#Measurement of Cumulative Advertising Effects,  Prentice-Hall,                
+#Englewood Cliffs, N.J., 1964, page 23.                                        
+#AD: advertising                                                               
+#SA: sales                                                                     
+
+28.  M.1
+MONEY SUPPLY (BILLION DOLLARS)  1890-1974, U.S.                                
+
+29.  NYSE.1
+Monthly returns, NYSE. Jan. 1961-Dec. 1967.                                    
+#see also ATT.1, IBM.1                                                         
+
+30.  PGREATL.1
+Annual precipitation, inches, Great Lakes, 1900-1986                           
+#Source: Great Lake Water Levels, U.S. Dept of Commerce, Rockville MD          
+#        U.S. Lake Survey, Detroit, MI, US Army Corps of Engineers             
+
+31.  PLHURON.1
+Annual precipitation, inches, Lake Huron, 1900-1986                            
+#Source: Great Lake Water Levels, U.S. Dept of Commerce, Rockville MD          
+#        U.S. Lake Survey, Detroit, MI, US Army Corps of Engineers             
+
+32.  PLMICH.1
+Annual precipitation, inches, Lake Michigan, 1900-1986                         
+#Source: Great Lake Water Levels, U.S. Dept of Commerce, Rockville MD          
+#        U.S. Lake Survey, Detroit, MI, US Army Corps of Engineers             
+
+33.  PLSUPER.1
+Annual precipitation, inches, Lake Superior, 1900-1986                         
+#Source: Great Lake Water Levels, U.S. Dept of Commerce, Rockville MD          
+#        U.S. Lake Survey, Detroit, MI, US Army Corps of Engineers             
+
+34.  RGNP.1
+REAL GNP IN BILLIONS OF DOLLARS, USA, 1890-1974                                
+
+35.  ROCKY.1
+Rockwell hardness, 100 coils produced in sequence at a Chicago Steel Mill      
+#ROCKWELL HARDNESS (MEASURED ON ROCKWELL "B" SCALE) OF A SAMPLE OF 100 STEEL   
+#COILS PRODUCED IN SEQUENCE IN A CHICAGO STEEL MILL.                           
+
+36.  SCHOLES.1
+Scholes Index for NYSE, 1963:4-1971:7                                          
+#RETV: SCHOLES INDEX FOR NYSE: VALUE-WEIGHTED RETURNS WITH REINVESTMENT OF     
+#      DIVIDENDS                                                               
+#see also, tbills.1, ccpi.1                                                    
+
+37.  SKIRTS.1
+Diameter of skirts at hem, 1866-1911, annual                                   
+#see also beards.1                                                             
+#SEE MARIJA NORUSIS'S 1981 SPSS PRIMER FOR DETAILS AND                         
+#ADDITIONAL DATA EXTENDING BACK TO 1842 AND FORWARD TO 1953                    
+
+38.  SNOW.1
+Chicago Snowfall, 1939-78                                                      
+#CHICAGO SNOWFALL DATA FOR 40 YEARS, TOTAL IN INCHES, STARTING WITH 1939 AND   
+#ENDING WITH 1978.                                                             
+
+39.  TBILLS.1
+One-month return on U.S. Treasury Bills, 1963:4-1971:7                         
+#see also, ccpi.1, scoles.1                                                    
+
+40.  U.1
+Civilian unemployment rate  1890-1974, U.S.                                    
+
+41.  VELMON.1
+Velocity of money, U.S. economy, 1869-1960, annual                             
+#FRIEDMAN AND SCHWARTZ DATA ON VELOCITY OF MONEY FOR THE AMERICAN              
+#ECONOMY FROM 1869 TO 1960.                                                    
+
+42.  YULE1.1
+Standardized mortality per 1000 persons, England, 1866-1911                    
+#see also yule2.1                                                              
+#ANNUAL DATA FOR 1866-1911                                                     
+#MORTAL: STANDARDIZED MORTALITY PER 1000 PERSONS IN ENGLAND AND WALES          
+#MARRAG:  PROPORTION OF CHURCH OF ENGLAND MARRIAGES PER 1000 OF                
+#         ALL MARRIAGES                                                        
+#SOURCE: G. UDNY YULE, "WHY DO WE SOMETIMES GET NONSENSE-CORRELATIONS          
+#BETWEEN TIME-SERIES?", JOURNAL OF THE ROYAL STATISTICAL SOCIETY, 89,          
+#JANUARY, 1926, 1-69.  NUMBERS READ FROM GRAPH ON PAGE 3. YULE'S               
+#CORRELATION FROM ORIGINAL DATA IS 0.9512.  CORRELATION COMPUTED FROM          
+#NUMBERS IS 0.9515.                                                            
+#MORTAL                                                                        
+
+43.  YULE2.1
+Proportion of Church of England Marriages/1000 persons, England, 1866-1911     
+#see also yule2.1                                                              
+#ANNUAL DATA FOR 1866-1911                                                     
+#MORTAL: STANDARDIZED MORTALITY PER 1000 PERSONS IN ENGLAND AND WALES          
+#MARRAG:  PROPORTION OF CHURCH OF ENGLAND MARRIAGES PER 1000 OF                
+#         ALL MARRIAGES                                                        
+#SOURCE: G. UDNY YULE, "WHY DO WE SOMETIMES GET NONSENSE-CORRELATIONS          
+#BETWEEN TIME-SERIES?", JOURNAL OF THE ROYAL STATISTICAL SOCIETY, 89,          
+#JANUARY, 1926, 1-69.  NUMBERS READ FROM GRAPH ON PAGE 3. YULE'S               
+#CORRELATION FROM ORIGINAL DATA IS 0.9512.  CORRELATION COMPUTED FROM          
+#NUMBERS IS 0.9515.                                                            
+# MARRAG                                                                       

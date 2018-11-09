@@ -1,0 +1,18 @@
+Changes In Global Temperature, Annual, 1880-1985
+#Surface air "temperature change" for the globe, 1880-1985. 
+#Degrees Celsius. "Temperature change" actually means temperature 
+#against an arbitrary zero point.  
+#From James Hansen and Sergej Lebedeff, "Global Trends of Measured
+#Surface Air Temperature", `Journal of Geophysical Research`, Vol. 92, 
+#No. D11, pages 13,345-13,372, November 20, 1987.
+-.40    -.37    -.43    -.47    -.72    -.54    -.47    -.54    -.39    -.19
+-.40    -.44    -.44    -.49    -.38    -.41    -.27    -.18    -.38    -.22
+-.03    -.09    -.28    -.36    -.49    -.25    -.17    -.45    -.32    -.33
+-.32    -.29    -.32    -.25    -.05    -.01    -.26    -.48    -.37    -.20
+-.15    -.08    -.14    -.13    -.12    -.10     .13    -.01     .06    -.17
+-.01     .09     .05    -.16     .05    -.02     .04     .17     .19     .05
+ .15     .13     .09     .04     .11    -.03     .03     .15     .04    -.02
+-.13     .02     .07     .20    -.03    -.07    -.19     .09     .11     .06
+ .01     .08     .02     .02    -.27    -.18    -.09    -.02    -.13     .02
+ .03    -.12    -.08     .17    -.09    -.04    -.24    -.16    -.09     .12
+ .27     .42     .02     .30     .09     .05

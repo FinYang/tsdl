@@ -1,0 +1,77 @@
+This data was compiled from published meteorological data by Tessema
+ Astatkie and used for nonlinear time series modelling in his Ph.D.
+ Thesis, Queens University (1994) "Modulated Threshold Time Series
+ Models". (D. Watts and E.Watt faculty advisors).
+
+The units for flow are cms (cubic meters per second).
+The units for temperature are degrees Celsius
+The units for precipitation are in mm.
+
+Acknowledgment: I would like to thank Tessema Astatkie for sending
+ this data to me via e-mail.
+
+Brief Summary Of The Data Files In The Directory mhsets/astatkie
+
+1.  FISHER.1
+Mean daily flow, cms, Fisher River near Dallas, Jan 1 1988 - Dec 31 1991       
+#Station number 05SD003                                                        
+#Latitude 51-21 N                                                              
+#Longitude 97-30 W                                                             
+
+2.  FISHERP.1
+Total daily precipitation, mm, Jan 1 1988 - Dec 31 1991, Fisher Basin          
+#Station Name: Hodgson 2                                                       
+#Latitude: 51-11 N                                                             
+#Longitude: 97-27 W                                                            
+
+3.  FISHERT.1
+Mean daily temperature, deg C, Jan 1 1988 - Dec 31 1991                        
+#Station Name: Hodgson 2                                                       
+#Latitude: 51-11 N                                                             
+#Longitude: 97-27 W                                                            
+
+4.  OLDMAN.1
+Oldman River near Brocket, mean daily flow, cms, Jan 1 1988 - Dec 31 1991      
+#Station Number: 05AA024                                                       
+#Latitude: 49-33 N                                                             
+#Longitude: 113-49 W                                                           
+
+5.  OLDMANP.1
+Precipitation, mm, Jan 1 1988 - Dec 31 1991, Oldman River basin                
+#Station Name: Pincher Creek (Jan 1, 1988 - Aug 31 1989 and Jan 1 1900 -       
+#                             Dec 31 1991)                                     
+#              Latitude: 49-31 N                                               
+#              Longitude: 114-00 W                                             
+#                                                                              
+#              Lethbridge A (Sept 1 1989 - Dec 31 1989)                        
+#              Latitude:  49-38 N                                              
+#              Longitude: 112-48 W                                             
+
+6.  OLDMANT.1
+Mean daily temperature, C, Jan 1 1988 - Dec 31 1991, Oldman basin              
+#Station Name: Pincher Creek (Jan 1, 1988 - Aug 31 1989 and Jan 1 1900 -       
+#                             Dec 31 1991)                                     
+#              Latitude: 49-31 N                                               
+#              Longitude: 114-00 W                                             
+#                                                                              
+#              Lethbridge A (Sept 1 1989 - Dec 31 1989)                        
+#              Latitude:  49-38 N                                              
+#              Longitude: 112-48 W                                             
+
+7.  SAUGEEN.1
+Mean daily flow, cms, Saugeen River near Port Elgin, Jan 1 1988 - Dec 31 1991  
+#Station number: 02FC001                                                       
+
+8.  SAUGEENP.1
+Precipitation, mm, Jan 1 1988 - Dec 31 1991, Saugeen basin                     
+#Station Name: Paisley                                                         
+#Station Number: 6126210                                                       
+#Longitude: 44-16 N                                                            
+#Latitude: 81-22 W                                                             
+
+9.  SAUGEENT.1
+Mean daily temperature, C, Jan 1 1988 - Dec 31 1991, Saugeen basin             
+#Station Name: Paisley                                                         
+#Station Number: 6126210                                                       
+#Longitude: 44-16 N                                                            
+#Latitude: 81-22 W                                                             

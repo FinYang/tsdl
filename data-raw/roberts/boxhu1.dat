@@ -1,0 +1,7 @@
+#Yields of 20 consecutive batches of a chemical process.  
+#The first 10 batches were run under a standard process and the
+#second 10 under a modified process aimed at increasing mean
+#yield.  Source: Box, Hunter, and Hunter, Statistics for
+#Experimenters, Wiley, 1978.
+89.7 81.4 84.5 84.8 87.3 79.7 85.1 81.7 83.7 84.5 84.7 86.1 83.2 91.9
+86.3 79.3 82.6 89.1 83.7 88.5

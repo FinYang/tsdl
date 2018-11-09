@@ -1,0 +1,19 @@
+THOMPSTONE data directory
+Quarter-monthly (i.e., s=48) hydrological time series used in the article
+"Forecasting quarter-monthly riverflow" by R.M. Thompstone, K.W. Hipel and
+A.I. McLeod (1985), Water Resources Bulletin, Vol.21 No.5, pp.731-741
+See also:
+A.I. McLeod, D.J. Noakes, K.W. Hipel & R.M. Thompstone (1987). ``Combining 
+hydrologic forecasts''. Journal of the American Society of Civil Engineers, 
+Water Resources Planning and Management Division, V.113, pp.29-41.
+
+Brief Summary Of The Data Files In The Directory mhsets/thompsto
+
+1.  LACSTJIN.1
+Lac St-Jean Reservoir, quarter-monthly inflows, 1953-82                        
+
+2.  LACSTJRA.1
+Lac St-Jean Region, quarter-monthly rainfall, 1953-82                          
+
+3.  LACSTJSN.1
+Fonte de neige par quart de mois, 1953-82, Bassin Daval                        

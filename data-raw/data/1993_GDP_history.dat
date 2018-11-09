@@ -1,0 +1,73 @@
+Gross Domestic Product 1929-93
+;-US National Income & Product Accounts
+;       reconstructed historical figures (conversion from using GNP to GDP figures)
+;       recent quarterly figures -World Almanac/Bureau of Economic Anal/US Dept Commerce 1988 to 93
+;GDP in Billions, collected by p.henshaw 1993
+;1959-88 in 1987 dollars seasonally adjusted quarterly 
+;1929-58 in 1987 dollars 1951-58 seasonally adjusted quarterly 
+year     ,GDP
+1929     ,821.8
+1930     ,748.9
+1931     ,691.3
+1932     ,599.7
+1933     ,587.1
+1934     ,632.6
+1935     ,681.6
+1936     ,777.9
+1937     ,811.4
+1938     ,778.9
+1939     ,840.7
+1940     ,906.0
+1941     ,1070.6
+1942     ,1284.9
+1943     ,1540.4
+1944     ,1670.0
+1945     ,1602.6
+1946     ,1272.1
+1948     ,1252.8
+1949     ,1300.0
+1950     ,1305.5
+1951     ,1418.5
+1952     ,1558.4
+1953     ,1624.9
+1954     ,1685.5
+1955     ,1673.8
+1956     ,1768.3
+1957     ,1838.2     (;gnp in 1957$ factor = .246165 first used)
+1958     ,1829.1     ;gnp 456.8 conversion to 1958 $ = .24974
+1959     ,1928.8
+1960     ,1970.8
+1961     ,2023.8
+1962     ,2128.1
+1963     ,2215.6
+1964     ,2340.6
+1965     ,2470.5
+1966     ,2616.2
+1967     ,2685.2
+1968     ,2796.9
+1969     ,2873.0
+1970     ,2873.9
+1971     ,2955.9
+1972     ,3107.1
+1973     ,3268.6
+1974     ,3248.1
+1975     ,3221.7
+1976     ,3380.8
+1977     ,3533.3
+1978     ,3703.5
+1979     ,3796.8
+1980     ,3776.3
+1981     ,3843.1            ;   /almanac/cpi               10.3
+1982     ,3760.3            ;   /almanac/cpi                6.2
+1983     ,3906.6            ;   /almanac/cpi                3.2
+1984     ,4148.5            ;   /almanac/cpi                4.3
+1985     ,4279.8            ;   /almanac/cpi                3.6
+1986     ,4404.5            ;   /almanac/cpi                1.9 =>  0.9813   (next/(1+%))
+1987     ,4539.9            ;   /almanac/cpi      ;cpi ch         = 1.0    (base yr)
+1988     ,4718.6            ;   /almanac/cpi      ;cpi ch 4.1     = 1.041  (last*(1+%))
+1989                        ;   /almanac/cpi      ;cpi ch p*1.048 = 1.090 for 87 corr
+1990     ,4784.6    ;5513.8 ;cur/almanac/cpi      ;cpi ch p*1.054 = 1.150 for 87 corr
+1991     ,4739.2    ;5677.5 ;cur/almanac/cpi      ;cpi ch p*1.042 = 1.198 for 87 corr
+1992     ,4822.3    ;5950.7 ;cur/almanac/cpi      ;cpi ch p*1.03  = 1.234
+1993     ,4835.0    ;6145.8 ;cur/almanac 1st Quar ;cpi ch p*1.03  = 1.271
+                    1993 corr from 4812.0 to

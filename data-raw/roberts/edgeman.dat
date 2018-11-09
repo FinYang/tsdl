@@ -1,0 +1,57 @@
+Measurements of center thickness and axial difference
+#Measurements of center thickness (in mils) and axial difference (in mils) of
+#25 contact lenses pulled from the production process at regular intervals.
+#Tolerances: 0.4 mil +/- 0.01 mil for center thickness; axial difference must
+#be less than 0.0025 mil.
+#Taken from Rick L. Edgeman and Susan B. Athey, "Digidot Plots for Process
+#Surveillance", Quality Progress, May, 1990, 66-68.
+.3978   
+.4019   
+.4031   
+.4044   
+.3984   
+.3972   
+.3981   
+.3947   
+.4012   
+.4043   
+.4051   
+.4016   
+.3994   
+.3999   
+.4062   
+.4048   
+.4071   
+.4015   
+.3991   
+.4021   
+.4009   
+.3988   
+.3994   
+.4016   
+.4010   
+  .0009
+  .0007
+  .0012
+  .0011
+  .0015
+  .0018
+  .0017
+  .0022
+  .0014
+  .0018
+  .0010
+  .0006
+  .0007
+  .0011
+  .0014
+  .0012
+  .0011
+  .0015
+  .0010
+  .0009
+  .0013
+  .0014
+  .0016
+  .0011
+  .0019

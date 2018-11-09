@@ -1,0 +1,12 @@
+A case study with monthly riverflow, precipitation and temperature.
+
+Brief Summary Of The Data Files In The Directory mhsets/sanfran
+
+1.  FLOW.1
+SAN FRANCISCO RIVER, GLENWOOD, CMS, MONTHLY, 1928-1966                         
+
+2.  PRECIP.1
+MONTHLY PRECIPITATION, MM, SOUTHWESTERN MOUNTAIN REGION, 1932-1966             
+
+3.  TEMPER.1
+MONTHLY MEAN TEMPERATURES, SOUTHWESTERN MOUNTAIN REGION, F., 1932-1966         

@@ -1,0 +1,103 @@
+Miscellaneous monthly time series.
+
+Brief Summary Of The Data Files In The Directory mhsets/monthly
+
+
+1.  AROSA.1
+ozone, arosa, 1932-72, i=23,63,235,275,462                                     
+
+2.  AZUSA.1
+Ozone concentration, AZUSA, 1956.1-1970.12                                     
+
+3.  BAYDU.1
+Bay du Nord River, monthly flow, 1953-81, missing values at 327,328            
+#used as a covariate with the Piper's Hole River dataset                       
+
+4.  CO2.1
+Co_2  (ppm) Mauna Loa. 1965.1-1980.12                                          
+
+5.  CPI.1
+Monthly CPI, Canada, 1950-73                                                   
+
+6.  DESCRIBE
+Brief Summary Of The Data Files In The Directory c:\hmsets\monthly             
+
+7.  ELBE.1
+ELBE RIVER, MONTHLY RIVERFLOWS, 300 VALUES                                     
+
+8.  ENGINES.1
+Motor vehicles engines and parts/CPI Canada, 1976.5-1991.12. IV=164            
+
+9.  FRASER.1
+Fraser River at Hope, 1913.3-1990.12                                           
+
+10.  FURNAS.DAT
+ 006 FURNAS - VAZOES MEDIAS MENSAIS (M3/S) - 1931 A 1978                       
+
+11.  GUELPH.1
+Phosphorous Data,Speed River,Guelph,1972.1-1977.12,IV=26,ms=6,19,25,41         
+
+12.  HANKOU.1
+Monthly Flows, Chang Jiang at Han Kou, 1865-1979                               
+
+13.  NIAGARA.1
+NIAGARA RIVER AT QUEENSTON - STATION NO. 02HA003, 1860-1990                    
+#MONTHLY MEAN DISCHARGES IN CUBIC METRES PER SECOND FOR THE PERIOD OF RECORD   
+#LOCATION -  LAT   43:09:25N    DRAINAGE AREA    686000 km2                    
+#            LONG  079:02:50W   REGULATED SINCE 1955                           
+
+14.  NIGERIA.1
+NIGERIA POWER CONSUMPTION, 123 VALUES                                          
+
+15.  NILEMON.1
+Mean monthly Nile river flow, cms, at Aswan, 1870.3-1932.12                    
+
+16.  OZONE.1
+Ozone concentration, downtown L.A., 1955.1-1972.12                             
+
+17.  PEAS.1
+PRECIPITATION IN MM., Monthly, EASTPORT, USA, 1887-1950                        
+
+18.  PIPER.1
+Piper's Hole River, mean monthly flow, 1953-81, fire at 104-6                  
+
+19.  PPHIL.1
+MONTHLY PRECIPITATION, MM., PHILADELPHIA, 1820-1950                            
+
+20.  README
+Miscellaneous monthly time series.                                             
+
+21.  REDDEER.1
+MONTHLY RIVERFLOW OF RED DEER RIVER AT RED DEER ALBERTA, 1942-74               
+
+22.  RIOTIETE.1
+VAZOES MEDIAS MENSAIS DO RIO TIETE - POSTO CUMBICA - 1948 A 1978               
+
+23.  SALESX.1
+Sales of company x, January 1965 to May 1971                                   
+#from paper of Chatfield and Prothero, JRSS A (1973)                           
+#Box-Jenkins seasonal forecasting: problems in a case study                    
+
+24.  SSASK.1
+S. SASK. RIVER AT SASKTOON- 780 MONTHLY FLOWS IN CMS-JAN 1912 TO DEC 1974      
+
+25.  SUNSPTMO.1
+Zurich Monthly Sunspot Numbers 1749 - 1983                                     
+
+26.  TPMON.1
+MONTHLY TEMPERATURES IN ENGLAND (F), 1723-1970, 2976 VALUES                    
+
+27.  TSEOIL.1
+Shartes traded in Oil and Mining stock, TSE, iv=320                            
+#Kuiwait invasion occurred at t=320                                            
+
+28.  WOODS.1
+LAKE OF THE WOODS AT WARROAD - STATION NO. 05PD001                             
+#MONTHLY MEAN WATER LEVELS IN METRES FOR THE PERIOD OF RECORD                  
+#1916-1965                                                                     
+#LOCATION -  LAT   48:54:20N                                                   
+#            LONG  095:19:00W   REGULATED                                      
+#WATER LEVELS REFERRED TO LAKE OF THE WOODS DATUM                              
+
+29.  WQLONDON.1
+London, Ontario, Monthly Water Useage, 1966-1988 (Ml/day)                      

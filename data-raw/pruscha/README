@@ -1,0 +1,18 @@
+Temperature time series data for Munich-Riem, 1981-1984 from
+"A note on time series analysis of yearly temperature data",
+Journal of the Royal Statistical Society, A, Vol. 149, Part 2,
+pp. 174--185 by Helmut Pruscha (1984).
+
+Acknowledgment: I would like to thank Professor Pruscha for sending
+ this data to me via e-mail.
+
+Brief Summary Of The Data Files In The Directory mhsets/pruscha
+
+1.  SUMMER.1
+Mean summer temperature (153 days) Deg C., 1781-1988,, Munich-Riem             
+
+2.  WINTER.1
+Winter negative temperature sum, deg. C., 1781-1988, Munich-Riem               
+
+3.  YEAR.1
+Mean annual temperature, Deg C., 1781-1988,, Munich-Riem                       

@@ -1,0 +1,30 @@
+Wisconsin employment time series.
+  Contains time series of employment, in units of 1000 employees,
+of various industries in Wisconsin. 
+
+Miller and Wichern (1977) fit seasonal ARIMA models to these time 
+series data in their book. McLeod (1993) pointed out that some
+of these time series exhibit periodic correlation. The data are
+listed in Miller and Wichern's book.
+
+REFERENCES:
+Miller, R.B. & Wichern, D.B. (1977). "Intermediate Business Statistics" 
+San Francisco: Holden-Day.
+
+McLeod, A.I. (1993). "Parsimony, Model Adequacy and Periodic Correlation
+in Time Series Forecasting", International Statistical Review,
+Vol. 61, pp.387--393.
+
+Brief Summary Of The Data Files In The Directory mhsets/wisconsi
+
+1.  FOOD.1
+Food and Kindred Products, Jan 1961-Oct 1975                                   
+
+2.  METALS.1
+Fabricated Metals                                                              
+
+3.  TRADE.1
+Trade, Jan 1961-Oct 1975                                                       
+
+4.  TRANEQ.1
+Transportation Equipment, Jan 1961-Oct 1975                                    

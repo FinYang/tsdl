@@ -1,0 +1,33 @@
+Contains quarterly U.K. economic time series from a case study reported
+by D.L. Prothero and K.F. Wallis (1976), "Modelling macroeconomic time
+series (with discussion)", Journal of the Royal Statistical Society, A,
+Vol.139, Part 4, pp.468-500.
+
+Prothero and Wallis fitted several models to each series and compared
+their performance with a multivariate model.
+
+Acknowledgment: I would like to thank D.L. Prothero for sending
+ this data to me.
+
+Brief Summary Of The Data Files In The Directory mhsets/prothero
+
+1.  CD.1
+CD(1), CONSUMER EXPENDITURE ON DURABLE GOODS, QUARTERLY                        
+
+2.  CN.1
+CN(2), CONSUMER EXPENDITURE ON ALL OTHER GOODS AND SERVICES, QUARTERLY         
+
+3.  I.1
+I(3), INVESTMENT, QUARTERLY                                                    
+
+4.  IV.1
+IV(4), INVENTORY INVESTMENT, QUARTERLY                                         
+
+5.  M.1
+M(5), IMPORTS OF GOODS AND SERVICES, QUARTERLY                                 
+
+6.  Y.1
+Y(7), GROSS DOMESTIC PRODUCT, QUARTERLY                                        
+
+7.  YD.1
+YD(6), PERSONAL DISPOSABLE INCOME, QUARTERLY                                   

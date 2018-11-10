@@ -6,9 +6,55 @@
   y
 }
 
+#' @export
+print.tsdl <- function(x,...){
+  n <- length(x)
+  subject <- sapply(x, function(x) attr(x, "subject"))
+  frequency <- sapply(x, function(x) attr(x, "tsp")[3])
+
+  tsub <- NULL
+  tfre <- NULL
+  if(length(unique(subject))==1)
+    tsub <- subject[1]
+  if(length(unique(frequency))==1)
+    tfre <- frequency[1]
+
+  cat(paste0("Time Series Data Library: ",n,
+             switch(is.null(tsub)+1, paste0(" ",tsub), NULL),
+             " time series ",
+             switch(is.null(tfre)+1, paste0("with frequency ",tfre), NULL)),
+      "\n\n")
+  tab1 <- table(subject,frequency, dnn = c("Subject","Frequency"))
+  # Unique frequency and subject
+  if(length(unique(subject))==1 && length(unique(frequency))==1)
+    return(print(tab1))
+  csum <- margin.table(tab1,2)
+  tab2 <- as.table(rbind(tab1,Total=csum))
+  # Single frequency
+  if(length(unique(frequency))==1){
+    names(dimnames(tab2))  <-  c("Subject","Frequency")
+    return(print(tab2))
+  }
+  # Single subject
+  if(length(unique(subject))==1){
+    rsum <- margin.table(tab1,1)
+    tab3 <- as.table(cbind(tab1,Total=rsum))
+
+  } else {
+    # Multiple subject and frequency
+    rsum <- margin.table(tab2,1)
+    tab3 <- as.table(cbind(tab2,Total=rsum))
+  }
+  names(dimnames(tab3))  <-  c("Subject","Frequency")
+  return(print(tab3))
+}
+
+
+
 
 tsdl_sub <- function(x,getdata){
 
+  # Character Subject
   if(is.character(getdata)){
     subject <- tolower(sapply(x, function(x) attr(x, "subject")))
     subjecttable <- unique(subject)
@@ -21,6 +67,7 @@ tsdl_sub <- function(x,getdata){
 
     choose <- subject %in% getdata
   }
+  # Numeric Frequency
   if(is.numeric(getdata)){
     frequency <- sapply(x, function(x) attr(x, "tsp")[3])
     choose <- frequency %in% getdata
@@ -34,16 +81,19 @@ tsdl_sub <- function(x,getdata){
 
 tsdl_addl <- function(x,getdata,field){
 
+  # Numeric Start
   if(is.numeric(getdata)){
     start <- sapply(x, function(x) attr(x, "tsp")[1])
     choose <- start %in% getdata
   }
-
+  # Character
   if(is.character(getdata)){
+    # Source
     if(field %in% "source"){
       source <- sapply(x, function(x) attr(x, "source"))
       choose <- grepl(getdata, source)
     } else {
+      # Description
       description <- sapply(x, function(x) attr(x, "description"))
       choose <- grepl(getdata, description)
     }
@@ -87,17 +137,26 @@ tsdl_addl <- function(x,getdata,field){
 #'
 #' @keywords data
 #' @examples
-#'
 #' # Subset by frequency
 #' tsdl_quarterly <- subset(tsdl,4)
+#' tsdl_quarterly
+#'
 #' # Subset by frequency and subject
 #' tsdl_daily_industry <- subset(tsdl,365,"Industry")
+#' tsdl_daily_industry
+#'
 #' # Subset by source
 #' tsdl_abs <- subset(tsdl, source = "Australian Bureau of Statistics")
+#' tsdl_abs
+#'
 #' # Subset by starting year
 #' tsdl_1948 <- subset(tsdl, start = 1948)
+#' tsdl_1948
+#'
 #' # Subset by description
 #' tsdl_nettraffic <- subset(tsdl, description = "Internet traffic")
+#' tsdl_nettraffic
+#'
 #' @export
 #'
 subset.tsdl <- function(x,cond1,cond2,...){

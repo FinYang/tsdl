@@ -38,17 +38,26 @@ for \code{cond1} and \code{cond2} denoting subject.
 Partial matching used for both conditions.
 }
 \examples{
-
 # Subset by frequency
 tsdl_quarterly <- subset(tsdl,4)
+tsdl_quarterly
+
 # Subset by frequency and subject
 tsdl_daily_industry <- subset(tsdl,365,"Industry")
+tsdl_daily_industry
+
 # Subset by source
 tsdl_abs <- subset(tsdl, source = "Australian Bureau of Statistics")
+tsdl_abs
+
 # Subset by starting year
 tsdl_1948 <- subset(tsdl, start = 1948)
+tsdl_1948
+
 # Subset by description
 tsdl_nettraffic <- subset(tsdl, description = "Internet traffic")
+tsdl_nettraffic
+
 }
 \seealso{
 \code{\link{tsdl}}

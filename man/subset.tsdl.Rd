@@ -9,15 +9,16 @@
 \arguments{
 \item{x}{TSDL data or a subset of TSDL data}
 
-\item{cond1}{Subject (type) or frequency of the data. Subject is a character variable and
-frequency is a numeric variable.}
+\item{cond1, cond2}{Optional conditions specifying subject (type) or frequency of the data.
+Character variable would be recognised as subject
+and numeric variable would be recognised as frequency. Positions are interchangeable.}
 
-\item{cond2}{Optional second condition specifying type or period of the
-data, depending on \code{cond1}.  If \code{cond1} denotes subject then
-\code{cond2} would denote frequency, but if \code{cond1} denotes frequency then
-\code{cond2} would denote subject.}
-
-\item{...}{Other arguments.}
+\item{...}{Other arguments specifying conditions for where to search and what to search.
+\describe{
+\item{\code{start}}{Numeric variable specifying starting year of the series.}
+\item{\code{description}}{String to be matched in the description attribute of the time series.}
+\item{\code{source}}{String to be matched in the source attribute of the time series.}
+}}
 }
 \value{
 An object of class \code{tsdl} consisting of the selected series.
@@ -38,8 +39,16 @@ Partial matching used for both conditions.
 }
 \examples{
 
-tsdl.quarterly <- subset(tsdl,4)
-tsdl.daily.industry <- subset(tsdl,365,"Industry")
+# Subset by frequency
+tsdl_quarterly <- subset(tsdl,4)
+# Subset by frequency and subject
+tsdl_daily_industry <- subset(tsdl,365,"Industry")
+# Subset by source
+tsdl_abs <- subset(tsdl, source = "Australian Bureau of Statistics")
+# Subset by starting year
+tsdl_1948 <- subset(tsdl, start = 1948)
+# Subset by description
+tsdl_nettraffic <- subset(tsdl, description = "Internet traffic")
 }
 \seealso{
 \code{\link{tsdl}}

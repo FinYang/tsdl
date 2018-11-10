@@ -35,5 +35,7 @@ Hyndman, R.J. "Time Series Data Library",
 }
 \author{
 Rob Hyndman
+
+Yangzhuoran Yang
 }
 \keyword{datasets}

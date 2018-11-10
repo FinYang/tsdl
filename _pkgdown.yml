@@ -1,0 +1,49 @@
+template:
+  params:
+    bootswatch: flatly
+
+authors:
+  Rob Hyndman:
+    href: http://robjhyndman.com
+
+navbar:
+  structure:
+    left:
+    - home
+    - intro
+    - reference
+    - articles
+    - tutorials
+    - news
+    right: github
+  components:
+    home:
+      icon: fa-home fa-lg
+      href: index.html
+    reference:
+      text: Reference
+      href: reference/index.html
+    intro:
+      text: Get started
+      href: articles/tsdl.html
+    news:
+      text: Changelog
+      href: news/index.html
+    github:
+      icon: fa-github fa-lg
+      href: https://github.com/FinYang/tsdl
+
+
+
+
+
+reference:
+- title: Data
+  desc: "Data from Time Series Data Library"
+  contents:
+  - '`meta_tsdl`'
+  - '`tsdl`'
+- title: Function
+  desc: "Function accompany class tsdl"
+  contents:
+  - '`subset.tsdl`'

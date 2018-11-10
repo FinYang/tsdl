@@ -134,7 +134,7 @@ tsdl_addl <- function(x,getdata,field){
 #'
 #' @seealso \code{\link{tsdl}}
 #' @seealso \code{\link{meta_tsdl}}
-#'
+#' @author Yangzhuoran Yang
 #' @keywords data
 #' @examples
 #' # Subset by frequency

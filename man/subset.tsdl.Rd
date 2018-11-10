@@ -64,4 +64,7 @@ tsdl_nettraffic
 
 \code{\link{meta_tsdl}}
 }
+\author{
+Yangzhuoran Yang
+}
 \keyword{data}

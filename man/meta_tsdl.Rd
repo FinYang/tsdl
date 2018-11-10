@@ -20,7 +20,7 @@ meta_tsdl
 The metadata the Time Series Data Library.
 }
 \examples{
-str(mata_tsdl)
+str(meta_tsdl)
 }
 \references{
 Hyndman, R.J. "Time Series Data Library",
@@ -31,5 +31,7 @@ Hyndman, R.J. "Time Series Data Library",
 }
 \author{
 Rob Hyndman
+
+Yangzhuoran Yang
 }
 \keyword{datasets}

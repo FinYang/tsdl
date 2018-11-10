@@ -12,6 +12,7 @@
 #'   \item{subject}{Subject (or type) of the time series.}
 #' }
 #' @author Rob Hyndman
+#' @author Yangzhuoran Yang
 #' @seealso \code{\link{tsdl}}
 #' @references
 #' Hyndman, R.J. "Time Series Data Library",
@@ -19,5 +20,5 @@
 #'
 #' @keywords datasets
 #' @examples
-#' str(mata_tsdl)
+#' str(meta_tsdl)
 "meta_tsdl"

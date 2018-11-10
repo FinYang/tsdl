@@ -1,0 +1,106 @@
+---
+title: "Introduction to the tsdl package"
+author: "Yangzhuoran Yang"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to the tsdl package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>", 
+  fig.align = "center"
+)
+library(knitr)
+```
+
+
+The Time Series Data Library (TSDL) was created by Rob Hyndman, Professor of Statistics at Monash University, Australia. It includes data from a lot of time series textbooks, as well as many other series that he've either collected for student projects or helpful perople have sent to him.  
+
+The data library was once hosted on Professor Hyndman's personal website since about 1992. In 2012 [it was moved](https://robjhyndman.com/hyndsight/tsdl/) onto [DataMarket](https://datamarket.com/data/list/?q=provider:tsdl) which provides much better facilities for maintaining and using time series data. You can still access the data library from the website or using `rdatamarket` package to read it into R, but `tsdl` package provides a simplier means.  
+
+If you use any data from the TSDL in a publication, please use the following citation:  
+ 
+>Hyndman, R.J. Time Series Data Library, https://datamarket.com/data/list/?q=provider:tsdl. Accessed on \<insert date\>.  
+
+The data files will remain on Professor Hyndman's personal website so that existing links will not be broken.  
+
+## Installation
+
+
+You can install the **development** version from
+[Github](https://github.com/FinYang/tsdl)
+
+```r
+# install.packages("devtools")
+devtools::install_github("FinYang/tsdl")
+```
+
+## Usage
+
+`tsdl` is a list of 648 series of class `tsdl`. Each series within tsdl is of class `ts`.
+
+```{r usage}
+library(tsdl)
+tsdl
+```
+
+To extract series with specific features, one can use function `subset`. The most common way to extract series is to specify `frequency` or `subject` (type) of the series. The position of these two set conditions are interchangeable.  
+
+```{r}
+# Subset by frequency
+tsdl_quarterly <- subset(tsdl,4)
+tsdl_quarterly
+
+# Subset by subject
+tsdl_industry <- subset(tsdl,"Industry")
+tsdl_industry
+
+# Subset by frequency and subject
+tsdl_daily_industry <- subset(tsdl,12,"Industry")
+tsdl_daily_industry
+```
+
+User can also subset the data set using specified `start` year, or keywords in its `source` attribute or `description` attribute.  
+
+```{r}
+# Subset by source
+tsdl_abs <- subset(tsdl, source = "Australian Bureau of Statistics")
+tsdl_abs
+
+# Subset by starting year
+tsdl_1948 <- subset(tsdl, start = 1948)
+tsdl_1948
+
+# Subset by description
+tsdl_nettraffic <- subset(tsdl, description = "Internet traffic")
+tsdl_nettraffic
+```
+
+To access attributes information of the time series, one can directly extract its attributes.
+
+```{r}
+attributes(tsdl[[1]])
+```
+
+The collective attributes information is stored in the data frame `meta_tsdl`. One can also access the possible choices of `subject` and other options when subset time series.  
+
+```{r}
+str(meta_tsdl)
+unique(meta_tsdl$subject)
+```
+
+
+
+## Sources
+
+[Hyndman, R.J. "Time Series Data Library"](https://datamarket.com/data/list/?q=provider:tsdl)
+
+## License
+
+This package is free and open source software, licensed under GPL-3
+

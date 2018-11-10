@@ -63,7 +63,7 @@ tsdl_sub <- function(x,getdata){
     if(length(getdata) != 1)
       stop("Ambiguous data type")
     else if(is.na(getdata))
-      stop("Unknown data type")
+      stop("No data. Check your input data type")
 
     choose <- subject %in% getdata
   }
@@ -142,7 +142,7 @@ tsdl_addl <- function(x,getdata,field){
 #' tsdl_quarterly
 #'
 #' # Subset by frequency and subject
-#' tsdl_daily_industry <- subset(tsdl,365,"Industry")
+#' tsdl_daily_industry <- subset(tsdl,12,"Industry")
 #' tsdl_daily_industry
 #'
 #' # Subset by source

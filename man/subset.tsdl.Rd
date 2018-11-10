@@ -43,7 +43,7 @@ tsdl_quarterly <- subset(tsdl,4)
 tsdl_quarterly
 
 # Subset by frequency and subject
-tsdl_daily_industry <- subset(tsdl,365,"Industry")
+tsdl_daily_industry <- subset(tsdl,12,"Industry")
 tsdl_daily_industry
 
 # Subset by source

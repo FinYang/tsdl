@@ -10,7 +10,7 @@ Maintainer: Yangzhuoran Yang <Fin.Yang@monash.edu>
 Description: The Time Series Data Library (TSDL) https://datamarket.com/data/list/?q=provider:tsdl was created by Rob Hyndman, 
     Professor of Statistics at Monash University, Australia.
 License: GPL-3
-URL: https://github.com/FinYang/tsdl
+URL: https://finyang.github.io/tsdl/, https://github.com/FinYang/tsdl
 BugReports: https://github.com/FinYang/tsdl/issues
 Encoding: UTF-8
 LazyData: true

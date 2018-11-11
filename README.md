@@ -13,7 +13,7 @@ You can install the **development** version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("robjhyndman/Mcomp")
+devtools::install_github("FinYang/tsdl")
 ```
 
 ## Usage

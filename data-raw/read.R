@@ -1,5 +1,15 @@
 tsdl <- read.csv("tsdl.csv",header=TRUE, stringsAsFactors = F)
+ano <- unique(tsdl$Subject)[21]
+tsdl[tsdl$Subject %in% ano, ]$Subject <- "Finance"
 
+# des <- unique(tsdl$Description)
+# for(i in seq_along(des)) {
+#   if(readline() %in% "s") break
+#   print(paste(round(100*i/length(des)),des[i]))
+# }
+
+tree_idx <- grep("\n", tsdl$Description)
+tsdl$Description[tree_idx] <- strsplit(tsdl$Description[tree_idx], "\n")
 
 fname <- function(folder,file)
 {
@@ -77,6 +87,9 @@ meta_tsdl$start[is.na(meta_tsdl$start)] <- 1
 
 tsdl <- tsdl_data
 class(tsdl) <- "tsdl"
+#
 usethis::use_data(tsdl, overwrite = T)
 usethis::use_data(meta_tsdl, overwrite = T)
+
+
 

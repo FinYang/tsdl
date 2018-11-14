@@ -25,7 +25,7 @@ The data library was once hosted on Professor Hyndman's personal website since a
 
 If you use any data from the TSDL in a publication, please use the following citation:  
  
-> Rob Hyndman and Yangzhuoran Yang (2018). tsdl: Time Series Data Library. v0.1.0. https://pkg.yangzhuoranyang.com/tsdl/.  
+> Rob Hyndman and Yangzhuoran Yang (2018). tsdl: Time Series Data Library. v0.1.0. https://FinYang.github.io/tsdl/.  
 
 The data files will remain on Professor Hyndman's personal website so that existing links will not be broken.  
 

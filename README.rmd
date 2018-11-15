@@ -41,7 +41,7 @@ subset(tsdl,"Sales")
 
 ## Sources
 
-Rob Hyndman and Yangzhuoran Yang (2018). tsdl: Time Series Data Library. v0.1.0. https://finyang.github.io/tsdl/
+Rob Hyndman and Yangzhuoran Yang (2018). tsdl: Time Series Data Library. v0.1.0. https://pkg.yangzhuoranyang.com/tsdl/
 
 ## License
 

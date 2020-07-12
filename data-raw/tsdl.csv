@@ -1,30 +1,30 @@
 Folder,File,Source,Description,Frequency,Start,Skip,Subject,Format
-data,abraham1.dat,Abraham & Ledolter (1983),Quarterly Iowa nonfarm income (1948 � 1979),4,1948,0,Macroeconomic,Row
-data,abraham10.dat,Abraham & Ledolter (1983),Monthly demand repair parts large/heavy equip. Iowa 1972 � 1979,12,1972,0,Industry,Row
-data,abraham11.dat,Abraham & Ledolter (1983),Montly av. residential gas usage Iowa (cubic feet)*100 �71 � �79,12,1971,0,Utilities,Row
-data,abraham12.dat,Abraham & Ledolter (1983),Monthly gasoline demand Ontario gallon millions 1960 � 1975,12,1960,0,Sales,Row
-data,abraham13.dat,Abraham & Ledolter (1983),Monthly % changes in Canadian wages and salaries �67 � �75,12,1967,0,Macroeconomic,Row
-data,abraham14.dat,Abraham & Ledolter (1983),Monthly sales of U.S. houses (thousands) 1965 � 1975,12,1965,0,Sales,Row
-data,abraham2.dat,Abraham & Ledolter (1983),Quarterly growth rates of Iowa nonfarm income (1948 � 1979),4,1948,0,Macroeconomic,Row
-data,abraham3.dat,Abraham & Ledolter (1983),Monthly Av. residential electricity usage Iowa city 1971 � 1979,12,1971,0,Utilities,Row
+data,abraham1.dat,Abraham & Ledolter (1983),Quarterly Iowa nonfarm income (1948 – 1979),4,1948,0,Macroeconomic,Row
+data,abraham10.dat,Abraham & Ledolter (1983),Monthly demand repair parts large/heavy equip. Iowa 1972 – 1979,12,1972,0,Industry,Row
+data,abraham11.dat,Abraham & Ledolter (1983),Montly av. residential gas usage Iowa (cubic feet)*100 –71 – –79,12,1971,0,Utilities,Row
+data,abraham12.dat,Abraham & Ledolter (1983),Monthly gasoline demand Ontario gallon millions 1960 – 1975,12,1960,0,Sales,Row
+data,abraham13.dat,Abraham & Ledolter (1983),Monthly % changes in Canadian wages and salaries –67 – –75,12,1967,0,Macroeconomic,Row
+data,abraham14.dat,Abraham & Ledolter (1983),Monthly sales of U.S. houses (thousands) 1965 – 1975,12,1965,0,Sales,Row
+data,abraham2.dat,Abraham & Ledolter (1983),Quarterly growth rates of Iowa nonfarm income (1948 – 1979),4,1948,0,Macroeconomic,Row
+data,abraham3.dat,Abraham & Ledolter (1983),Monthly Av. residential electricity usage Iowa city 1971 – 1979,12,1971,0,Utilities,Row
 data,abraham4.dat,Abraham & Ledolter (1983),Monthly car sales in Quebec 1960-1968,12,1960,0,Sales,Row
 data,abraham5.dat,Abraham & Ledolter (1983),Monthly traffic fatalities in Ontario 1960-1974,12,1960,0,Transport and tourism,Row
-data,abraham6.dat,Abraham & Ledolter (1983),Monthly U.S. housing starts (privately owned 1-family) 1965 � 1975,12,1965,0,Microeconomic,Row
-data,abraham7.dat,Abraham & Ledolter (1983),Quarterly U.S. new plant/equip. expenditures �64 � �76 billions,4,1964,0,Microeconomic,Row
+data,abraham6.dat,Abraham & Ledolter (1983),Monthly U.S. housing starts (privately owned 1-family) 1965 – 1975,12,1965,0,Microeconomic,Row
+data,abraham7.dat,Abraham & Ledolter (1983),Quarterly U.S. new plant/equip. expenditures –64 – –76 billions,4,1964,0,Microeconomic,Row
 data,abraham8.dat,Abraham & Ledolter (1983),Four-weekly totals of beer shipments,13,1,0,Production,Row
-data,abraham9.dat,Abraham & Ledolter (1983),"Monthly diffs yields: mortgages and govt. loans, Holland �61 � �74",12,1961,0,Macroeconomic,Row
+data,abraham9.dat,Abraham & Ledolter (1983),"Monthly diffs yields: mortgages and govt. loans, Holland –61 – –74",12,1961,0,Macroeconomic,Row
 data,adv_sales.dat,Abraham & Ledolter (1983),More advertising and sales data: 36 consecutive monthly sales and advertising expenditures of a dietary weight control product,12,1,0,Sales,Column
 data,andrews10.dat,Andrews & Herzberg (1985),Monthly U.S. male (16-19 years) unemployment figures (thousands) 1948-1981,12,1948,0,Labour market,Row
 data,andrews11.dat,Andrews & Herzberg (1985),Monthly U.S. male (20 years and over) unemployment figures (10**3) 1948-1981,12,1948,0,Labour market,Row
 data,andrews12.dat,Andrews & Herzberg (1985),Monthly U.S. female (16-19 years) unemployment figures (thousands) 1948-1981,12,1948,0,Labour market,Row
 data,andrews13.dat,Andrews & Herzberg (1985),Monthly U.S. female (20 years and over) unemployment figures (10**3) 1948-1981,12,1948,0,Labour market,Row
 data,andrews14.dat,Andrews & Herzberg (1985),Zuerich monthly sunspot numbers 1749-1983,12,1749,0,Physics,Row
-data,andrews15.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot�2B,1,1852,0,Agriculture,Row
+data,andrews15.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot–2B,1,1852,0,Agriculture,Row
 data,andrews16.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 3,1,1852,0,Agriculture,Row
 data,andrews17.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 5,1,1852,0,Agriculture,Row
 data,andrews18.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 6,1,1852,0,Agriculture,Row
 data,andrews19.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 7,1,1852,0,Agriculture,Row
-data,andrews2.dat,Andrews & Herzberg (1985),"Annual number of lynx pelts (Hudson�s Bay company, Canada) 1857 � 1911",1,1857,0,Ecology,Row
+data,andrews2.dat,Andrews & Herzberg (1985),"Annual number of lynx pelts (Hudson–s Bay company, Canada) 1857 – 1911",1,1857,0,Ecology,Row
 data,andrews20.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 8,1,1852,0,Agriculture,Row
 data,andrews21.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 9,1,1852,0,Agriculture,Row
 data,andrews22.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 10,1,1852,0,Agriculture,Row
@@ -35,133 +35,133 @@ data,andrews26.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk 
 data,andrews27.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 15,1,1852,0,Agriculture,Row
 data,andrews28.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 16,1,1852,0,Agriculture,Row
 data,andrews29.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 17,1,1852,0,Agriculture,Row
-data,andrews3.dat,Andrews & Herzberg (1985),"Annual unit price of lynx pelts (Hudson�s Bay company, Canada) 1857 � 1911",1,1857,0,Ecology,Row
+data,andrews3.dat,Andrews & Herzberg (1985),"Annual unit price of lynx pelts (Hudson–s Bay company, Canada) 1857 – 1911",1,1857,0,Ecology,Row
 data,andrews30.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 18,1,1852,0,Agriculture,Row
 data,andrews31.dat,Andrews & Herzberg (1985),Annual yield of grain on Broadbalk field at Rothamsted 1852-1925: plot 19,1,1852,0,Agriculture,Row
-data,andrews32.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�2B,1,1852,0,Agriculture,Row
-data,andrews33.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�3,1,1852,0,Agriculture,Row
-data,andrews34.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�5,1,1852,0,Agriculture,Row
-data,andrews35.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�6,1,1852,0,Agriculture,Row
-data,andrews36.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�7,1,1852,0,Agriculture,Row
-data,andrews37.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�8,1,1852,0,Agriculture,Row
-data,andrews38.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�9,1,1852,0,Agriculture,Row
-data,andrews39.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�10,1,1852,0,Agriculture,Row
+data,andrews32.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–2B,1,1852,0,Agriculture,Row
+data,andrews33.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–3,1,1852,0,Agriculture,Row
+data,andrews34.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–5,1,1852,0,Agriculture,Row
+data,andrews35.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–6,1,1852,0,Agriculture,Row
+data,andrews36.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–7,1,1852,0,Agriculture,Row
+data,andrews37.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–8,1,1852,0,Agriculture,Row
+data,andrews38.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–9,1,1852,0,Agriculture,Row
+data,andrews39.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–10,1,1852,0,Agriculture,Row
 data,andrews4.dat,Andrews & Herzberg (1985),"Monthly mean thickness (Dobson units) ozone column Arosa, Switzerland 1926-1971",12,1926,0,Physics,Row
-data,andrews40.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�11,1,1852,0,Agriculture,Row
-data,andrews41.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�12,1,1852,0,Agriculture,Row
-data,andrews42.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�13,1,1852,0,Agriculture,Row
-data,andrews43.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�14,1,1852,0,Agriculture,Row
-data,andrews44.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�15,1,1852,0,Agriculture,Row
-data,andrews45.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�16,1,1852,0,Agriculture,Row
-data,andrews46.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�17,1,1852,0,Agriculture,Row
-data,andrews47.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�18,1,1852,0,Agriculture,Row
-data,andrews48.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot�19,1,1852,0,Agriculture,Row
-data,andrews5.dat,Andrews & Herzberg (1985),"Annual changes in the earth�s rotation, day length (sec*10**-5) 1821-1970",1,1821,0,Physics,Row
+data,andrews40.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–11,1,1852,0,Agriculture,Row
+data,andrews41.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–12,1,1852,0,Agriculture,Row
+data,andrews42.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–13,1,1852,0,Agriculture,Row
+data,andrews43.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–14,1,1852,0,Agriculture,Row
+data,andrews44.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–15,1,1852,0,Agriculture,Row
+data,andrews45.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–16,1,1852,0,Agriculture,Row
+data,andrews46.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–17,1,1852,0,Agriculture,Row
+data,andrews47.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–18,1,1852,0,Agriculture,Row
+data,andrews48.dat,Andrews & Herzberg (1985),Annual yield of straw on Broadbalk field at Rothamsted 1852-1925: plot–19,1,1852,0,Agriculture,Row
+data,andrews5.dat,Andrews & Herzberg (1985),"Annual changes in the earth–s rotation, day length (sec*10**-5) 1821-1970",1,1821,0,Physics,Row
 data,andrews6.dat,Andrews & Herzberg (1985),Annual male melanoma incidence (age-adjusted per 10**5) Connecticut 1936-1972,1,1936,0,Health,Row
 data,andrews7.dat,Andrews & Herzberg (1985),Annual total melanoma incidence (age-adjusted per 10**5) Connecticut 1936-1972,1,1936,0,Health,Row
 data,andrews8.dat,Andrews & Herzberg (1985),Annual sunspot relative number 1936-1972,1,1836,0,Physics,Row
 data,andrews9.dat,Andrews & Herzberg (1985),Monthly Canadian total unemployment figures (thousands) 1956-1975,12,1956,0,Labour market,Row
 data,hirnant.dat,Andrews & Herzberg (1985),"Half-hourly precipitation and stream flow, River Hirnant, Wales, UK, November and December 1972.",,,0,Hydrology,Column
-askew,askew.dat,"Askew, Yeh and Hall (1971)","Sacramento River at Keswick, California, Oct. 1939 � Sep. 1960",12,1939.75,1,Hydrology,Row
-askew,askew10.dat,"Askew, Yeh and Hall (1971)","Clearwater River at Kamiah, Idaho. 1911 � 1965",12,1911,1,Hydrology,Row
-askew,askew11.dat,"Askew, Yeh and Hall (1971)","Judith River near Utica, MT. 1920 � 1960",12,1920,1,Hydrology,Row
-askew,askew12.dat,"Askew, Yeh and Hall (1971)","Madison River near west Yellowstone, MT. 1923 � 1960",12,1923,1,Hydrology,Row
-askew,askew13.dat,"Askew, Yeh and Hall (1971)","Whiterocks River near Whiterocks, Utah, 1930 � 1960",12,1930,1,Hydrology,Row
-askew,askew14.dat,"Askew, Yeh and Hall (1971)","Middle Boulder Creek at Nederland, CO. 1912 � 1960",12,1912,1,Hydrology,Row
-askew,askew15.dat,"Askew, Yeh and Hall (1971)","South Platte River below Cheesman Lake, CO. 1925 � 1960",12,1925,1,Hydrology,Row
-askew,askew16.dat,"Askew, Yeh and Hall (1971)","Neches River near Rockland, Texas. 1940 � 1960",12,1914,1,Hydrology,Row
-askew,askew17.dat,"Askew, Yeh and Hall (1971)","Big Ford River at big falls, MN. 1929 � 1960",12,1929,1,Hydrology,Row
-askew,askew18.dat,"Askew, Yeh and Hall (1971)","Skunk River at Augusta, Iowa. 1915 � Sep. 1960",12,1915,1,Hydrology,Row
-askew,askew19.dat,"Askew, Yeh and Hall (1971)","Current River at Van Buren, MO. 1922 � Sep. 1960",12,1922,1,Hydrology,Row
-askew,askew2.dat,"Askew, Yeh and Hall (1971)","Trinity River at Lewiston, California, Oct. 1912 � Sep. 1960",12,1912,1,Hydrology,Row
-askew,askew20.dat,"Askew, Yeh and Hall (1971)","Wolf River at New London, WI. 1914 � 1960",12,1914,1,Hydrology,Row
-askew,askew21.dat,"Askew, Yeh and Hall (1971)","Mad River near Springfield, OH. 1915 � Sep. 1960",12,1915,1,Hydrology,Row
-askew,askew22.dat,"Askew, Yeh and Hall (1971)","West Branch Delaware River at Hale Eddy, NY. 1916 � Sep. 1960",12,1916,1,Hydrology,Row
-askew,askew23.dat,"Askew, Yeh and Hall (1971)","Pemigewasset River at Plymouth, NH. 1904 � 1960",12,1904,1,Hydrology,Row
-askew,askew24.dat,"Askew, Yeh and Hall (1971)","Rappahannock River near Fredericksburg, VA. 1911 � 1960",12,1911,1,Hydrology,Row
-askew,askew25.dat,"Askew, Yeh and Hall (1971)","James River at Buchanan, VA. 1911 � 1960",12,1911,1,Hydrology,Row
-askew,askew26.dat,"Askew, Yeh and Hall (1971)","Oostanaula River at Resaca, GA. 1893 � 1960",12,1893,1,Hydrology,Row
-askew,askew3.dat,"Askew, Yeh and Hall (1971)","Feather River at Oroville, California, Oct. 1902 � Sep. 1977",12,1902,1,Hydrology,Row
-askew,askew4.dat,"Askew, Yeh and Hall (1971)","American River at Fair Oaks, California, Oct. 1906 � Sep. 1960",12,1906,1,Hydrology,Row
-askew,askew5.dat,"Askew, Yeh and Hall (1971)","Eel River above Dos Rios, California, Oct. 1952 � Sep. 1960",12,1952,1,Hydrology,Row
+askew,askew.dat,"Askew, Yeh and Hall (1971)","Sacramento River at Keswick, California, Oct. 1939 – Sep. 1960",12,1939.75,1,Hydrology,Row
+askew,askew10.dat,"Askew, Yeh and Hall (1971)","Clearwater River at Kamiah, Idaho. 1911 – 1965",12,1911,1,Hydrology,Row
+askew,askew11.dat,"Askew, Yeh and Hall (1971)","Judith River near Utica, MT. 1920 – 1960",12,1920,1,Hydrology,Row
+askew,askew12.dat,"Askew, Yeh and Hall (1971)","Madison River near west Yellowstone, MT. 1923 – 1960",12,1923,1,Hydrology,Row
+askew,askew13.dat,"Askew, Yeh and Hall (1971)","Whiterocks River near Whiterocks, Utah, 1930 – 1960",12,1930,1,Hydrology,Row
+askew,askew14.dat,"Askew, Yeh and Hall (1971)","Middle Boulder Creek at Nederland, CO. 1912 – 1960",12,1912,1,Hydrology,Row
+askew,askew15.dat,"Askew, Yeh and Hall (1971)","South Platte River below Cheesman Lake, CO. 1925 – 1960",12,1925,1,Hydrology,Row
+askew,askew16.dat,"Askew, Yeh and Hall (1971)","Neches River near Rockland, Texas. 1940 – 1960",12,1914,1,Hydrology,Row
+askew,askew17.dat,"Askew, Yeh and Hall (1971)","Big Ford River at big falls, MN. 1929 – 1960",12,1929,1,Hydrology,Row
+askew,askew18.dat,"Askew, Yeh and Hall (1971)","Skunk River at Augusta, Iowa. 1915 – Sep. 1960",12,1915,1,Hydrology,Row
+askew,askew19.dat,"Askew, Yeh and Hall (1971)","Current River at Van Buren, MO. 1922 – Sep. 1960",12,1922,1,Hydrology,Row
+askew,askew2.dat,"Askew, Yeh and Hall (1971)","Trinity River at Lewiston, California, Oct. 1912 – Sep. 1960",12,1912,1,Hydrology,Row
+askew,askew20.dat,"Askew, Yeh and Hall (1971)","Wolf River at New London, WI. 1914 – 1960",12,1914,1,Hydrology,Row
+askew,askew21.dat,"Askew, Yeh and Hall (1971)","Mad River near Springfield, OH. 1915 – Sep. 1960",12,1915,1,Hydrology,Row
+askew,askew22.dat,"Askew, Yeh and Hall (1971)","West Branch Delaware River at Hale Eddy, NY. 1916 – Sep. 1960",12,1916,1,Hydrology,Row
+askew,askew23.dat,"Askew, Yeh and Hall (1971)","Pemigewasset River at Plymouth, NH. 1904 – 1960",12,1904,1,Hydrology,Row
+askew,askew24.dat,"Askew, Yeh and Hall (1971)","Rappahannock River near Fredericksburg, VA. 1911 – 1960",12,1911,1,Hydrology,Row
+askew,askew25.dat,"Askew, Yeh and Hall (1971)","James River at Buchanan, VA. 1911 – 1960",12,1911,1,Hydrology,Row
+askew,askew26.dat,"Askew, Yeh and Hall (1971)","Oostanaula River at Resaca, GA. 1893 – 1960",12,1893,1,Hydrology,Row
+askew,askew3.dat,"Askew, Yeh and Hall (1971)","Feather River at Oroville, California, Oct. 1902 – Sep. 1977",12,1902,1,Hydrology,Row
+askew,askew4.dat,"Askew, Yeh and Hall (1971)","American River at Fair Oaks, California, Oct. 1906 – Sep. 1960",12,1906,1,Hydrology,Row
+askew,askew5.dat,"Askew, Yeh and Hall (1971)","Eel River above Dos Rios, California, Oct. 1952 – Sep. 1960",12,1952,1,Hydrology,Row
 askew,askew6.dat,"Askew, Yeh and Hall (1971)","Rock Creek at Little Round Valley, NR. Bishop, California, Sep. 1960",12,1960,1,Hydrology,Row
-askew,askew7.dat,"Askew, Yeh and Hall (1971)","McKenzie River at McKenzie Bridge, Oregon, Oct. 1911 � Sep. 1960",12,1960,1,Hydrology,Row
-askew,askew8.dat,"Askew, Yeh and Hall (1971)","S. F. Skykomish River near Index, Washington, Oct. 1923 � Sep. 1960",12,1960,1,Hydrology,Row
-askew,askew9.dat,"Askew, Yeh and Hall (1971)","Boise River near Twin Springs, Idaho, Oct. 1912 � Sep. 1960",12,1960,1,Hydrology,Row
-data,maxtemp.dat,Australian Bureau of Meteorology,Mean maximum temperature in Melbourne: degrees C. Jan 71 � Dec 90.,12,1971,0,Meteorology,Row
+askew,askew7.dat,"Askew, Yeh and Hall (1971)","McKenzie River at McKenzie Bridge, Oregon, Oct. 1911 – Sep. 1960",12,1960,1,Hydrology,Row
+askew,askew8.dat,"Askew, Yeh and Hall (1971)","S. F. Skykomish River near Index, Washington, Oct. 1923 – Sep. 1960",12,1960,1,Hydrology,Row
+askew,askew9.dat,"Askew, Yeh and Hall (1971)","Boise River near Twin Springs, Idaho, Oct. 1912 – Sep. 1960",12,1960,1,Hydrology,Row
+data,maxtemp.dat,Australian Bureau of Meteorology,Mean maximum temperature in Melbourne: degrees C. Jan 71 – Dec 90.,12,1971,0,Meteorology,Row
 data,melbmax.dat,Australian Bureau of Meteorology,"Daily maximum temperatures in Melbourne, Australia, 1981-1990",365,1981,0,Meteorology,Row
 data,melbmin.dat,Australian Bureau of Meteorology,"Daily minimum temperatures in Melbourne, Australia, 1981-1990",365,1981,0,Meteorology,Row
 data,rainfall.dat,Australian Bureau of Meteorology,"Daily rainfall in Melbourne, Australia, 1981-1990",365,1981,0,Meteorology,Row
-data,awem.dat,Australian Bureau of Statistics,"Col 1: Quarterly average weekly male earnings in Australia, all industries. Col 2: CPI for same quarters. Col 3: Col 1 * 100 / Col 2 = real average weekly male earnings. March 1956 � March 1991",4,1956,0,Macroeconomic,Column
-data,bappq.dat,Australian Bureau of Statistics,Total building and construction activity in Australia: approvals each quarter in $m at 1989/90 prices. Sep 1973 � Mar 1995,4,1973.75,0,Production,Row
-data,basiron.dat,Australian Bureau of Statistics,Monthly basic iron production in Australia: thousand tonnes. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,basironq.dat,Australian Bureau of Statistics,Basic quarterly iron production in Australia: thousand tonnes. Mar 1956 � Sep 1994,4,1956,0,Production,Row
-data,beer.dat,Australian Bureau of Statistics,Monthly beer production in Australia: megalitres. Includes ale and stout. Does not include beverages with alcohol percentage less than 1.15. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,beerq.dat,Australian Bureau of Statistics,Quarterly beer production in Australia: megalitres. March 1956 � June 1994,4,1956,0,Production,Row
-data,blmoldq.dat,Australian Bureau of Statistics,Quarterly production of blooms and slabs in Australia: thousand tonnes. Old definition. Mar 1956 � Mar 1992,4,1956,0,Production,Row
-data,bloomold.dat,Australian Bureau of Statistics,Monthly production of blooms and slabs in Australia: thousand tonnes. Old definition. Jan 1956 � May 1994,12,1956,0,Production,Row
-data,blooms.dat,Australian Bureau of Statistics,Monthly production of blooms and slabs in Australia: thousand tonnes. New definition. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,bricks.dat,Australian Bureau of Statistics,Monthly production of clay bricks: million units. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,bricksq.dat,Australian Bureau of Statistics,Quarterly production of clay bricks: million units. Mar 1956 � Sep 1994,4,1956,0,Production,Row
-data,bworkq.dat,Australian Bureau of Statistics,Total building and construction activity in Australia: value of work done in $m at 1989/90 prices. Sep 1976 � Mar 1994.,4,1976.75,0,Production,Row
-data,capexg.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure � public, Australia: millions of dollars, 1989/90 prices. Sep 1959 � Jun 1995",4,1959.75,0,Macroeconomic,Row
-data,capexp.dat,Australian Bureau of Statistics,"Quarterly final consumption expenditure � total private Australia: millions of dollars, 1989/90 prices. Sep 1959 � Jun 1995",4,1959.75,0,Macroeconomic,Row
-data,capexpdw.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure � private dwellings, Australia: millions of dollars, 1984/85 prices. Sep 1959 � Sep 1992",4,1959.75,0,Macroeconomic,Row
-data,capexpeq.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure � private equipment, Australia: millions of dollars, 1984/85 prices. Sep 1959 � Mar 1991",4,1959.75,0,Macroeconomic,Row
-data,capexpnd.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure � private non-dwelling construction, Australia: millions of dollars, 1984/85 prices. Sep 1959 � Mar 1991",4,1959.75,0,Macroeconomic,Row
-data,capexpre.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure � private real estate transactions, Australia: millions of dollars, 1984/85 prices. Sep 1959 � Mar 1991",4,1959.75,0,Macroeconomic,Row
-data,capexpri.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure � private total, Australia: millions of dollars, 1984/85 prices. Sep 1959 � Mar 1991",4,1959.75,0,Macroeconomic,Row
-data,cars&sw.dat,Australian Bureau of Statistics,Australia monthly production of cars and station wagons. Jul 1961 � Aug 1995,12,1961.5,0,Production,Row
-data,cars&swq.dat,Australian Bureau of Statistics,Australia monthly production of cars and station wagons. Sep 1962 � Sep 1994,12,1962.67,0,Production,Row
-data,cement.dat,Australian Bureau of Statistics,Monthly production of Portland cement: thousands of tonnes. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,cementq.dat,Australian Bureau of Statistics,Quarterly production of Portland cement: thousands of tonnes. March 1956 � Sep 1994,4,1956,0,Production,Row
-data,choc.dat,Australian Bureau of Statistics,Monthly production of chocolate confectionery in Australia: tonnes. July 1957 � Aug 1995,12,1957.5,0,Production,Row
-data,chocq.dat,Australian Bureau of Statistics,Quarterly production of chocolate confectionery in Australia: tonnes. Sep 1957 � Sep 1994,4,1957.67,0,Production,Row
-data,civpop.dat,Australian Bureau of Statistics,Monthly civilian population of Australia: thousand persons. Feb 1978 � Apr 1991,12,1978.083,0,Demography,Row
-data,cpi.dat,Australian Bureau of Statistics,"Consumer price index standardised to 1989/90 = 100. Mar 1956 � Jun 1995. Up to Dec 1986, used average of 6 cities; 1987 � 1991 figures from personal investment magazine",4,1956,0,Macroeconomic,Row
-data,dole.dat,Australian Bureau of Statistics,Numbers on Unemployment Benefits in Australia: monthly Jan 1956 � Jul 1992,12,1956,0,Labour market,Row
-data,elec.dat,Australian Bureau of Statistics,Monthly electricity production in Australia: million kilowatt hours. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,elecq.dat,Australian Bureau of Statistics,Quarterly electricity production in Australia: million kilowatt hours. Mar 1956 � Sep 1994,4,1956,0,Production,Row
-data,empper.dat,Australian Bureau of Statistics,Monthly number of employed persons in Australia: thousands. Feb 1978 � Apr 1991,12,1978.083,0,Labour market,Row
+data,awem.dat,Australian Bureau of Statistics,"Col 1: Quarterly average weekly male earnings in Australia, all industries. Col 2: CPI for same quarters. Col 3: Col 1 * 100 / Col 2 = real average weekly male earnings. March 1956 – March 1991",4,1956,0,Macroeconomic,Column
+data,bappq.dat,Australian Bureau of Statistics,Total building and construction activity in Australia: approvals each quarter in $m at 1989/90 prices. Sep 1973 – Mar 1995,4,1973.75,0,Production,Row
+data,basiron.dat,Australian Bureau of Statistics,Monthly basic iron production in Australia: thousand tonnes. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,basironq.dat,Australian Bureau of Statistics,Basic quarterly iron production in Australia: thousand tonnes. Mar 1956 – Sep 1994,4,1956,0,Production,Row
+data,beer.dat,Australian Bureau of Statistics,Monthly beer production in Australia: megalitres. Includes ale and stout. Does not include beverages with alcohol percentage less than 1.15. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,beerq.dat,Australian Bureau of Statistics,Quarterly beer production in Australia: megalitres. March 1956 – June 1994,4,1956,0,Production,Row
+data,blmoldq.dat,Australian Bureau of Statistics,Quarterly production of blooms and slabs in Australia: thousand tonnes. Old definition. Mar 1956 – Mar 1992,4,1956,0,Production,Row
+data,bloomold.dat,Australian Bureau of Statistics,Monthly production of blooms and slabs in Australia: thousand tonnes. Old definition. Jan 1956 – May 1994,12,1956,0,Production,Row
+data,blooms.dat,Australian Bureau of Statistics,Monthly production of blooms and slabs in Australia: thousand tonnes. New definition. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,bricks.dat,Australian Bureau of Statistics,Monthly production of clay bricks: million units. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,bricksq.dat,Australian Bureau of Statistics,Quarterly production of clay bricks: million units. Mar 1956 – Sep 1994,4,1956,0,Production,Row
+data,bworkq.dat,Australian Bureau of Statistics,Total building and construction activity in Australia: value of work done in $m at 1989/90 prices. Sep 1976 – Mar 1994.,4,1976.75,0,Production,Row
+data,capexg.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure – public, Australia: millions of dollars, 1989/90 prices. Sep 1959 – Jun 1995",4,1959.75,0,Macroeconomic,Row
+data,capexp.dat,Australian Bureau of Statistics,"Quarterly final consumption expenditure – total private Australia: millions of dollars, 1989/90 prices. Sep 1959 – Jun 1995",4,1959.75,0,Macroeconomic,Row
+data,capexpdw.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure – private dwellings, Australia: millions of dollars, 1984/85 prices. Sep 1959 – Sep 1992",4,1959.75,0,Macroeconomic,Row
+data,capexpeq.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure – private equipment, Australia: millions of dollars, 1984/85 prices. Sep 1959 – Mar 1991",4,1959.75,0,Macroeconomic,Row
+data,capexpnd.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure – private non-dwelling construction, Australia: millions of dollars, 1984/85 prices. Sep 1959 – Mar 1991",4,1959.75,0,Macroeconomic,Row
+data,capexpre.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure – private real estate transactions, Australia: millions of dollars, 1984/85 prices. Sep 1959 – Mar 1991",4,1959.75,0,Macroeconomic,Row
+data,capexpri.dat,Australian Bureau of Statistics,"Quarterly gross fixed capital expenditure – private total, Australia: millions of dollars, 1984/85 prices. Sep 1959 – Mar 1991",4,1959.75,0,Macroeconomic,Row
+data,cars&sw.dat,Australian Bureau of Statistics,Australia monthly production of cars and station wagons. Jul 1961 – Aug 1995,12,1961.5,0,Production,Row
+data,cars&swq.dat,Australian Bureau of Statistics,Australia monthly production of cars and station wagons. Sep 1962 – Sep 1994,12,1962.67,0,Production,Row
+data,cement.dat,Australian Bureau of Statistics,Monthly production of Portland cement: thousands of tonnes. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,cementq.dat,Australian Bureau of Statistics,Quarterly production of Portland cement: thousands of tonnes. March 1956 – Sep 1994,4,1956,0,Production,Row
+data,choc.dat,Australian Bureau of Statistics,Monthly production of chocolate confectionery in Australia: tonnes. July 1957 – Aug 1995,12,1957.5,0,Production,Row
+data,chocq.dat,Australian Bureau of Statistics,Quarterly production of chocolate confectionery in Australia: tonnes. Sep 1957 – Sep 1994,4,1957.67,0,Production,Row
+data,civpop.dat,Australian Bureau of Statistics,Monthly civilian population of Australia: thousand persons. Feb 1978 – Apr 1991,12,1978.083,0,Demography,Row
+data,cpi.dat,Australian Bureau of Statistics,"Consumer price index standardised to 1989/90 = 100. Mar 1956 – Jun 1995. Up to Dec 1986, used average of 6 cities; 1987 – 1991 figures from personal investment magazine",4,1956,0,Macroeconomic,Row
+data,dole.dat,Australian Bureau of Statistics,Numbers on Unemployment Benefits in Australia: monthly Jan 1956 – Jul 1992,12,1956,0,Labour market,Row
+data,elec.dat,Australian Bureau of Statistics,Monthly electricity production in Australia: million kilowatt hours. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,elecq.dat,Australian Bureau of Statistics,Quarterly electricity production in Australia: million kilowatt hours. Mar 1956 – Sep 1994,4,1956,0,Production,Row
+data,empper.dat,Australian Bureau of Statistics,Monthly number of employed persons in Australia: thousands. Feb 1978 – Apr 1991,12,1978.083,0,Labour market,Row
 data,erp.dat,Australian Bureau of Statistics,Estimated quarterly resident population of Australia: thousand persons,4,1971.5,0,Demography,Row
-data,expindex.dat,Australian Bureau of Statistics,Australian annual exports of goods and services in current prices: $m. 1949 � 1990,1,1949,0,Macroeconomic,Row
-data,exports.dat,Australian Bureau of Statistics,Quarterly Australian national accounts exports: millions of dollars at 1989/90 prices. Sep 59 � Jun 95,4,1959.75,0,Macroeconomic,Row
-data,finserv.dat,Australian Bureau of Statistics,Quarterly Australian expenditure on financial services: $m. Sep 1969 � Mar 1994,4,1969.75,0,Macroeconomic,Row
-data,gas.dat,Australian Bureau of Statistics,Monthly production of Gas in Australia: million megajoules. Includes natural gas from July 1989. Jan 1956 � Aug 1995,12,1956,0,Production,Row
-data,gasq.dat,Australian Bureau of Statistics,Quarterly production of Gas in Australia: million megajoules. Includes natural gas from July 1989. Mar 1956 � Sep 1994,4,1956,0,Utilities,Row
-data,gfp.dat,Australian Bureau of Statistics,Quarterly Australian Gross Farm Product: $m 1989/90 prices. Sep 59 � Mar 93,4,1959.75,0,Macroeconomic,Row
-data,gnfp.dat,Australian Bureau of Statistics,Quarterly Australian Gross non-farm product: $m at average 1989/90 prices. Sep 59 � Jun 1995,4,1959.75,0,Macroeconomic,Row
+data,expindex.dat,Australian Bureau of Statistics,Australian annual exports of goods and services in current prices: $m. 1949 – 1990,1,1949,0,Macroeconomic,Row
+data,exports.dat,Australian Bureau of Statistics,Quarterly Australian national accounts exports: millions of dollars at 1989/90 prices. Sep 59 – Jun 95,4,1959.75,0,Macroeconomic,Row
+data,finserv.dat,Australian Bureau of Statistics,Quarterly Australian expenditure on financial services: $m. Sep 1969 – Mar 1994,4,1969.75,0,Macroeconomic,Row
+data,gas.dat,Australian Bureau of Statistics,Monthly production of Gas in Australia: million megajoules. Includes natural gas from July 1989. Jan 1956 – Aug 1995,12,1956,0,Production,Row
+data,gasq.dat,Australian Bureau of Statistics,Quarterly production of Gas in Australia: million megajoules. Includes natural gas from July 1989. Mar 1956 – Sep 1994,4,1956,0,Utilities,Row
+data,gfp.dat,Australian Bureau of Statistics,Quarterly Australian Gross Farm Product: $m 1989/90 prices. Sep 59 – Mar 93,4,1959.75,0,Macroeconomic,Row
+data,gnfp.dat,Australian Bureau of Statistics,Quarterly Australian Gross non-farm product: $m at average 1989/90 prices. Sep 59 – Jun 1995,4,1959.75,0,Macroeconomic,Row
 data,govtcons.dat,Australian Bureau of Statistics,Quarterly Australian govt final consumption expenditure total: $m 1984/95 prices. Sep 1959 to March 1991,4,1959.75,0,Macroeconomic,Row
-data,impjp.dat,Australian Bureau of Statistics,Monthly Australian imports from Japan: thousands of dollars. Jul 65 � Oct 93.,12,1965.5,0,Macroeconomic,Row
-data,imports.dat,Australian Bureau of Statistics,Quarterly Australian imports of all goods and services: $m at average 1989/90 prices. Sep 1959 � Jun 1995,4,1959.75,0,Macroeconomic,Row
+data,impjp.dat,Australian Bureau of Statistics,Monthly Australian imports from Japan: thousands of dollars. Jul 65 – Oct 93.,12,1965.5,0,Macroeconomic,Row
+data,imports.dat,Australian Bureau of Statistics,Quarterly Australian imports of all goods and services: $m at average 1989/90 prices. Sep 1959 – Jun 1995,4,1959.75,0,Macroeconomic,Row
 data,incstkf.dat,Australian Bureau of Statistics,"Quarterly increase in stocks farm total, Australia. Sep 1974 to March 1991",4,1974.75,0,Macroeconomic,Row
 data,incstknf.dat,Australian Bureau of Statistics,"Quarterly increase in stocks non-farm total, Australia. Sep 1959 - March 1991",4,1959.75,,Finance,Row
 data,incstkpa.dat,Australian Bureau of Statistics,"Quarterly increase in stocks, other public authorities total, Australia. Sep 1974 to March 1991",4,1974.75,0,Macroeconomic,Row
 data,incstkpm.dat,Australian Bureau of Statistics,"Quarterly increase in stocks, public marketing authorities total, Australia. Sep 1974 to March 1991",4,1974.75,0,Macroeconomic,Row
-data,labour.dat,Australian Bureau of Statistics,Civilian labour force in Australia each month: thousands of persons. Feb 1978 � Aug 1995,12,1978.083,0,Labour market,Row
-data,m1.dat,Australian Bureau of Statistics,"Volume of money, ABS definition m1. Feb 1960 � Dec 1989",12,1960.0833,0,Finance,Row
-data,m3.dat,Australian Bureau of Statistics,"Volume of money, ABS definition m1. Feb 1960 � Dec 1994",12,1960.0833,0,Finance,Row
-data,motel.dat,Australian Bureau of Statistics,"Monthly data relating to hotels, motels and guesthouses in Victoria. Jan 1980 � June 1995. First column: total number of room nights occupied; Second column: total takings from accommodation",12,1980,0,Transport and tourism,Column
-data,motel_rt.dat,Australian Bureau of Statistics,"First column: monthly average cost of a night�s accommodation at a hotel, motel or guesthouse in Victoria, Jan 1980 � June 1995. (Obtained by taking ratio of columns in MOTEL.DAT.) Second column: estimated CPI for each month in Melbourne",12,1980,0,Transport and tourism,Column
-data,netimm.dat,Australian Bureau of Statistics,"Quarterly net increase in population overseas migration, Australia. Sep 1971 � Sep 1990",4,1971.75,0,Demography,Row
-data,pigs.dat,Australian Bureau of Statistics,Monthly total number of pigs slaughtered in Victoria. Jan 1980 � August�1995,12,1980,0,Agriculture,Row
-data,plastic.dat,Australian Bureau of Statistics,Monthly production of plastics and synthetic resins in Australia: tonnes. Jul 1964 � Jun 1989,12,1964.5,0,Production,Row
-data,plasticq.dat,Australian Bureau of Statistics,Quarterly production of plastics and synthetic resins in Australia: tonnes. Sep 1964 � Jun 1989,4,1964.75,0,Production,Row
-data,plastics.dat,Australian Bureau of Statistics,Australian monthly production of plastics in primary. Mar 1988 � Aug 1995,12,1988,0,Production,Row
+data,labour.dat,Australian Bureau of Statistics,Civilian labour force in Australia each month: thousands of persons. Feb 1978 – Aug 1995,12,1978.083,0,Labour market,Row
+data,m1.dat,Australian Bureau of Statistics,"Volume of money, ABS definition m1. Feb 1960 – Dec 1989",12,1960.0833,0,Finance,Row
+data,m3.dat,Australian Bureau of Statistics,"Volume of money, ABS definition m1. Feb 1960 – Dec 1994",12,1960.0833,0,Finance,Row
+data,motel.dat,Australian Bureau of Statistics,"Monthly data relating to hotels, motels and guesthouses in Victoria. Jan 1980 – June 1995. First column: total number of room nights occupied; Second column: total takings from accommodation",12,1980,0,Transport and tourism,Column
+data,motel_rt.dat,Australian Bureau of Statistics,"First column: monthly average cost of a night–s accommodation at a hotel, motel or guesthouse in Victoria, Jan 1980 – June 1995. (Obtained by taking ratio of columns in MOTEL.DAT.) Second column: estimated CPI for each month in Melbourne",12,1980,0,Transport and tourism,Column
+data,netimm.dat,Australian Bureau of Statistics,"Quarterly net increase in population overseas migration, Australia. Sep 1971 – Sep 1990",4,1971.75,0,Demography,Row
+data,pigs.dat,Australian Bureau of Statistics,Monthly total number of pigs slaughtered in Victoria. Jan 1980 – August–1995,12,1980,0,Agriculture,Row
+data,plastic.dat,Australian Bureau of Statistics,Monthly production of plastics and synthetic resins in Australia: tonnes. Jul 1964 – Jun 1989,12,1964.5,0,Production,Row
+data,plasticq.dat,Australian Bureau of Statistics,Quarterly production of plastics and synthetic resins in Australia: tonnes. Sep 1964 – Jun 1989,4,1964.75,0,Production,Row
+data,plastics.dat,Australian Bureau of Statistics,Australian monthly production of plastics in primary. Mar 1988 – Aug 1995,12,1988,0,Production,Row
 data,privcons.dat,Australian Bureau of Statistics,Quarterly Australian private final consumption expenditure. Sep 1959 to March 1991,4,1959.75,0,Macroeconomic,Row
-data,rawsteel.dat,Australian Bureau of Statistics,Monthly production of raw steel in Australia: thousand tonnes. Jan 1956 � Nov 1993,12,1956,0,Production,Row
-data,rawstlq.dat,Australian Bureau of Statistics,Quarterly production of raw steel in Australia: thousand tonnes. Mar 1956 � Sep 1992,4,1956,0,Production,Row
-data,sulphur.dat,Australian Bureau of Statistics,Monthly production of sulphuric acid in Australia: thousand tonnes. Jan 1956 � Jul 1994,12,1956,0,Production,Row
-data,sulphurq.dat,Australian Bureau of Statistics,Quarterly production of sulphuric acid in Australia: thousand tonnes. Mar 1956 � Jun 1994,4,1956,0,Production,Row
-data,unemploy.dat,Australian Bureau of Statistics,Monthly number of unemployed persons in Australia. Feb 1978 � Aug 1995. Compare DOLE.DAT,12,1978.083,0,Labour market,Row
+data,rawsteel.dat,Australian Bureau of Statistics,Monthly production of raw steel in Australia: thousand tonnes. Jan 1956 – Nov 1993,12,1956,0,Production,Row
+data,rawstlq.dat,Australian Bureau of Statistics,Quarterly production of raw steel in Australia: thousand tonnes. Mar 1956 – Sep 1992,4,1956,0,Production,Row
+data,sulphur.dat,Australian Bureau of Statistics,Monthly production of sulphuric acid in Australia: thousand tonnes. Jan 1956 – Jul 1994,12,1956,0,Production,Row
+data,sulphurq.dat,Australian Bureau of Statistics,Quarterly production of sulphuric acid in Australia: thousand tonnes. Mar 1956 – Jun 1994,4,1956,0,Production,Row
+data,unemploy.dat,Australian Bureau of Statistics,Monthly number of unemployed persons in Australia. Feb 1978 – Aug 1995. Compare DOLE.DAT,12,1978.083,0,Labour market,Row
 data,wine.dat,Australian Bureau of Statistics,Monthly Australian wine sales: thousands of litres. By wine makers in bottles <= 1 litre.,12,1980,0,Sales,Column
-data,woolyarn.dat,Australian Bureau of Statistics,Monthly production of woollen yarn in Australia: tonnes. Jan 1965 � Aug 1995.,12,1965,0,Production,Row
-data,woolyrnq.dat,Australian Bureau of Statistics,Quarterly production of woollen yarn in Australia: tonnes. Mar 1965 � Sep 1994.,4,1965,0,Production,Row
+data,woolyarn.dat,Australian Bureau of Statistics,Monthly production of woollen yarn in Australia: tonnes. Jan 1965 – Aug 1995.,12,1965,0,Production,Row
+data,woolyrnq.dat,Australian Bureau of Statistics,Quarterly production of woollen yarn in Australia: tonnes. Mar 1965 – Sep 1994.,4,1965,0,Production,Row
 data,arge030.dat,"Boninsegna, J","Tree: Rio Cisne, Chubut Ficu, Argentina. Alerce -4209-07133",1,441,0,Tree-rings,Row
-data,cola.dat,Bowerman and O�Connell (1993),Monthly sales of Tasty Cola,12,1,0,Sales,Row
-data,airpass.dat,Box & Jenkins (1976),International airline passengers: monthly totals in thousands. Jan 49 � Dec 60,12,1949,0,Transport and tourism,Row
+data,cola.dat,Bowerman and O–Connell (1993),Monthly sales of Tasty Cola,12,1,0,Sales,Row
+data,airpass.dat,Box & Jenkins (1976),International airline passengers: monthly totals in thousands. Jan 49 – Dec 60,12,1949,0,Transport and tourism,Row
 data,boxjenk1.dat,Box & Jenkins (1976),Chemical concentration readings,,1,0,Chemistry,Row
-data,boxjenk2.dat,Box & Jenkins (1976),"IBM common stock closing prices: daily, 17th May 1961 � 2nd November 1962",,1,0,Finance,Row
+data,boxjenk2.dat,Box & Jenkins (1976),"IBM common stock closing prices: daily, 17th May 1961 – 2nd November 1962",,1,0,Finance,Row
 data,boxjenk3.dat,Box & Jenkins (1976),"IBM common stock closing prices: daily, 29th June 1959 to 30th June 1960 (N=255)",,1,0,Finance,Row
 data,boxjenk4.dat,Box & Jenkins (1976),Chemical process temperature readings: every minute,,1,0,Chemistry,Row
 data,boxjenk5.dat,Box & Jenkins (1976),Chemical process viscosity readings,,1,0,Chemistry,Row
@@ -178,16 +178,16 @@ blowfly,nonemerg.dat,"Brillinger, Guckenheimer, Guttorp and Oster (1980)",Number
 blowfly,total.dat,"Brillinger, Guckenheimer, Guttorp and Oster (1980)",Total blowfly population,,1,1,Ecology,Row
 data,polio.dat,"Brockwell and Davis  (1996, p. 298)",Monthly U.S. polio cases,12,1970,1,Health,Row
 data,djao2.dat,Brockwell and Davis (1991),Dow Jones index and Australian all ordinaries index at closing on 251 trading days ending 26 August 1994,,1,0,Finance,Column
-data,uspop.dat,"Brockwell and Davis (1991, p. 3)","U.S. population at 10 year intervals, 1790 � 1980 (USA Bureau of Census)",0.1,1790,0,Demography,Row
-data,strikes.dat,"Brockwell and Davis (1991, p. 4; p. 113)","Number of strikes in the USA, 1951 � 1980",1,1951,0,Industry,Row
-data,deaths.dat,"Brockwell and Davis (1991, p. 7)","Accidental deaths in USA: monthly, 1973 � 1978",12,1973,0,Demography,Row
-data,dowjones.dat,"Brockwell and Davis (1991, Series B, p. 555)","Dow Jones Utilities Index, 28 Aug � 18 Dec 1972",,1,0,Finance,Row
+data,uspop.dat,"Brockwell and Davis (1991, p. 3)","U.S. population at 10 year intervals, 1790 – 1980 (USA Bureau of Census)",0.1,1790,0,Demography,Row
+data,strikes.dat,"Brockwell and Davis (1991, p. 4; p. 113)","Number of strikes in the USA, 1951 – 1980",1,1951,0,Industry,Row
+data,deaths.dat,"Brockwell and Davis (1991, p. 7)","Accidental deaths in USA: monthly, 1973 – 1978",12,1973,0,Demography,Row
+data,dowjones.dat,"Brockwell and Davis (1991, Series B, p. 555)","Dow Jones Utilities Index, 28 Aug – 18 Dec 1972",,1,0,Finance,Row
 data,hstarts.dat,"Brockwell and Davis (1991, Series C, p. 556)","Private housing units started, USA: monthly",12,1973.916667,0,Microeconomic,Row
 data,ausprod.dat,"Brockwell and Davis (1991, series D, p. 556)","Industrial production, Austria: quarterly",4,1975.75,0,Production,Row
 data,spanprod.dat,"Brockwell and Davis (1991, Series E, p. 556)","Industrial production, Spain: monthly",12,1977.916667,0,Production,Row
 data,genprod.dat,"Brockwell and Davis (1991, Series F, p. 557)",General index of industrial production: monthly,12,1966.916667,0,Production,Row
-data,goals.dat,"Brockwell and Davis (1996, p. 306)","Goals scored by England against Scotland at Hampden Park, Glasgow. 1872 � 1987. Irregularly spaced.�",,1,0,Sport,Column
-data,oshorts.dat,"Brockwell and Davis (1996, p. 96)","57 consecutive daily overshorts from an underground gasoline tank at a filling station in Colorado. If y(t) is the measured amount of fuel inthe tank at time t and a(t) is the measured amount sold minus the amount delivered during the course of day t, then the overshort at the end of day t is defined as y(t) � y(t-1) + a(t)",,1,1,Industry,Row
+data,goals.dat,"Brockwell and Davis (1996, p. 306)","Goals scored by England against Scotland at Hampden Park, Glasgow. 1872 – 1987. Irregularly spaced.–",,1,0,Sport,Column
+data,oshorts.dat,"Brockwell and Davis (1996, p. 96)","57 consecutive daily overshorts from an underground gasoline tank at a filling station in Colorado. If y(t) is the measured amount of fuel inthe tank at time t and a(t) is the measured amount sold minus the amount delivered during the course of day t, then the overshort at the end of day t is defined as y(t) – y(t-1) + a(t)",,1,1,Industry,Row
 data,ca506.dat,"C. W. Ferguson, Edmund Schulman, H. C. Fritts","Tree: WHITE MOUNTAINS MASTER CHRONOLOGY                   PILO            604
 Location: CALIFORNIA   BRISTLECONE PINE        03724-11810
 Author: C. W. FERGUSON, EDMUND SCHULMAN, H. C. FRITTS
@@ -195,7 +195,7 @@ Years: 2859-1963 (-8000)",1,-5141,0,Tree-rings,Row
 data,sp500.dat,Chatfield (2000),"The value of SP500, June 06, 1960 to June 06, 2000. Chris Chatfield (2000).",,1,0,Finance,Row
 data,males.web.txt,Chris Chatfield (2000),"UK male 25-49 unemployment data. Col(1), No. of males, aged 18-24, who have been unemployed for 6-12 months. Col(2), No. of males, aged 25-49, who have been unemployed for less than 6 months. ILO unemployment in UK from April 1992 to February 2000",12,1992.25,13,Labour market,Column
 data,Unemploy.txt,Chris Chatfield (2000),US quarterly unemployment rate 1968_1982,4,1968,3,Labour market,Row
-data,mlco2.dat,"Climatology database, Oak Ridge National Laboratory","Monthly measurements of carbon dioxide above Mauna Loa, Hawaii. Jan 1959 � Dec 1990. Units: parts per million (ppm). Missing values have been filled in by linear interpolation. The data were collected by Scripps Institute of Oceanography, La Jolla, California",12,1959,0,Meteorology,Row
+data,mlco2.dat,"Climatology database, Oak Ridge National Laboratory","Monthly measurements of carbon dioxide above Mauna Loa, Hawaii. Jan 1959 – Dec 1990. Units: parts per million (ppm). Missing values have been filled in by linear interpolation. The data were collected by Scripps Institute of Oceanography, La Jolla, California",12,1959,0,Meteorology,Row
 data,cryer1.dat,Cryer (1986),"U. S. quarterly unemployment rates (seasonally adjusted), first quarter 1978 through first quarter 1978, n=121",4,1978,3,Labour market,Row
 data,cryer2.dat,Cryer (1986),"Average monthly temperatures in Dubuque, Iowa, January 1964 through december 1975, n=144",12,1964,3,Meteorology,Row
 data,cryer3.dat,Cryer (1986),"Monthly railroad bond yields (% x 100), January1968 through June 1976, n=102",12,1968,3,Finance,Row
@@ -204,10 +204,10 @@ data,cryer5.dat,Cryer (1986),"Iowa non-farm income per capita first quarter 1948
 data,cryer6.dat,Cryer (1986),"Monthly U.S air passenger miles January 1960 through December 1977, n=216",12,1960,3,Transport and tourism,Row
 data,cryer7.dat,Cryer (1986),"Portland Oregon average monthly bus ridership (/100) January 1973 through June 1982, n=114",12,1960,3,Transport and tourism,Row
 data,cryer8.dat,Cryer (1986),"Weekday bus ridership, Iowa city, Iowa (monthly averages) September, 1971 through December, 1982, n=148",12,1971.67,3,Transport and tourism,Row
-data,milk.dat,Cryer (1986),Monthly milk production: pounds per cow. Jan 62 � Dec 75,12,1962,0,Agriculture,Row
-data,milkadj.dat,Cryer (1986),"Monthly milk production: pounds per cow. Jan 62 � Dec 75, adjusted for month length",12,1962,0,Agriculture,Row
+data,milk.dat,Cryer (1986),Monthly milk production: pounds per cow. Jan 62 – Dec 75,12,1962,0,Agriculture,Row
+data,milkadj.dat,Cryer (1986),"Monthly milk production: pounds per cow. Jan 62 – Dec 75, adjusted for month length",12,1962,0,Agriculture,Row
 data,kobe.dat,"Data management centre, Washington University.","Seismograph (vertical acceleration, nm/sq.sec) of the Kobe earthquake, recorded at Tasmania University, Hobart, Australia on 16 January 1995 beginning at 20:56:51 (GMT) and continuing for 51 minutes at 1 second intervals",,1,0,Physics,Row
-data,FVD1.dat,Datastream,"Stock market data from �Non-Linear Time Series Models in Empirical Finance� (Franses and Van Dijk, 2000). Eight daily indices of stock markets in Amsterdam (EOE), Frankfurt (DAX), Hong Kong (Hang Seng), London (FTSE100), New York (S&P 500), Paris (CAC40), Singapore (Singapore All Shares) and Tokyo (Nikkei). January 6, 1986 until December 31, 1997. Comma-delimited file. Original",,1,1,Finance,Column
+data,FVD1.dat,Datastream,"Stock market data from –Non-Linear Time Series Models in Empirical Finance– (Franses and Van Dijk, 2000). Eight daily indices of stock markets in Amsterdam (EOE), Frankfurt (DAX), Hong Kong (Hang Seng), London (FTSE100), New York (S&P 500), Paris (CAC40), Singapore (Singapore All Shares) and Tokyo (Nikkei). January 6, 1986 until December 31, 1997. Comma-delimited file. Original",,1,1,Finance,Column
 blowfly,blowfly.dat,David Brillinger,Bi-daily blowfly population in glass jar. Collected by A.J. Nicholson in the 1950s,,1,0,Ecology,Column
 data,pablo1.dat,David Meko (1995),"Time series matrix with year in col 1, 1662-1986 These are six tree-ring sites",1,1662,0,Tree-rings,Column
 data,diggle3.dat,"Diggle, P. J. (1990)","U.K. deaths from bronchitis, emphysema and asthma",12,1974,5,Health,Row
@@ -236,65 +236,65 @@ data,ca507.dat,Edmund Schulman,"Tree: WHITE MTNS     PILO
 Location: CALIFORNIA   BRISTLECONE PINE  3113M 03724-11810
 Author: EDMUND SCHULMAN
 Years: 0800- 1954",1,800,0,Tree-rings,Row
-data,eisinga.dat,"Eisinga, R. and Franses, P.H. and Ooms, M. (1999) `Forecasting long memory right-left political orientations�,International Journal of Forecasting, 15, 185-199. Columns: (1) week and year (2) year and week as four digit code (3)-(8) means on scale of 1-7 for (groups of parties); (9) trend; (10)-(15) number of respondents per party.",Dutch weekly survey on left-right political orientation (1978-1996),52,1978,0,Miscellaneous,Column
+data,eisinga.dat,"Eisinga, R. and Franses, P.H. and Ooms, M. (1999) `Forecasting long memory right-left political orientations–,International Journal of Forecasting, 15, 185-199. Columns: (1) week and year (2) year and week as four digit code (3)-(8) means on scale of 1-7 for (groups of parties); (9) trend; (10)-(15) number of respondents per party.",Dutch weekly survey on left-right political orientation (1978-1996),52,1978,0,Miscellaneous,Column
 data,fran009.dat,F. Serre,"Tree: Les Merveilles, France. Lade (Larix) 2165m 4402 00727",1,1187,0,Tree-rings,Row
 data,fran010.dat,F. Serre,"Tree: Les Merveilles, France. Lade (Larix) 2150m 4402 00727",1,988,0,Tree-rings,Row
-data,FVD2.dat,Federal Reserve Bank of New York,"Foreign currency exchange rate data from �Non-Linear Time Series Model in Empirical Finance� (Franses and Van Dijk, 2000). The exchange rates are the Australian dollar, British pound, Canadian dollar, German deutschmark, Dutch guilder, French France, Japanese yen and the Swiss franc, all expressed as number of units of the foreign currency per US dollar. Daily data: December 31, 1979 until December 31, 1998. Comma-delimited file",,1,1,Finance,Column
-data,immig.dat,"From Kendall & Ord (1990), p.13",Annual immigration into the United States: thousands. 1820 � 1962,1,1820,0,Demography,Row
+data,FVD2.dat,Federal Reserve Bank of New York,"Foreign currency exchange rate data from –Non-Linear Time Series Model in Empirical Finance– (Franses and Van Dijk, 2000). The exchange rates are the Australian dollar, British pound, Canadian dollar, German deutschmark, Dutch guilder, French France, Japanese yen and the Swiss franc, all expressed as number of units of the foreign currency per US dollar. Daily data: December 31, 1979 until December 31, 1998. Comma-delimited file",,1,1,Finance,Column
+data,immig.dat,"From Kendall & Ord (1990), p.13",Annual immigration into the United States: thousands. 1820 – 1962,1,1820,0,Demography,Row
 data,schizo.dat,Glass (1975),"Daily observations of the score achieved by a schizophrenic patient on a test of perceptual speed. From the 61st day, the patient began receiving a powerful tranquilizer (chlorpromazine) that could be expected to reduce perceptual speed",,1,0,Health,Row
-data,ukdeaths.dat,"Harvey, 1989, p.519ff",Number of deaths and serious injuries in UK road accidents each month. Jan 1969 � Dec 1984. Seatbelt law introduced in Feb 1983 (indicator in second column),12,1969,0,Transport and tourism,Column
-annual,amazon.dat,Hipel and McLeod (1994),"High and low water levels of the Amazon at Iquitos, 1962 � 1978",1,1962,6,Hydrology,Row
-noakes,american.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, American River at fair oaks, California, Oct.1906 � Sep. 1960",12,1906.75,1,Hydrology,Row
+data,ukdeaths.dat,"Harvey, 1989, p.519ff",Number of deaths and serious injuries in UK road accidents each month. Jan 1969 – Dec 1984. Seatbelt law introduced in Feb 1983 (indicator in second column),12,1969,0,Transport and tourism,Column
+annual,amazon.dat,Hipel and McLeod (1994),"High and low water levels of the Amazon at Iquitos, 1962 – 1978",1,1962,6,Hydrology,Row
+noakes,american.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, American River at fair oaks, California, Oct.1906 – Sep. 1960",12,1906.75,1,Hydrology,Row
 ecology1,arctic.dat,Hipel and McLeod (1994),"Arctic foxes, fur returns, Ungava District, 1868-1924",1,1868,3,Ecology,Row
 monthly,arosa.dat,Hipel and McLeod (1994),"Ozone, Arosa, 1932-1972",12,1932,1,Meteorology,Row
 monthly,azusa.dat,Hipel and McLeod (1994),"Ozone concentration, azusa, 1956-1970",12,1956,1,Meteorology,Row
 monthly,baydu.dat,Hipel and McLeod (1994),"Monthly flow, bay du nord River, 1953-1981",12,1953,2,Hydrology,Row
-hurst,bigcone.dat,Hipel and McLeod (1994),"Big cone spruce, southern California, U S A, 1458 � 1966",1,1458,1,Hydrology,Row
+hurst,bigcone.dat,Hipel and McLeod (1994),"Big cone spruce, southern California, U S A, 1458 – 1966",1,1458,1,Hydrology,Row
 annual,births.dat,Hipel and McLeod (1994),"Births per 10,000 of 23 year old women, U.S., 1917-1975",1,1917,1,Demography,Row
-noakes,boise.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Boise River neartwin springs, Idaho, Oct.1912 � Sep. 1960",12,1912.75,1,Hydrology,Row
-hurst,bryce.dat,Hipel and McLeod (1994),"Ponderosa pine, brice water canyon, Utah, USA, 1340 � 1964",1,1340,1,Hydrology,Row
+noakes,boise.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Boise River neartwin springs, Idaho, Oct.1912 – Sep. 1960",12,1912.75,1,Hydrology,Row
+hurst,bryce.dat,Hipel and McLeod (1994),"Ponderosa pine, brice water canyon, Utah, USA, 1340 – 1964",1,1340,1,Hydrology,Row
 annual,bwater.dat,Hipel and McLeod (1994),"Baltmore city annual water use, liters per capita per day, 1885-1968",1,1885,1,Miscellaneous,Row
 misc,caffeine.dat,Hipel and McLeod (1994),Caffeine levels in instant coffee (seasonal period=5),5,1,1,Miscellaneous,Row
 lamarche,campito.dat,Hipel and McLeod (1994),"Campito mnt. tree ring data (in .01 mm), N=5405, form 3435BC to 1969AD",1,-3435,1,Tree-rings,Row
 annual,canfire.dat,Hipel and McLeod (1994),"Number of acres burned in forest fires in Canada, 1918-1988",1,1918,1,Miscellaneous,Row
 epi,chicknyc.dat,Hipel and McLeod (1994),"Monthly reported number of chickenpox, New York city, 1931-1972",12,1931,1,Health,Row
-misc,cigb.dat,Hipel and McLeod (1994),"Biomonthly cigarette consumption per adult in dollars and real price index, 1966 � 1974",6,1,4,Miscellaneous,Column
+misc,cigb.dat,Hipel and McLeod (1994),"Biomonthly cigarette consumption per adult in dollars and real price index, 1966 – 1974",6,1,4,Miscellaneous,Column
 noakes,clearwat.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Clear water River at kamiah, Idaho, 1911 -  1965",12,1911,1,Hydrology,Row
-baracos,cminef.dat,Hipel and McLeod (1994),"Mean monthly flow, Tree River, 1969 � 1976",12,1969,1,Hydrology,Row
-baracos,cminer.dat,Hipel and McLeod (1994),"Monthly rain, coppermine, mm. 1933 � 1976",12,1933,1,Hydrology,Row
-baracos,cminet.dat,Hipel and McLeod (1994),"Monthly temperature, coppermine, Celsius. 1933 � 1976",12,1933,1,Hydrology,Row
+baracos,cminef.dat,Hipel and McLeod (1994),"Mean monthly flow, Tree River, 1969 – 1976",12,1969,1,Hydrology,Row
+baracos,cminer.dat,Hipel and McLeod (1994),"Monthly rain, coppermine, mm. 1933 – 1976",12,1933,1,Hydrology,Row
+baracos,cminet.dat,Hipel and McLeod (1994),"Monthly temperature, coppermine, Celsius. 1933 – 1976",12,1933,1,Hydrology,Row
 monthly,co2.dat,Hipel and McLeod (1994),"CO2 (ppm) mauna loa, 1965-1980",12,1965,1,Meteorology,Row
 noakes,colum.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Columbia River at nicholson, 1933 -  1969",12,1933,1,Hydrology,Row
-londonwq,consum.dat,Hipel and McLeod (1994),"Total number of water consumers, Jan 1983 � April 1994. Missing value for June 1988 (66th obs.) estimated by intervention analysis. London, United Kingdom.",12,1983,3,Utilities,Row
+londonwq,consum.dat,Hipel and McLeod (1994),"Total number of water consumers, Jan 1983 – April 1994. Missing value for June 1988 (66th obs.) estimated by intervention analysis. London, United Kingdom.",12,1983,3,Utilities,Row
 monthly,cpi.dat,Hipel and McLeod (1994),"Monthly CPI, Canada, 1950-1973",12,1950,1,Macroeconomic,Row
 noakes,current.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Current River at van buran, 1922 -  1960",12,1922,1,Hydrology,Row
-korsan,dailyibm.dat,Hipel and McLeod (1994),"Daily closing price of IBM stock, Jan. 01 1980 � Oct. 08 1992",,1980,1,Finance,Row
-korsan,dailysap.dat,Hipel and McLeod (1994),"Daily S & P 500 index of stocks, Jan. 01 1980 � Oct. 08 1992",,1,1,Finance,Row
-annual,dal.dat,Hipel and McLeod (1994),"Dal River near Norslund, Sweden, 1852 � 1922",1,1852,1,Hydrology,Row
-hurst,danube.dat,Hipel and McLeod (1994),"Danube River at Orshava, Romania, 1837 � 1957",1,1837,1,Hydrology,Row
-hurst,dell.dat,Hipel and McLeod (1994),"Limber pine, dell, Montana, U S A, 1311 � 1965",1,1311,1,Hydrology,Row
+korsan,dailyibm.dat,Hipel and McLeod (1994),"Daily closing price of IBM stock, Jan. 01 1980 – Oct. 08 1992",,1980,1,Finance,Row
+korsan,dailysap.dat,Hipel and McLeod (1994),"Daily S & P 500 index of stocks, Jan. 01 1980 – Oct. 08 1992",,1,1,Finance,Row
+annual,dal.dat,Hipel and McLeod (1994),"Dal River near Norslund, Sweden, 1852 – 1922",1,1852,1,Hydrology,Row
+hurst,danube.dat,Hipel and McLeod (1994),"Danube River at Orshava, Romania, 1837 – 1957",1,1837,1,Hydrology,Row
+hurst,dell.dat,Hipel and McLeod (1994),"Limber pine, dell, Montana, U S A, 1311 – 1965",1,1311,1,Hydrology,Row
 annual,dvi.dat,Hipel and McLeod (1994),"Volcanic dust veil index, northern hemisphere,  1500-1969",1,1500,1,Meteorology,Row
-hurst,eaglecol.dat,Hipel and McLeod (1994),"Douglas fir, eagle, Colorado, U S A, 1107 � 1964",1,1107,1,Hydrology,Row
+hurst,eaglecol.dat,Hipel and McLeod (1994),"Douglas fir, eagle, Colorado, U S A, 1107 – 1964",1,1107,1,Hydrology,Row
 monthly,elbe.dat,Hipel and McLeod (1994),"Monthly Riverflows, Elbe River.",12,1,1,Hydrology,Row
 annual,elecus.dat,Hipel and McLeod (1994),"Total electricity consumption, U.S. kilowatt-hours (millions), 1920-1970",1,1920,1,Utilities,Row
 monthly,engines.dat,Hipel and McLeod (1994),"Motor vehicles engines and parts/CPI, Canada, 1976-1991",12,1976,1,Industry,Row
 noakes,english.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, English River near sioux lookout, 1922 -  1977",12,1922,1,Hydrology,Row
-hurst,espanola.dat,Hipel and McLeod (1994),"Mud varve data, Swidish time scale, Espanola, Canada, 204 � 908",1,1,1,Hydrology,Row
-hurst,exshaw.dat,Hipel and McLeod (1994),"Douglas fir, exshaw, Alberta, Canada, 1460 � 1965",1,1460,1,Hydrology,Row
-noakes,feather.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Feather River at oroville, California, Oct.1902 � Sep. 1977",12,1902.75,1,Hydrology,Row
+hurst,espanola.dat,Hipel and McLeod (1994),"Mud varve data, Swidish time scale, Espanola, Canada, 204 – 908",1,1,1,Hydrology,Row
+hurst,exshaw.dat,Hipel and McLeod (1994),"Douglas fir, exshaw, Alberta, Canada, 1460 – 1965",1,1460,1,Hydrology,Row
+noakes,feather.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Feather River at oroville, California, Oct.1902 – Sep. 1977",12,1902.75,1,Hydrology,Row
 commod,feed.dat,Hipel and McLeod (1994),"Feeder cattle contracts, close price on 95 consecutive trading days",,1,1,Microeconomic,Row
 commod,feedh.dat,Hipel and McLeod (1994),"High feeder cattle, Apr, 81",,1,1,Microeconomic,Row
 commod,feedl.dat,Hipel and McLeod (1994),"Low feeder cattle, Apr, 81",,1,1,Microeconomic,Row
 astatkie,fisher.dat,Hipel and McLeod (1994),"Mean daily flow, Fisher River near Dallas, Jan 01, 1988 to Dec 31, 1991",365,1988,4,Hydrology,Row
 astatkie,fisherp.dat,Hipel and McLeod (1994),"Total daily precipitation, Fisher River near Dallas, Jan 01, 1988 to Dec 31, 1991",365,1988,4,Meteorology,Row
 astatkie,fishert.dat,Hipel and McLeod (1994),"Mean daily temperature, Fisher River near Dallas, Jan 01, 1988 to Dec 31, 1991",365,1988,4,Meteorology,Row
-sanfran,flow.dat,Hipel and McLeod (1994),"Monthly Riverflow, San Francisco River, 1928 � 1966",12,1828,1,Hydrology,Row
-wisconsi,food.dat,Hipel and McLeod (1994),"Wisconsin employment time series, food and kindred products, Jan. 1961 � Oct. 1975",12,1961,1,Labour market,Row
+sanfran,flow.dat,Hipel and McLeod (1994),"Monthly Riverflow, San Francisco River, 1928 – 1966",12,1828,1,Hydrology,Row
+wisconsi,food.dat,Hipel and McLeod (1994),"Wisconsin employment time series, food and kindred products, Jan. 1961 – Oct. 1975",12,1961,1,Labour market,Row
 annual,fortalez.dat,Hipel and McLeod (1994),"Annual rainfall at fortaleza, Brazil, 1849-1979",1,1849,5,Meteorology,Row
 monthly,fraser.dat,Hipel and McLeod (1994),"Fraser River at hope, 1913-1990",12,1913,1,Hydrology,Row
 annual,frncha.dat,Hipel and McLeod (1994),"French broad River at Ashville, N.C.",1,1,1,Hydrology,Row
 annual,frnchb.dat,Hipel and McLeod (1994),"French broad River near Newport, Tenn",1,1,1,Hydrology,Row
-monthly,furnas.dat,Hipel and McLeod (1994),"Furnas � vazoes medias mensais (M3/S), 1931-1978",12,1931,1,Hydrology,Row
+monthly,furnas.dat,Hipel and McLeod (1994),"Furnas – vazoes medias mensais (M3/S), 1931-1978",12,1931,1,Hydrology,Row
 annual,globtp.dat,Hipel and McLeod (1994),"Annual changes in global temperature, 1880-1985",1,1880,7,Meteorology,Row
 commod,gold.dat,Hipel and McLeod (1994),"Gold close price, 97 successive trading days",,1,1,Microeconomic,Row
 commod,goldh.dat,Hipel and McLeod (1994),"High gold close price, June, 81",,1,1,Microeconomic,Row
@@ -305,74 +305,74 @@ monthly,hankou.dat,Hipel and McLeod (1994),"Monthly flows, chang jiang at han ko
 ecology1,hbco.dat,Hipel and McLeod (1994),"Coloured fox fur returns, H. B. Co, Ungava District, 1868-1924",1,1868,3,Ecology,Row
 ecology1,hebron.dat,Hipel and McLeod (1994),"Coloured fox fur production, Hebron, Labrador, 1834-1925",1,1834,4,Ecology,Row
 ecology1,hopedale.dat,Hipel and McLeod (1994),"Coloured fox fur returns, Hopedale, Labrador, 1834-1925",1,1834,3,Ecology,Row
-annual,huron.dat,Hipel and McLeod (1994),"Mean July average water surface elevation, in feet, for harbour beach,Michigan, on Lake huron, station 5014,1875 � 1972",1,1875,5,Hydrology,Row
+annual,huron.dat,Hipel and McLeod (1994),"Mean July average water surface elevation, in feet, for harbour beach,Michigan, on Lake huron, station 5014,1875 – 1972",1,1875,5,Hydrology,Row
 noakes,james.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, James  River at buchanan, VA, 1911 -  1960",12,1911,1,Hydrology,Row
 noakes,judith.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Judith River at utica, MT., 1920 -  1960",12,1920,1,Hydrology,Row
-annual,kiewa.dat,Hipel and McLeod (1994),"Kiewa River at Kiewa, Victoria, 1885 � 1954",1,1885,1,Hydrology,Row
+annual,kiewa.dat,Hipel and McLeod (1994),"Kiewa River at Kiewa, Victoria, 1885 – 1954",1,1885,1,Hydrology,Row
 misc,kings.dat,Hipel and McLeod (1994),"Age of death of successive kings of England, starting with William the Conqueror",,1,3,Demography,Row
-thompsto,lacstjin.dat,Hipel and McLeod (1994),"Quarter-monthly inflows, Lac St-Jean Reservoir, 1953 � 1982",,1953,1,Hydrology,Row
-thompsto,lacstjra.dat,Hipel and McLeod (1994),"Quarter-monthly rainfall, Lac St-Jean Region, 1953 � 1982",,1953,1,Hydrology,Row
-thompsto,lacstjsn.dat,Hipel and McLeod (1994),"Fonte de neige par quart de mois, 1953 � 1982",,1953,1,Hydrology,Row
-hurst,lakeview.dat,Hipel and McLeod (1994),"Ponderosa pine, Lakeview oregon, U S A, 1421 � 1964",1,1421,1,Hydrology,Row
+thompsto,lacstjin.dat,Hipel and McLeod (1994),"Quarter-monthly inflows, Lac St-Jean Reservoir, 1953 – 1982",,1953,1,Hydrology,Row
+thompsto,lacstjra.dat,Hipel and McLeod (1994),"Quarter-monthly rainfall, Lac St-Jean Region, 1953 – 1982",,1953,1,Hydrology,Row
+thompsto,lacstjsn.dat,Hipel and McLeod (1994),"Fonte de neige par quart de mois, 1953 – 1982",,1953,1,Hydrology,Row
+hurst,lakeview.dat,Hipel and McLeod (1994),"Ponderosa pine, Lakeview oregon, U S A, 1421 – 1964",1,1421,1,Hydrology,Row
 data,lynx.dat,Hipel and McLeod (1994),"Annual number of lynx trapped, MacKenzie River, 1821-1934",1,1821,9,Ecology,Row
 noakes,mad.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Mad River at springfield, OH., 1915 -  1960",12,1915,1,Hydrology,Row
-noakes,madison.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Madison River near west yellowstone, MT., 1923 � 1960",12,1923,1,Hydrology,Row
+noakes,madison.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Madison River near west yellowstone, MT., 1923 – 1960",12,1923,1,Hydrology,Row
 ecology1,marten.dat,Hipel and McLeod (1994),"Fur sales, marten, H. B. Co., 1850-1911",1,1850,3,Ecology,Row
 noakes,mboulder.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Middle builder Creek at nederland, Co, 1912 -  1960",12,1912,1,Hydrology,Row
-annual,mcken.dat,Hipel and McLeod (1994),"Mckenzie River at Mckenzie bridge, Oregon, 1911 � 1957",1,1911,1,Hydrology,Row
+annual,mcken.dat,Hipel and McLeod (1994),"Mckenzie River at Mckenzie bridge, Oregon, 1911 – 1957",1,1911,1,Hydrology,Row
 epi,measlbal.dat,Hipel and McLeod (1994),"Monthly reported number of cases of measles, Baltimore, Jan. 1939 to June 1972",12,1939,1,Health,Row
 epi,measlnyc.dat,Hipel and McLeod (1994),"Monthly reported number of cases of measles, New York city, 1928-1972",12,1928,1,Health,Row
-wisconsi,metals.dat,Hipel and McLeod (1994),"Wisconsin employment time series, fabricated metals, Jan. 1961 � OCt. 1975",12,1961,1,Labour market,Row
-annual,minimum.dat,Hipel and McLeod (1994),"Annual minimum level of Nile River, 622 � 1921",1,622,1,Hydrology,Row
+wisconsi,metals.dat,Hipel and McLeod (1994),"Wisconsin employment time series, fabricated metals, Jan. 1961 – OCt. 1975",12,1961,1,Labour market,Row
+annual,minimum.dat,Hipel and McLeod (1994),"Annual minimum level of Nile River, 622 – 1921",1,622,1,Hydrology,Row
 data,mink.dat,Box & Jenkins (1976),"Fur sales, mink, H. B. Co, 1848-1911",1,1848,3,Ecology,Row
 noakes,misinab.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Missinaibi River at mattice, 1921 -  1976",12,1921,1,Hydrology,Row
-annual,mstouis.dat,Hipel and McLeod (1994),"Mississippi River near st.Louis, Mo., 1861 � 1957",1,1861,1,Hydrology,Row
+annual,mstouis.dat,Hipel and McLeod (1994),"Mississippi River near st.Louis, Mo., 1861 – 1957",1,1861,1,Hydrology,Row
 epi,mumps.dat,Hipel and McLeod (1994),"Monthly reported number of cases of mumps, New York city, 1928-1972",12,1928,1,Health,Row
 data,muskrat.dat,Hipel and McLeod (1994),"Fur sales, muskrat, H. B. Co, 1848-1911",1,1848,3,Ecology,Row
 ecology1,nain.dat,Hipel and McLeod (1994),"Coloured fox fur production, Nain, Labrador, 1834-1925",1,1834,4,Ecology,Row
-noakes,namakan.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Namakan River at lac la croix, Ont., 1923 � Sep. 1977",12,1923,1,Hydrology,Row
-hurst,naramata.dat,Hipel and McLeod (1994),"Ponderosa pine, naramata, Britsh Columbia, Canada, 1951 � 1965",1,1951,1,Hydrology,Row
+noakes,namakan.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Namakan River at lac la croix, Ont., 1923 – Sep. 1977",12,1923,1,Hydrology,Row
+hurst,naramata.dat,Hipel and McLeod (1994),"Ponderosa pine, naramata, Britsh Columbia, Canada, 1951 – 1965",1,1951,1,Hydrology,Row
 hurst,navajo.dat,Hipel and McLeod (1994),"Douglus fir, navajo national monument (betatakin), Arizona, USA, 700 years",1,1,1,Hydrology,Row
 noakes,neches.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Neches River at rockland, Texas, 1914 -  1960",12,1914,1,Hydrology,Row
-annual,neumunas.dat,Hipel and McLeod (1994),"Neumunas River at Smalininkai, Lituania, USSR, 1811 � 1943",1,1811,1,Hydrology,Row
+annual,neumunas.dat,Hipel and McLeod (1994),"Neumunas River at Smalininkai, Lituania, USSR, 1811 – 1943",1,1811,1,Hydrology,Row
 monthly,niagra.dat,Hipel and McLeod (1994),"Monthly mean discharge in cubic mters per second for the period of record,Niagra River at Queenston, 1860-1990",13,1860,4,Hydrology,Row
 monthly,nigeria.dat,Hipel and McLeod (1994),Nigeria power consumption,12,1,1,Utilities,Row
-annual,nile.dat,Hipel and McLeod (1994),"Average annual River flow, Nile at Aswan, 1870 � 1945",1,1870,1,Hydrology,Row
-annual,nile2.dat,Hipel and McLeod (1994),"Mean annual Nile flow, 1871 � 1970",1,1871,10,Hydrology,Row
+annual,nile.dat,Hipel and McLeod (1994),"Average annual River flow, Nile at Aswan, 1870 – 1945",1,1870,1,Hydrology,Row
+annual,nile2.dat,Hipel and McLeod (1994),"Mean annual Nile flow, 1871 – 1970",1,1871,10,Hydrology,Row
 monthly,nilemon.dat,Hipel and McLeod (1994),"Mean monthly nile River flow (cms), at Aaswan, 1870-1932",12,1870,1,Hydrology,Row
-hurst,ninemile.dat,Hipel and McLeod (1994),"Douglas fir, ninemile canyon (high), Uthah, U S A, 1194 � 1964",1,1194,1,Hydrology,Row
-noakes,nmagnet.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, N. Magnetawan River at burks falls, 1916 � Sep. 1977",12,1916,1,Hydrology,Row
+hurst,ninemile.dat,Hipel and McLeod (1994),"Douglas fir, ninemile canyon (high), Uthah, U S A, 1194 – 1964",1,1194,1,Hydrology,Row
+noakes,nmagnet.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, N. Magnetawan River at burks falls, 1916 – Sep. 1977",12,1916,1,Hydrology,Row
 annual,nywater.dat,Hipel and McLeod (1994),"Annual water use in New York city, litres per capita per day, 1898-1968",1,1898,1,Utilities,Row
-annual,ogden.dat,Hipel and McLeod (1994),"St. Lawrence River at Ogdensburg, N.Y., 1860 � 1957",1,1860,1,Hydrology,Row
+annual,ogden.dat,Hipel and McLeod (1994),"St. Lawrence River at Ogdensburg, N.Y., 1860 – 1957",1,1860,1,Hydrology,Row
 ecology1,okak.dat,Hipel and McLeod (1994),"Coloured fox fur production, oak, Labrador, 1834-1925",1,1834,4,Ecology,Row
 astatkie,oldman.dat,Hipel and McLeod (1994),"Mean daily flow, Oldman Rivernear Brocket, Jan 01, 1988 to Dec 31, 1991",365,1988,4,Hydrology,Row
 astatkie,oldmanp.dat,Hipel and McLeod (1994),"Total daily precipitation, Oldman Rivernear Brocket, Jan 01, 1988 to Dec 31, 1991",365,1988,9,Meteorology,Row
 astatkie,oldmant.dat,Hipel and McLeod (1994),"Mean daily temperature, Oldman Rivernear Brocket, Jan 01, 1988 to Dec 31, 1991",365,1988,9,Meteorology,Row
-noakes,oostanau.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Oostanaula River at resaca, GA, 1893 � 1960",12,1893,1,Hydrology,Row
+noakes,oostanau.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Oostanaula River at resaca, GA, 1893 – 1960",12,1893,1,Hydrology,Row
 ecology1,otter.dat,Hipel and McLeod (1994),"Fur sales, otter (land), H. B. Co., 1850-1911",1,1850,3,Ecology,Row
 monthly,ozone.dat,Hipel and McLeod (1994),"Ozon concentration, downtown L. A., 1955-1972",12,1955,1,Meteorology,Row
 misc,pack.dat,Hipel and McLeod (1994),Indoor temperature (Y) and out door temperature(X),,1,2,Meteorology,Row
 monthly,peas.dat,Hipel and McLeod (1994),"Precipitation in mm., Eastport, USA, 1887-1950",12,1887,1,Meteorology,Row
 annual,pgreat1.dat,Hipel and McLeod (1994),"Annual precipitation in inches, entire great Lakes, 1900-1986",1,1900,5,Meteorology,Row
 noakes,pigeon.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Pigeon River near middle falls ont., 1924 -  1977",12,1924,1,Hydrology,Row
-monthly,piper.dat,Hipel and McLeod (1994),"Mean monthly flow, piper�s hole River, 1953-1981",12,1953,1,Hydrology,Row
+monthly,piper.dat,Hipel and McLeod (1994),"Mean monthly flow, piper–s hole River, 1953-1981",12,1953,1,Hydrology,Row
 commod,pork.dat,Hipel and McLeod (1994),"Closing price of porkbellies, 99 consecutive trading days",,1,1,Microeconomic,Row
 commod,porkh.dat,Hipel and McLeod (1994),"High closing price of porkbellies, 99 consecutive trading days",,1,1,Microeconomic,Row
 commod,porkl.dat,Hipel and McLeod (1994),"Low closing price of porkbellies, 99 consecutive trading days",,1,1,Microeconomic,Row
 monthly,pphil.dat,Hipel and McLeod (1994),"Monthly precipitation (mm), Philadelphia, 1820-1950",12,1820,1,Meteorology,Row
-londonwq,prec.dat,Hipel and McLeod (1994),"Monthly precipitation (in mm), Jan 1983 � April 1994. London, United Kingdom.",12,1983,1,Utilities,Row
-sanfran,precip.dat,Hipel and McLeod (1994),"Monthly precipitation (mm), Southwestern mountain region, 1932 � 1966",12,1932,1,Hydrology,Row
-lamarche,precip.dat,Hipel and McLeod (1994),"Mean monthly precipitation, 1907 � 1972",12,1907,1,Tree-rings,Row
-hurst,precip1.dat,Hipel and McLeod (1994),"Total annual rainfall (in inches), London, England, 1813 � 1912",1,1813,1,Meteorology,Row
+londonwq,prec.dat,Hipel and McLeod (1994),"Monthly precipitation (in mm), Jan 1983 – April 1994. London, United Kingdom.",12,1983,1,Utilities,Row
+sanfran,precip.dat,Hipel and McLeod (1994),"Monthly precipitation (mm), Southwestern mountain region, 1932 – 1966",12,1932,1,Hydrology,Row
+lamarche,precip.dat,Hipel and McLeod (1994),"Mean monthly precipitation, 1907 – 1972",12,1907,1,Tree-rings,Row
+hurst,precip1.dat,Hipel and McLeod (1994),"Total annual rainfall (in inches), London, England, 1813 – 1912",1,1813,1,Meteorology,Row
 misc,qbirths.dat,Hipel and McLeod (1994),"Number of daily births in Quebec, Jan. 01, 1977 to Dec. 31, 1990",365,1977,2,Demography,Row
 prothero,qconsum.dat,Hipel and McLeod (1994),Quarterly U.K. economic time series from a case study reported by D.L. Prothero and K.F. Wallis (1976),4,1,3,Macroeconomic,Row
 ecology1,racoon.dat,Hipel and McLeod (1994),"Fur sales, racoon, H. B. Co., 1850-1911",1,1850,3,Ecology,Row
-noakes,rappahan.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Rappahannock River near fredericksburg, VA, 1911 � 1960",12,1911,1,Hydrology,Row
+noakes,rappahan.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Rappahannock River near fredericksburg, VA, 1911 – 1960",12,1911,1,Hydrology,Row
 monthly,reddeer.dat,Hipel and McLeod (1994),"Monthly Riverflow of red deer River at red deer Alberta, 1942-1974",12,1942,1,Hydrology,Row
-annual,rhine.dat,Hipel and McLeod (1994),"Rhine River near basle, Switzerland, 1807 � 1957",1,1807,1,Hydrology,Row
-noakes,richelu.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Richelieu River at fryers rapds, Que, 1938 � 1977",12,1938,1,Hydrology,Row
-lamarche,ring.dat,Hipel and McLeod (1994),"Campito treerings, 1907 � 1960",1,1907,1,Tree-rings,Row
-noakes,riogrand.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Furnas � vazoes medias mensais, 1931 � 1978",12,1931,1,Hydrology,Row
+annual,rhine.dat,Hipel and McLeod (1994),"Rhine River near basle, Switzerland, 1807 – 1957",1,1807,1,Hydrology,Row
+noakes,richelu.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Richelieu River at fryers rapds, Que, 1938 – 1977",12,1938,1,Hydrology,Row
+lamarche,ring.dat,Hipel and McLeod (1994),"Campito treerings, 1907 – 1960",1,1907,1,Tree-rings,Row
+noakes,riogrand.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Furnas – vazoes medias mensais, 1931 – 1978",12,1931,1,Hydrology,Row
 monthly,riotiete.dat,Hipel and McLeod (1994),"Vazoes medias mensais do rio tiete, posto cumbica, 1948-1978",12,1948,1,Hydrology,Row
 misc,salesx.dat,Hipel and McLeod (1994),"Sales of company X, Jan. 1965 to May 1971",12,1965,4,Sales,Row
 astatkie,saugeen.dat,Hipel and McLeod (1994),"Mean daily flow, Saugeen River near Port Elgin, Jan 01, 1988 to Dec 31, 1991",365,1988,2,Hydrology,Row
@@ -380,84 +380,84 @@ misc,saugeen.dat,Hipel and McLeod (1994),"Mean daily saugeen River flows, Jan 01
 noakes,saugeen.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Saugeen River, Walkerton, 1915-1976",12,1915,1,Hydrology,Row
 astatkie,saugeenp.dat,Hipel and McLeod (1994),"Mean daily precipitation, Saugeen River near Port Elgin, Jan 01, 1988 to Dec 31, 1991",365,1988,5,Meteorology,Row
 astatkie,saugeent.dat,Hipel and McLeod (1994),"Mean daily temperature, Saugeen River near Port Elgin, Jan 01, 1988 to Dec 31, 1991",365,1988,5,Meteorology,Row
-noakes,sfskykom.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, S. F. Skykomish River near index, Washington, Oct.1923 � Sep. 1960",12,1923.75,1,Hydrology,Row
+noakes,sfskykom.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, S. F. Skykomish River near index, Washington, Oct.1923 – Sep. 1960",12,1923.75,1,Hydrology,Row
 ecology1,skunk.dat,Hipel and McLeod (1994),"Fur sales, skunk, H. B. Co., 1850-1911",1,1850,3,Ecology,Row
-hurst,snake.dat,Hipel and McLeod (1994),"Douglas fir, snake River basin, U S A, 1282 � 1950",1,1282,1,Hydrology,Row
+hurst,snake.dat,Hipel and McLeod (1994),"Douglas fir, snake River basin, U S A, 1282 – 1950",1,1282,1,Hydrology,Row
 commod,soy.dat,Hipel and McLeod (1994),"Soybean contracts, close price on 99 consecutive trading days",,1,1,Microeconomic,Row
 commod,soyh.dat,Hipel and McLeod (1994),"High soybean contracts, close price on 99 consecutive trading days",,1,1,Microeconomic,Row
 commod,soyl.dat,Hipel and McLeod (1994),"Low soybean contracts, close price on 99 consecutive trading days",,1,1,Microeconomic,Row
 annual,spirits.dat,Hipel and McLeod (1994),"Alcohol demand (log spirits consumption per head), UK, 1870-1938",1,1870,10,Sales,Row
 monthly,ssask.dat,Hipel and McLeod (1994),"Monthly flows in cm, s. sask River at sasktoon, 1912-1974",12,1912,1,Hydrology,Row
 noakes,ssask.dat,Hipel and McLeod (1994),"Monthly river flows in cms, S. Sask River at Sasktoon. Oct 1911-Oct 1963",12,1911.75,1,Hydrology,Row
-noakes,stjohns.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Saint johns River at fort kent, 1927 � 1977",12,1927,1,Hydrology,Row
-pruscha,summer.dat,Hipel and McLeod (1994),"Mean summer temperature (in deg. C), 1781 � 1988",1,1781,1,Meteorology,Row
+noakes,stjohns.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Saint johns River at fort kent, 1927 – 1977",12,1927,1,Hydrology,Row
+pruscha,summer.dat,Hipel and McLeod (1994),"Mean summer temperature (in deg. C), 1781 – 1988",1,1781,1,Meteorology,Row
 monthly,sunsptmo.dat,Hipel and McLeod (1994),"Monthly sunspot number, Zurich, 1749-1983",12,1749,1,Physics,Row
-sanfran,temper.dat,Hipel and McLeod (1994),"Monthly mean temperatures, Southwestern mountain region, 1932 � 1966",12,1932,1,Hydrology,Row
-lamarche,temper.dat,Hipel and McLeod (1994),"Mean monthly temperature, 1907 � 1972",12,1907,1,Meteorology,Row
-londonwq,temper.dat,Hipel and McLeod (1994),"Monthly temperature (in Celsius), Jan 1983 � April 1994. London, United Kingdom.",12,1983,1,Meteorology,Row
-hurst,temper1.dat,Hipel and McLeod (1994),"Average annual temperature, central England, 1723 � 1970",1,1723,1,Meteorology,Row
-annual,thames.dat,Hipel and McLeod (1994),"Thames River near teddington, England, 1883 � 1954",1,1883,1,Hydrology,Row
-hurst,tioga.dat,Hipel and McLeod (1994),"Jeffrey pine, tioga pass, California, U S A, 1304 � 1964",1,1304,1,Hydrology,Row
+sanfran,temper.dat,Hipel and McLeod (1994),"Monthly mean temperatures, Southwestern mountain region, 1932 – 1966",12,1932,1,Hydrology,Row
+lamarche,temper.dat,Hipel and McLeod (1994),"Mean monthly temperature, 1907 – 1972",12,1907,1,Meteorology,Row
+londonwq,temper.dat,Hipel and McLeod (1994),"Monthly temperature (in Celsius), Jan 1983 – April 1994. London, United Kingdom.",12,1983,1,Meteorology,Row
+hurst,temper1.dat,Hipel and McLeod (1994),"Average annual temperature, central England, 1723 – 1970",1,1723,1,Meteorology,Row
+annual,thames.dat,Hipel and McLeod (1994),"Thames River near teddington, England, 1883 – 1954",1,1883,1,Hydrology,Row
+hurst,tioga.dat,Hipel and McLeod (1994),"Jeffrey pine, tioga pass, California, U S A, 1304 – 1964",1,1304,1,Hydrology,Row
 monthly,tpmon.dat,Hipel and McLeod (1994),"Monthly temperature in England (F), 1723-1970",12,1723,1,Meteorology,Row
-wisconsi,trade.dat,Hipel and McLeod (1994),"Wisconsin employment time series, trade, Jan. 1961 � OCt. 1975",12,1961,1,Labour market,Row
-wisconsi,traneq.dat,Hipel and McLeod (1994),"Wisconsin employment time series, transportation equipment, Jan. 1961 � OCt. 1975",12,1961,1,Labour market,Row
-noakes,trinity.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Trinity River at lewiston, California, Oct.1912 � Sep. 1960",12,1912.75,1,Hydrology,Row
+wisconsi,trade.dat,Hipel and McLeod (1994),"Wisconsin employment time series, trade, Jan. 1961 – OCt. 1975",12,1961,1,Labour market,Row
+wisconsi,traneq.dat,Hipel and McLeod (1994),"Wisconsin employment time series, transportation equipment, Jan. 1961 – OCt. 1975",12,1961,1,Labour market,Row
+noakes,trinity.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Trinity River at lewiston, California, Oct.1912 – Sep. 1960",12,1912.75,1,Hydrology,Row
 monthly,tseoil.dat,Hipel and McLeod (1994),"Shartes traded in oil and mining stock, TSE",12,1,2,Finance,Row
-noakes,turtle.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Turtle River near mine centre, Ont., 1921 � 1977",12,1921,1,Hydrology,Row
+noakes,turtle.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Turtle River near mine centre, Ont., 1921 – 1977",12,1921,1,Hydrology,Row
 commod,ush.dat,Hipel and McLeod (1994),"High U.S. treasury bill contracts, 100 consecutive trading days",,1,1,Finan+H77ce,Row
 commod,usl.dat,Hipel and McLeod (1994),"Low U.S. treasury bill contracts, 100 consecutive trading days",,1,1,Finance,Row
 annual,usm1.dat,Hipel and McLeod (1994),"M1, U.S. 1959.1-1992.2",12,1959,1,Finance,Row
 annual,usm2.dat,Hipel and McLeod (1994),"M2, U.S. 1959.1-1992.2",12,1959,1,Finance,Row
 annual,usm3.dat,Hipel and McLeod (1994),"M3, U.S. 1959.1-1992.2",12,1959,1,Finance,Row
-londonwq,waterq.dat,Hipel and McLeod (1994),"Residential water consumption, Jan 1983 � April 1994. Missing value for June 1988 (66th obs.) estimated by intervention analysis. London, United Kingdom.",12,1983,3,Utilities,Row
-noakes,wbdelawa.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, West branch delaware River at hale eddy, NY, 1916 � 1960",12,1916,1,Hydrology,Row
-hurst,whitemtn.dat,Hipel and McLeod (1994),"Bristlecone pine, white mountains, California, U S A, 800 � 1963",1,800,1,Hydrology,Row
-pruscha,winter.dat,Hipel and McLeod (1994),"Winter negative temperature sum (in deg. C), 1781 � 1988",1,1781,1,Meteorology,Row
+londonwq,waterq.dat,Hipel and McLeod (1994),"Residential water consumption, Jan 1983 – April 1994. Missing value for June 1988 (66th obs.) estimated by intervention analysis. London, United Kingdom.",12,1983,3,Utilities,Row
+noakes,wbdelawa.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, West branch delaware River at hale eddy, NY, 1916 – 1960",12,1916,1,Hydrology,Row
+hurst,whitemtn.dat,Hipel and McLeod (1994),"Bristlecone pine, white mountains, California, U S A, 800 – 1963",1,800,1,Hydrology,Row
+pruscha,winter.dat,Hipel and McLeod (1994),"Winter negative temperature sum (in deg. C), 1781 – 1988",1,1781,1,Meteorology,Row
 ecology1,wolf.dat,Hipel and McLeod (1994),"Fur sales, wolf, H. B. Co., 1850-1911",1,1850,3,Ecology,Row
-noakes,wolf.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Wolf  River at new London, 1914 � 1960",12,1914,1,Hydrology,Row
+noakes,wolf.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Wolf  River at new London, 1914 – 1960",12,1914,1,Hydrology,Row
 ecology1,wolveren.dat,Hipel and McLeod (1994),"Fur sales, wolfereneracoon, H. B. Co., 1850-1911",1,1850,3,Ecology,Row
 monthly,woods.dat,Hipel and McLeod (1994),"Monthly mean water levels in meters, Lake of the wood at warroad, 1916-1965",12,1916,6,Hydrology,Row
 monthly,wqlondon.dat,Hipel and McLeod (1994),"Monthly water usage (ml/day), London Ontario, 1966-1988",12,1966,1,Utilities,Row
-pruscha,year.dat,Hipel and McLeod (1994),"Mean annual temperature (in deg. C), 1781 � 1988",1,1781,1,Meteorology,Row
+pruscha,year.dat,Hipel and McLeod (1994),"Mean annual temperature (in deg. C), 1781 – 1988",1,1781,1,Meteorology,Row
 data,ftemp.dat,Hyndman consulting project,Daily morning temperature of adult female: degrees Celsius. 10 July 1990 - 7 September 1990. Menstruation on 11 July and 6 August. Probable fever on 11 July. Pregnancy from about 13 August.,,1,0,Health,Row
-data,gold.dat,Hyndman consulting project,Daily morning gold prices: $US. 1 Jan 1985 � 31 Mar 1989.,,1,0,Microeconomic,Row
+data,gold.dat,Hyndman consulting project,Daily morning gold prices: $US. 1 Jan 1985 – 31 Mar 1989.,,1,0,Microeconomic,Row
 data,prodc.dat,Hyndman consulting project,Sales of product C,12,1,0,Sales,Row
 data,jenkins10.dat,Jenkins & Watts (1980),Power station data: voltage deviations,,1,0,Industry,Row
 data,jenkins11.dat,Jenkins & Watts (1980),Power station data: frequency deviations,,1,0,Industry,Row
-data,wrd.dat,John C Nash,Daily net retail sales. 5 May 2000 � 6 April 2003.,,1,0,Sales,Row
+data,wrd.dat,John C Nash,Daily net retail sales. 5 May 2000 – 6 April 2003.,,1,0,Sales,Row
 data,mcls82.dat,Kashiwagi & Yanagimoto (1992),"Weekly counts of the incidence of acute febrile muco-cutaneous lymph node syndrome (MCLS) in Totori-prefecture, Japan, during 1982",52,1982,,Health,Row
-data,kendall1.dat,Kendall & Ord (1990),Annual barley yields per acre in England & Wales 1884 � 1939,1,1884,0,Agriculture,Row
-data,kendall10.dat,Kendall & Ord (1990),U.K. imports: gross domestic fixed capital formation �60 � �70,4,1960,0,Macroeconomic,Row
-data,kendall2.dat,Kendall & Ord (1990),Annual sheep population (1000s) in England & Wales 1867 � 1939,1,1867,0,Agriculture,Row
+data,kendall1.dat,Kendall & Ord (1990),Annual barley yields per acre in England & Wales 1884 – 1939,1,1884,0,Agriculture,Row
+data,kendall10.dat,Kendall & Ord (1990),U.K. imports: gross domestic fixed capital formation –60 – –70,4,1960,0,Macroeconomic,Row
+data,kendall2.dat,Kendall & Ord (1990),Annual sheep population (1000s) in England & Wales 1867 – 1939,1,1867,0,Agriculture,Row
 data,kendall3.dat,Kendall & Ord (1990),U.S. airlines: monthly aircraft miles flown (Millions) 1963 -1970,12,1963,0,Transport and tourism,Row
-data,kendall5.dat,Kendall & Ord (1990),Financial Times index leading equity prices (quarterly) 1960 � 1971,4,1960,0,Finance,Row
-data,kendall7.dat,Kendall & Ord (1990),Quarterly U.K. imports: goods and services (Pound millions) �60 � �70,4,1960,0,Macroeconomic,Row
-data,kendall8.dat,Kendall & Ord (1990),"U.K. imports value of increases in stocks, work in prog. �60 � �70",4,1960,0,Macroeconomic,Row
-data,kendall9.dat,Kendall & Ord (1990),Quarterly U.K. imports: consumer expenditure on durables �60 � �70,4,1960,0,Macroeconomic,Row
-data,invest.dat,Lutkepohl,Quarterly seasonally adjusted West German Fixed investment Disposable income and Consumption expenditures: billions of DM. Mar 1960 � Dec 1982,4,1960,0,Finance,Column
+data,kendall5.dat,Kendall & Ord (1990),Financial Times index leading equity prices (quarterly) 1960 – 1971,4,1960,0,Finance,Row
+data,kendall7.dat,Kendall & Ord (1990),Quarterly U.K. imports: goods and services (Pound millions) –60 – –70,4,1960,0,Macroeconomic,Row
+data,kendall8.dat,Kendall & Ord (1990),"U.K. imports value of increases in stocks, work in prog. –60 – –70",4,1960,0,Macroeconomic,Row
+data,kendall9.dat,Kendall & Ord (1990),Quarterly U.K. imports: consumer expenditure on durables –60 – –70,4,1960,0,Macroeconomic,Row
+data,invest.dat,Lutkepohl,Quarterly seasonally adjusted West German Fixed investment Disposable income and Consumption expenditures: billions of DM. Mar 1960 – Dec 1982,4,1960,0,Finance,Column
 data,mexi001.dat,"M. Stokes, T. Harlan, S. Clemans: 05/23/73","Tree: San Pedro martir Low, Baja, Mexico. Ponderosa Pine 2133m 03110-11530 10",1,1449,0,Tree-rings,Row
-data,mwm1.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of radios Jan�67-Dec�71 (12F4.0),12,1967,0,Production,Row
-data,mwm11.dat,Makridakis & Wheelwright (1989),Harmon foods consumer packs Jan�65-Dec�69,12,1965,0,Miscellaneous,Row
-data,mwm12.dat,Makridakis & Wheelwright (1989),Harmon foods co-op merchandising allowances �65-�69,12,1965,0,Miscellaneous,Row
-data,mwm13.dat,Makridakis & Wheelwright (1989),Der Stern: Weekly delivery to wholesalers �71-�72,52,1971,0,Production,Row
-data,mwm14.dat,Makridakis & Wheelwright (1989),Der Stern: Weekly sales of wholesalers �71-�72,52,1971,0,Sales,Row
-data,mwm15.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers A, �71-�72",52,1971,0,Sales,Row
-data,mwm16.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers A, �71-�72",52,1971,0,Sales,Row
-data,mwm17.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers B, �71-�72",52,1971,0,Sales,Row
-data,mwm18.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers B, �71-�72",52,1971,0,Sales,Row
-data,mwm2.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of mixers Jan�67-Dec�71,12,1967,0,Production,Row
-data,mwm3.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of ariconditioners �67-�71,12,1967,0,Production,Row
-data,mwm4.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of blenders Jan�67-Dec�71,12,1967,0,Production,Row
-data,mwm5.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of can openers Jan�67-Dec�71,12,1967,0,Production,Row
-data,mwm6.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of dimonds Jan�67-Dec�71,12,1967,0,Production,Row
-data,mwm7.dat,Makridakis & Wheelwright (1989),Perrin Freres monthly champagne sales millions �64-�72,12,1964,0,Sales,Row
-data,mwm8.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of radios Jan�67-Dec�71 (12F5.0),12,1967,0,Production,Row
+data,mwm1.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of radios Jan–67-Dec–71 (12F4.0),12,1967,0,Production,Row
+data,mwm11.dat,Makridakis & Wheelwright (1989),Harmon foods consumer packs Jan–65-Dec–69,12,1965,0,Miscellaneous,Row
+data,mwm12.dat,Makridakis & Wheelwright (1989),Harmon foods co-op merchandising allowances –65-–69,12,1965,0,Miscellaneous,Row
+data,mwm13.dat,Makridakis & Wheelwright (1989),Der Stern: Weekly delivery to wholesalers –71-–72,52,1971,0,Production,Row
+data,mwm14.dat,Makridakis & Wheelwright (1989),Der Stern: Weekly sales of wholesalers –71-–72,52,1971,0,Sales,Row
+data,mwm15.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers A, –71-–72",52,1971,0,Sales,Row
+data,mwm16.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers A, –71-–72",52,1971,0,Sales,Row
+data,mwm17.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers B, –71-–72",52,1971,0,Sales,Row
+data,mwm18.dat,Makridakis & Wheelwright (1989),"Der Stern: Weekly sales of wholesalers B, –71-–72",52,1971,0,Sales,Row
+data,mwm2.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of mixers Jan–67-Dec–71,12,1967,0,Production,Row
+data,mwm3.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of ariconditioners –67-–71,12,1967,0,Production,Row
+data,mwm4.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of blenders Jan–67-Dec–71,12,1967,0,Production,Row
+data,mwm5.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of can openers Jan–67-Dec–71,12,1967,0,Production,Row
+data,mwm6.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of dimonds Jan–67-Dec–71,12,1967,0,Production,Row
+data,mwm7.dat,Makridakis & Wheelwright (1989),Perrin Freres monthly champagne sales millions –64-–72,12,1964,0,Sales,Row
+data,mwm8.dat,Makridakis & Wheelwright (1989),Lenex corporation: shipment of radios Jan–67-Dec–71 (12F5.0),12,1967,0,Production,Row
 data,mwm9.dat,Makridakis & Wheelwright (1989),CFE specialty writing papers monthly sales,12,1,0,Sales,Row
 data,10-6.dat,"Makridakis, Wheelwright and Hyndman (1998)",Oil prices in constant 1997 dollars. 1870-1997,1,1870,0,Microeconomic,Column
 data,9-10.dat,"Makridakis, Wheelwright and Hyndman (1998)","Nail prices, 1800-1996, in constant $",1,1800,0,Microeconomic,Row
 data,9-11.dat,"Makridakis, Wheelwright and Hyndman (1998)","Price of chicken, 1924-1993, in constant $",1,1924,0,Microeconomic,Row
 data,9-12.dat,"Makridakis, Wheelwright and Hyndman (1998)","Price of a dozen eggs, 1900-1993, in constant $",1,1900,0,Microeconomic,Row
-data,9-13.dat,"Makridakis, Wheelwright and Hyndman (1998)",Telephone cost: New York � San Francisco. 1915 � 1996,1,1915,0,Microeconomic,Row
+data,9-13.dat,"Makridakis, Wheelwright and Hyndman (1998)",Telephone cost: New York – San Francisco. 1915 – 1996,1,1915,0,Microeconomic,Row
 data,9-17a.dat,"Makridakis, Wheelwright and Hyndman (1998)","Annual Copper prices, 1800-1997",1,1800,1,Microeconomic,Column
 data,9-17b.dat,"Makridakis, Wheelwright and Hyndman (1998)","Quarterly S&P 500 index, 1900-1996",4,1900,1,Finance,Row
 data,9-4.dat,"Makridakis, Wheelwright and Hyndman (1998)","Yearly copper prices, 1800-1997 (1997 dollars)",1,1800,1,Microeconomic,Row
@@ -469,48 +469,48 @@ data,boston.dat,"Makridakis, Wheelwright and Hyndman (1998)",Monthly dollar volu
 data,canadian.dat,"Makridakis, Wheelwright and Hyndman (1998)",Canadian unemployment rate as a percentage of the civilian labor force between 1974 and the third quarter of 1975,4,1974,0,Labour market,Row
 data,capital.dat,"Makridakis, Wheelwright and Hyndman (1998)","Seasonally adjusted quarterly capital expenditure and appropriations in U.S. manufacturing, 1953-1974",4,1953,0,Macroeconomic,Column
 data,computer.dat,"Makridakis, Wheelwright and Hyndman (1998)",Number of users logged on to an Internet server each minute over 100 minutes,,1,0,Miscellaneous,Row
-data,condmilk.dat,"Makridakis, Wheelwright and Hyndman (1998)","Manufacturer�s stocks of evaporated and sweetened condensed milk (case goods), Jan 1971 � Dec 1980",12,1971,0,Production,Row
+data,condmilk.dat,"Makridakis, Wheelwright and Hyndman (1998)","Manufacturer–s stocks of evaporated and sweetened condensed milk (case goods), Jan 1971 – Dec 1980",12,1971,0,Production,Row
 data,eknives.dat,"Makridakis, Wheelwright and Hyndman (1998)",Sales of electric knives for the period Jan 1991 through April 1992,12,1991,0,Sales,Row
-data,elecnew.dat,"Makridakis, Wheelwright and Hyndman (1998)","The total generation of electricity by the U.S. electric industry (monthly data for the period Jan. 1985 � Oct. 1996) For recent data, click here",12,1985,0,Utilities,Row
+data,elecnew.dat,"Makridakis, Wheelwright and Hyndman (1998)","The total generation of electricity by the U.S. electric industry (monthly data for the period Jan. 1985 – Oct. 1996) For recent data, click here",12,1985,0,Utilities,Row
 data,fancy.dat,"Makridakis, Wheelwright and Hyndman (1998)","Monthly sales for a souvenir shop on the wharf at a beach resort town in Queensland, Australia. Jan 1987-Dec 1993",12,1987,0,Sales,Row
 data,french.dat,"Makridakis, Wheelwright and Hyndman (1998)",French index of industry,,,,Industry,Row
 data,fsales.dat,"Makridakis, Wheelwright and Hyndman (1998)",Quarterly reports of a French company,4,1,0,Sales,Row
-data,housing.dat,"Makridakis, Wheelwright and Hyndman (1998)","Monthly housing starts, construction contracts and average new home mortgate rates. Jan 83 � Oct 89",12,1983,0,Microeconomic,Column
+data,housing.dat,"Makridakis, Wheelwright and Hyndman (1998)","Monthly housing starts, construction contracts and average new home mortgate rates. Jan 83 – Oct 89",12,1983,0,Microeconomic,Column
 data,hsales.dat,"Makridakis, Wheelwright and Hyndman (1998)",Monthly sales of new one-family houses sold in th e USA since 1973,12,1973,0,Sales,Row
 data,hsales2.dat,"Makridakis, Wheelwright and Hyndman (1998)","Sales of new one-family houses, USA, from Jan 1987 through Nov 1995",12,1987,0,Sales,Row
 data,invent15.dat,"Makridakis, Wheelwright and Hyndman (1998)",Inventory demand for product E15,,1,0,Sales,Row
 data,jcars.dat,"Makridakis, Wheelwright and Hyndman (1998)",Japanese annual motor vehicle production for 1947-1989,1,1947,0,Production,Row
 data,motion.dat,"Makridakis, Wheelwright and Hyndman (1998)",Employment figures in the motion picture industry (SIC Code 78) for the period Jan. 1955 through Dec. 1970,,1,0,Microeconomic,Row
-data,olympic.dat,"Makridakis, Wheelwright and Hyndman (1998)",Winning times for the men�s 400 m final in each Olympic Games from 1896 to�1996,0.25,1896,0,Sport,Column
+data,olympic.dat,"Makridakis, Wheelwright and Hyndman (1998)",Winning times for the men–s 400 m final in each Olympic Games from 1896 to–1996,0.25,1896,0,Sport,Column
 data,paris.dat,"Makridakis, Wheelwright and Hyndman (1998)",Average monthly temperature in Paris,12,1,0,Meteorology,Row
-data,petrol.dat,"Makridakis, Wheelwright and Hyndman (1998)",US monthly sales of petroleum and related products. Jan 1971 � Dec 1991,12,1971,0,Sales,Column
+data,petrol.dat,"Makridakis, Wheelwright and Hyndman (1998)",US monthly sales of petroleum and related products. Jan 1971 – Dec 1991,12,1971,0,Sales,Column
 data,pollutn.dat,"Makridakis, Wheelwright and Hyndman (1998)",Monthly shipment of pollution equipment (in thousands of french francs),12,1966,0,Production,Row
 data,shampoo.dat,"Makridakis, Wheelwright and Hyndman (1998)",Sales of shampoo over a three year period,12,1,0,Sales,Row
 data,splastics.dat,"Makridakis, Wheelwright and Hyndman (1998)",Monthly sales of product A for a plastics manufacturer,12,1,0,Sales,Row
 data,ustreas.dat,"Makridakis, Wheelwright and Hyndman (1998)",US Treasury bill contracts,,,,Finance,Row
-data,wagesuk.dat,"Makridakis, Wheelwright and Hyndman (1998)","Real daily wages in pounds, England. 1260 � 1994",1,1260,0,Macroeconomic,Row
-data,writing.dat,"Makridakis, Wheelwright and Hyndman (1998)",Industry sales for printing and writing paper (in Thousands of french francs). January 1963 � December 1972,12,1963,0,Sales,Row
+data,wagesuk.dat,"Makridakis, Wheelwright and Hyndman (1998)","Real daily wages in pounds, England. 1260 – 1994",1,1260,0,Macroeconomic,Row
+data,writing.dat,"Makridakis, Wheelwright and Hyndman (1998)",Industry sales for printing and writing paper (in Thousands of french francs). January 1963 – December 1972,12,1963,0,Sales,Row
 data,indi002.dat,Malcolm Hughes,"Tree: Gulmarg, Kashmir. Himalayan Fir 2740m 3508 07430",1,1604,0,Tree-rings,Row
-data,mccleary1.dat,McCleary & Hay (1980),Annual German immigration to U.S. (1000's) 1870 � 1914 fried (1969),1,1870,0,Demography,Row
-data,mccleary10.dat,McCleary & Hay (1980),Monthly Minneapolis public drunkenness intakes Jan.�66-Jul�78,12,1966,0,Crime,Row
-data,mccleary11.dat,McCleary & Hay (1980),"Annual U.S. suicide rate (per 100,1000) 1920 � 1969",1,1920,0,Health,Row
+data,mccleary1.dat,McCleary & Hay (1980),Annual German immigration to U.S. (1000's) 1870 – 1914 fried (1969),1,1870,0,Demography,Row
+data,mccleary10.dat,McCleary & Hay (1980),Monthly Minneapolis public drunkenness intakes Jan.–66-Jul–78,12,1966,0,Crime,Row
+data,mccleary11.dat,McCleary & Hay (1980),"Annual U.S. suicide rate (per 100,1000) 1920 – 1969",1,1920,0,Health,Row
 data,mccleary12.dat,McCleary & Hay (1980),Daily Paris IBM closing prices (Francs) April-October 1976,,1,0,Finance,Row
 data,mccleary13.dat,McCleary & Hay (1980),Daily New York IBM closing prices (Francs) April-October 1976,,1,0,Finance,Row
-data,mccleary14.dat,McCleary & Hay (1980),Annual Swedish population rates (1000's) 1750 � 1849 Thomas (1940),1,1975,0,Demography,Row
+data,mccleary14.dat,McCleary & Hay (1980),Annual Swedish population rates (1000's) 1750 – 1849 Thomas (1940),1,1975,0,Demography,Row
 data,mccleary15.dat,McCleary & Hay (1980),Annual Swedish fertility rates (1000's) 1750-1849 Thomas (1940),1,1750,0,Health,Row
-data,mccleary3.dat,McCleary & Hay (1980),Annual nonfatal disabling mine injuries 1930 � 1978,1,1930,0,Health,Row
-data,mccleary4.dat,McCleary & Hay (1980),"Monthly Sutter county workforce, Jan.1946 � Dec.1966 priesema (1979)",12,1946,0,Labour market,Row
+data,mccleary3.dat,McCleary & Hay (1980),Annual nonfatal disabling mine injuries 1930 – 1978,1,1930,0,Health,Row
+data,mccleary4.dat,McCleary & Hay (1980),"Monthly Sutter county workforce, Jan.1946 – Dec.1966 priesema (1979)",12,1946,0,Labour market,Row
 data,mccleary5.dat,McCleary & Hay (1980),Monthly Boston armed robberies Jan.1966-Oct.1975 Deutsch and Alt (1977),12,1966,0,Crime,Row
-data,mccleary6.dat,McCleary & Hay (1980),"Annual Swedish harvest index, 1749 � 1850. Thomas (1940)",1,1749,0,Microeconomic,Row
-data,mccleary7.dat,McCleary & Hay (1980),Hyde Park purse snatchings in Chicago 28 day periods.  Jan�69 � Sep �73 Hay ,13,1969,,Crime,Row
-data,mccleary8.dat,McCleary & Hay (1980),Monthly average daily calls to directory assistance Jan.�62 � Dec�76,12,1962,0,Miscellaneous,Row
-data,amitta.dat,McMahon and Mein (1978),"Annual flows for Mitta Mitta River, Tallandoon, 1936 � 1968.",1,1936,0,Hydrology,Row
-data,acolo.dat,McMahon and Mein (1986),"Annual Flows, Colorado River Lees Ferry. 1911 � 1972",1,1911,0,Hydrology,Row
-data,afern.dat,McMahon and Mein (1986),"Annual flows, Fern Spruit, Plot 26 Weir, Zimbabwe. 1950 � 1979",1,1950,0,Hydrology,Row
-data,afunder.dat,McMahon and Mein (1986),"Annual Flows, Funder River, June � May. 1919 � 1956",1,1919,0,Hydrology,Row
-data,mcolo.dat,McMahon and Mein (1986),"Monthly Flows, Colorado River Lees Ferry. 1911 � 1972",12,1911,0,Hydrology,Row
-data,mfern.dat,McMahon and Mein (1986),"Monthly flows, Fern Spruit Plot 26 Weir, Zimbabwe. 1975 � 1979",12,1975,0,Hydrology,Row
-data,mfunder.dat,McMahon and Mein (1986),Monthly flows for Funder River Logager Bro. June 1919 � May 1956,12,1919.42,0,Hydrology,Row
+data,mccleary6.dat,McCleary & Hay (1980),"Annual Swedish harvest index, 1749 – 1850. Thomas (1940)",1,1749,0,Microeconomic,Row
+data,mccleary7.dat,McCleary & Hay (1980),Hyde Park purse snatchings in Chicago 28 day periods.  Jan–69 – Sep –73 Hay ,13,1969,,Crime,Row
+data,mccleary8.dat,McCleary & Hay (1980),Monthly average daily calls to directory assistance Jan.–62 – Dec–76,12,1962,0,Miscellaneous,Row
+data,amitta.dat,McMahon and Mein (1978),"Annual flows for Mitta Mitta River, Tallandoon, 1936 – 1968.",1,1936,0,Hydrology,Row
+data,acolo.dat,McMahon and Mein (1986),"Annual Flows, Colorado River Lees Ferry. 1911 – 1972",1,1911,0,Hydrology,Row
+data,afern.dat,McMahon and Mein (1986),"Annual flows, Fern Spruit, Plot 26 Weir, Zimbabwe. 1950 – 1979",1,1950,0,Hydrology,Row
+data,afunder.dat,McMahon and Mein (1986),"Annual Flows, Funder River, June – May. 1919 – 1956",1,1919,0,Hydrology,Row
+data,mcolo.dat,McMahon and Mein (1986),"Monthly Flows, Colorado River Lees Ferry. 1911 – 1972",12,1911,0,Hydrology,Row
+data,mfern.dat,McMahon and Mein (1986),"Monthly flows, Fern Spruit Plot 26 Weir, Zimbabwe. 1975 – 1979",12,1975,0,Hydrology,Row
+data,mfunder.dat,McMahon and Mein (1986),Monthly flows for Funder River Logager Bro. June 1919 – May 1956,12,1919.42,0,Hydrology,Row
 data,montgome1.dat,Montgomery & Johnson (1976),Chemical process: viscosity data (Montgomery & Johnson),,1,0,Chemistry,Row
 data,montgome10.dat,Montgomery & Johnson (1976),Monthly demand for carpet (p.272: Montgomery: Fore. & T.S.),12,1,0,Sales,Row
 data,montgome11.dat,Montgomery & Johnson (1976),Monthly champagne sales (in 1000's) (p.273: Montgomery: Fore. & T.S.),12,1,0,Sales,Row
@@ -526,12 +526,12 @@ data,montgome6.dat,Montgomery & Johnson (1976),"Weekly demand for crankshaft (p.
 data,montgome7.dat,Montgomery & Johnson (1976),Weekly demand of a spare part (p.271: Montgomery),52,1,0,Sales,Row
 data,montgome8.dat,Montgomery & Johnson (1976),Chemical process readings every two minutes (p.272: Montgomery),,1,0,Chemistry,Row
 data,montgome9.dat,Montgomery & Johnson (1976),Monthly sales of soft drink (hundreds of cases) (p.272: Montgomery),12,1,0,Sales,Row
-data,cars.dat,Motor Vehicle Manufacturers Association of the U.S. (1988) and US Government (1989),US motor vehicle production and percent change in US GNP. 1950 � 1987.,1,1950,0,Production,Column
+data,cars.dat,Motor Vehicle Manufacturers Association of the U.S. (1988) and US Government (1989),US motor vehicle production and percent change in US GNP. 1950 – 1987.,1,1950,0,Production,Column
 data,earthq.dat,National Earthquake Information Center. Different lists will give different numbers depending on the formula used for calculating the magnitude. ,Number of earthquakes per year magnitude 7.0 or greater. 1900-1998,1,1900,0,Physics,Row
 data,ausgundeaths.dat,"Neill and Leigh (2008) ""Do Gun buy-backs save lives? Evidence from time series variation"" Current issues in criminal justice, vol 20, no.2, 145-162.",Deaths from gun-related homicides and suicides and non-gun-related homicides and suicides. Australia: 1915-2004.  Note: National Firearms Agreement was introduced in 1997,1,1915,0,Crime,Column
-data,nelson1.dat,Nelson (1973),Quarterly gross national product 1947 � 1966,4,1947,0,Macroeconomic,Row
-data,nelson2.dat,Nelson (1973),Quarterly expenditures on producer�s durables 1947 � 1966,4,1947,0,Macroeconomic,Row
-data,nelson3.dat,Nelson (1973),Monthly U.S. auto registration (thousands) 1947 � 1968,12,1947,0,Transport and tourism,Row
+data,nelson1.dat,Nelson (1973),Quarterly gross national product 1947 – 1966,4,1947,0,Macroeconomic,Row
+data,nelson2.dat,Nelson (1973),Quarterly expenditures on producer–s durables 1947 – 1966,4,1947,0,Macroeconomic,Row
+data,nelson3.dat,Nelson (1973),Monthly U.S. auto registration (thousands) 1947 – 1968,12,1947,0,Transport and tourism,Row
 cnelson,bnd.dat,Nelson and Plosser (1982),"Annual bond yield, U.S., 1900 to 1970",1,1900,1,Finance,Row
 cnelson,cpi.dat,Nelson and Plosser (1982),"Annual CPI, U.S., 1860 to 1970",1,1860,1,Macroeconomic,Row
 cnelson,emp.dat,Nelson and Plosser (1982),"Annual employment, U.S., 1890 to 1970",1,1890,1,Labour market,Row
@@ -549,26 +549,26 @@ cnelson,wg.dat,Nelson and Plosser (1982),"Annual wages, U.S., 1900 to 1970",1,19
 data,bev.dat,Newton (1988),"Beveridge wheat price index, 1500-1869",1,1500,0,Microeconomic,Row
 data,buffsnow.dat,Newton (1988),"Annual snowfall in Buffalo, 1910-1972.",1,1910,0,Meteorology,Row
 data,calfem.dat,Newton (1988),"Daily total female births in California, 1959",365,0,0,Demography,Row
-data,cradfq.dat,Newton (1988),"Monthly critical radio frequencies in Washington, D.C., May 1934 � April 1954. These frequencies reflect the highest radio frequency that can be used for broadcasting",12,1934.33,0,Physics,Row
-data,nybirths.dat,Newton (1988),Monthly New York City births: unknown scale. Jan 1946 � Dec 1959,12,1946,0,Demography,Row
+data,cradfq.dat,Newton (1988),"Monthly critical radio frequencies in Washington, D.C., May 1934 – April 1954. These frequencies reflect the highest radio frequency that can be used for broadcasting",12,1934.33,0,Physics,Row
+data,nybirths.dat,Newton (1988),Monthly New York City births: unknown scale. Jan 1946 – Dec 1959,12,1946,0,Demography,Row
 data,star.dat,Newton (1988),Daily brightness of a variable star on 600 successive midnights,,1,0,Physics,Row
 data,waves.dat,Newton (1988),Forces on a cylinder suspended in a tank of water. Sampling interval 0.15 second,,1,0,Physics,Row
 data,anderson1.dat,O.D. Anderson (1976),Daily dry bulb temperatures (Deg. F) Ben Nevis Feb.1-Aug. 18 1884,365,1,0,Meteorology,Row
-data,anderson13.dat,O.D. Anderson (1976),Passenger miles (Mil) flown domestic U.K. Jul. �62-May �72,12,1962.5,0,Transport and tourism,Row
-data,anderson14.dat,O.D. Anderson (1976),Monthly sales of company X Jan �65 � May �71 C. Cahtfield,12,1965,0,Sales,Row
+data,anderson13.dat,O.D. Anderson (1976),Passenger miles (Mil) flown domestic U.K. Jul. –62-May –72,12,1962.5,0,Transport and tourism,Row
+data,anderson14.dat,O.D. Anderson (1976),Monthly sales of company X Jan –65 – May –71 C. Cahtfield,12,1965,0,Sales,Row
 data,anderson15.dat,O.D. Anderson (1976),Mean monthly air temperature (Deg. F) Nottingham Castle 1920-1939,12,1920,0,Meteorology,Row
-data,anderson2.dat,O.D. Anderson (1976),Annual rainfall (in.) Nottingham castle 1867 � 1939,1,1867,0,Meteorology,Row
-data,anderson3.dat,O.D. Anderson (1976),I.C.I. Closing prices 25 Aug �72-19 Jan �73 (Financial Times),,1,0,Finance,Row
-data,anderson4.dat,O.D. Anderson (1976),Women unemployed (1000's) U.K. 1st of month Jan. �67-July. �72,12,1967,0,Labour market,Row
-data,odonovan20.dat,O�Donovan (1983),Monthly empolyees wholes./retail Wisconsin �61-�75 R.B.Miller,12,1961,0,Sales,Row
-data,odonovan25.dat,O�Donovan (1983),Monthly hotel occupied room av. �63-�76 B.L.Bowerman et al,12,1963,0,Transport and tourism,Row
+data,anderson2.dat,O.D. Anderson (1976),Annual rainfall (in.) Nottingham castle 1867 – 1939,1,1867,0,Meteorology,Row
+data,anderson3.dat,O.D. Anderson (1976),I.C.I. Closing prices 25 Aug –72-19 Jan –73 (Financial Times),,1,0,Finance,Row
+data,anderson4.dat,O.D. Anderson (1976),Women unemployed (1000's) U.K. 1st of month Jan. –67-July. –72,12,1967,0,Labour market,Row
+data,odonovan20.dat,O–Donovan (1983),Monthly empolyees wholes./retail Wisconsin –61-–75 R.B.Miller,12,1961,0,Sales,Row
+data,odonovan25.dat,O–Donovan (1983),Monthly hotel occupied room av. –63-–76 B.L.Bowerman et al,12,1963,0,Transport and tourism,Row
 data,gambling.dat,"Office of Gaming and Racing, Department of Justice, Victoria","Monthly gambling expenditure in Victoria, Australia, July 1999 to November 2006. Units are Millions of dollars per day. Smoking ban introduced in gaming venues in September 2002",12,1999.5,0,Microeconomic,Row
 data,newz018.dat,P.W.Dunwiddie,"Tree: Takapari NZ, North Island. Libi 838m -4005 17600",1,1256,0,Tree-rings,Row
-data,id006.dat,Pablo Baldazo,"Years: 1492 � 1984. Idaho, USA",1,1492,0,Tree-rings,Row
+data,id006.dat,Pablo Baldazo,"Years: 1492 – 1984. Idaho, USA",1,1492,0,Tree-rings,Row
 data,natflo94.cfs,Pablo Baldazo,Tabulation of 6 unregulated monthly River flow series in cubic feet persecond (same Rivers and same order as of file NTFLW94A.ANN),,1,0,Hydrology,Column
 data,natflo94.tab,Pablo Baldazo,Tabulation of 6 unregulated monthly River flow series in 1000 acre-feet(same Rivers and same order as of file NTFLW94A.ANN),,1,0,Hydrology,Column
 data,ntflw94a.ann,Pablo Baldazo,"col. 2 is the Snake River near Moran, Wyoming; 1904-1994; col. 3 is the Snake River near Heise, Idaho; 1911-1994; col. 4 is the Boise River near Twin Springs; 1912-1994; col. 5 is the Salmon River near Whitebird, Idaho; 1912-1994; col. 6 is the Bruneau River near Hot Springs, Idaho; 1912-1994 (partlyestimated); col. 7 is the Willow Creek near Ririe, Idaho; 1917-1994 (partly estimated)",,1,0,Hydrology,Column
-data,or015.dat,Pablo Baldazo,"Years: 1097 � 1982. Oregon, USA?",1,1097,0,Tree-rings,Row
+data,or015.dat,Pablo Baldazo,"Years: 1097 – 1982. Oregon, USA?",1,1097,0,Tree-rings,Row
 data,or021.dat,Pablo Baldazo,"Years: 1501-1982. Oregon, USA?",1,1501,0,Tree-rings,Row
 data,pankratz1.dat,"Pankratz (1983, p. 315, Case 1)",Quarterly change in business inventories (billions) 1955-1969,4,1955,0,Finance,Row
 data,pankratz2.dat,"Pankratz (1983, p. 328, Case 2)",Personal savings as % of disposable income 1955-1979,4,1955,0,Macroeconomic,Row
@@ -588,8 +588,8 @@ data,qunemrate.dat,"Pena, Tiao and Tsay (2001)",Seasonally adjusted quarterly U.
 data,sp500-1.dat,"Pena, Tiao and Tsay (2001)",Monthly returns of value-weighted S and P (standard and poor) 500 stock from 1926-1991,12,1926,0,Finance,Row
 data,1970_GNP_history.dat,Phil Henshaw,US Gross National Product 1874-1970,1,1874,11,Macroeconomic,Column
 data,1993_GDP_history.dat,Phil Henshaw,US Gross Domestic Product 1929-1993,1,1929,7,Macroeconomic,Column
-data,2005_trade-bal_hist.dat,Phil Henshaw,US Trade in Goods and Services � Balance of Payments (BOP) Basis. Value in millions of 2000 dollars 1960-2005,1,1960,10,Macroeconomic,Column
-data,2005_trade-bal_hist2.dat,Phil Henshaw,US Trade in Goods and Services � Balance of Payments (BOP) Basis. Value in millions of dollars 1960-2005,1,1960,7,Macroeconomic,Column
+data,2005_trade-bal_hist.dat,Phil Henshaw,US Trade in Goods and Services – Balance of Payments (BOP) Basis. Value in millions of 2000 dollars 1960-2005,1,1960,10,Macroeconomic,Column
+data,2005_trade-bal_hist2.dat,Phil Henshaw,US Trade in Goods and Services – Balance of Payments (BOP) Basis. Value in millions of dollars 1960-2005,1,1960,7,Macroeconomic,Column
 data,ca087.dat,"R. L. Holmes, R. K. Adams, M. R. Rose, S. Buer","Tree: KAISER PASS                      JUOC
 Location: CALIFORNIA   WESTERN JUNIPER   2731M  3717-11905 800 29
 Years: 1140-1981
@@ -606,21 +606,21 @@ data,chin001a.dat,R.Z. Zu,"Tree: WULAN           ARSTAN        JUSP
 Location: P.R. CHINA    JUNIPER          3600M  3700 10000
 Author: LOCAL MET. BUR. & R.Z. ZU
 Years: 1163-1986",1,1163,0,Tree-rings,Row
-data,bond2.dat,Reserve Bank of Australia,"Monthly interest rates Government Bond Yield 2-year securities, Reserve Bank of Australia. Jan 1969 � Sep 1994",12,1969,0,Finance,Row
+data,bond2.dat,Reserve Bank of Australia,"Monthly interest rates Government Bond Yield 2-year securities, Reserve Bank of Australia. Jan 1969 – Sep 1994",12,1969,0,Finance,Row
 data,bicup2006.dat,Richard Weber,Passenger arrivals at a subway bus terminal in Santiago de Chile for each 15-minute interval between 6:30 hours and 22 hours from 1-21 March 2005,,1,0,Transport and tourism,Column
 roberts,att.dat,Roberts (1992),"Monthly returns for AT&T, Jan 1961 through Dec. 1967",12,1961,3,Finance,Row
-roberts,beards.dat,Roberts (1992),"Percent of Men with full beards, 1866 � 1911",1,1866,4,Demography,Row
-roberts,blume.dat,Roberts (1992),"Monthly unit sales, Winnebago Industries, Nov. 1966 � Feb. 1972",12,1966.83,1,Sales,Row
-roberts,ccpi.dat,Roberts (1992),"One month change in CPI, Apr. 1963 � Jul. 1971",12,1963.25,2,Macroeconomic,Row
-data,dj.dat,Roberts (1992),"Monthly closings of the Dow-Jones industrial index, Aug. 1968 � Aug. 1981",12,1968.583333,1,Finance,Row
-roberts,djweek.dat,Roberts (1992),"Weekly closings of the Dow-Jones industrial average, July 1971 � August 1974",52,1971.5,4,Finance,Row
-roberts,g.dat,Roberts (1992),"Nominal government product (billion dollars), U.S., 1929 � 1974",1,1929,1,Macroeconomic,Row
-roberts,globwarm.dat,Roberts (1992),"Surface air �temperature change� (degrees celsius) for the globe, 1880 � 1985",1,1880,5,Meteorology,Row
-roberts,gnpn.dat,Roberts (1992),"Nominal GNP (billion dollars), U.S., 1890 � 1974",1,1890,1,Macroeconomic,Row
+roberts,beards.dat,Roberts (1992),"Percent of Men with full beards, 1866 – 1911",1,1866,4,Demography,Row
+roberts,blume.dat,Roberts (1992),"Monthly unit sales, Winnebago Industries, Nov. 1966 – Feb. 1972",12,1966.83,1,Sales,Row
+roberts,ccpi.dat,Roberts (1992),"One month change in CPI, Apr. 1963 – Jul. 1971",12,1963.25,2,Macroeconomic,Row
+data,dj.dat,Roberts (1992),"Monthly closings of the Dow-Jones industrial index, Aug. 1968 – Aug. 1981",12,1968.583333,1,Finance,Row
+roberts,djweek.dat,Roberts (1992),"Weekly closings of the Dow-Jones industrial average, July 1971 – August 1974",52,1971.5,4,Finance,Row
+roberts,g.dat,Roberts (1992),"Nominal government product (billion dollars), U.S., 1929 – 1974",1,1929,1,Macroeconomic,Row
+roberts,globwarm.dat,Roberts (1992),"Surface air –temperature change– (degrees celsius) for the globe, 1880 – 1985",1,1880,5,Meteorology,Row
+roberts,gnpn.dat,Roberts (1992),"Nominal GNP (billion dollars), U.S., 1890 – 1974",1,1890,1,Macroeconomic,Row
 roberts,gruen.dat,Roberts (1992),"Quarterly sales of SPSS manual, second edition, Jan. 1976 through April 1982",4,1976,4,Sales,Row
-roberts,halsey.dat,Roberts (1992),"Monthly degree days per heating in Chicago, Feb. 1931 � Aug. 1977",12,1931.083,7,Meteorology,Row
-roberts,ibm.dat,Roberts (1992),"Monthly returns, IBM common stock, Jan. 1961 � Dec. 1967",12,1961,2,Finance,Row
-roberts,ipi.dat,Roberts (1992),"Implicit price index, U.S.,1890 � 1974",1,1890,1,Finance,Row
+roberts,halsey.dat,Roberts (1992),"Monthly degree days per heating in Chicago, Feb. 1931 – Aug. 1977",12,1931.083,7,Meteorology,Row
+roberts,ibm.dat,Roberts (1992),"Monthly returns, IBM common stock, Jan. 1961 – Dec. 1967",12,1961,2,Finance,Row
+roberts,ipi.dat,Roberts (1992),"Implicit price index, U.S.,1890 – 1974",1,1890,1,Finance,Row
 roberts,lakemich.dat,Roberts (1992),"Highest mean monthly level, Lake Michigan, 1860 to Dec 1955",1,1860,3,Hydrology,Row
 roberts,lyndpin.dat,Roberts (1992),"Annual domestic sales and advertising of Lydia E, Pinkham Medicine, 1907 to 1960",1,1907,7,Sales,Row
 roberts,m.dat,Roberts (1992),"Money supply (billion dollars), U.S., 1890 to 1974",1,1890,1,Macroeconomic,Row
@@ -629,7 +629,7 @@ roberts,plhuron.dat,Roberts (1992),"Annual precipitation (inches), Lake Huron, 1
 roberts,plmich.dat,Roberts (1992),"Annual precipitation (inches), Lake Michigan, 1900 to 1986",1,1900,3,Meteorology,Row
 roberts,plsuper.dat,Roberts (1992),"Annual precipitation (inches), Lake Superior, 1900 to 1986",1,1900,3,Meteorology,Row
 roberts,rgnp.dat,Roberts (1992),"Real GNP in billion of dollars, U.S., 1890 to 1974",1,1890,1,Macroeconomic,Row
-roberts,rocky.dat,Roberts (1992),"Rockwell hardness (measured on rockwell �B� scale), 100 coils produced in sequence at a Chicago Steel Mill",,1,3,Industry,Row
+roberts,rocky.dat,Roberts (1992),"Rockwell hardness (measured on rockwell –B– scale), 100 coils produced in sequence at a Chicago Steel Mill",,1,3,Industry,Row
 roberts,scholes.dat,Roberts (1992),"Scholes index for NYSE, April 1963 to July 1971",12,1963.25,4,Finance,Row
 roberts,skirts.dat,Roberts (1992),"Annual diameter of skirt at hem, 1866 to 1911",1,1866,5,Demography,Row
 roberts,snow.dat,Roberts (1992),"Annual snowfall in Chicago, 1939 to 1978",1,1939,3,Meteorology,Row
@@ -642,13 +642,13 @@ data,twanders1.dat,T W Anderson (1971),Actual wheat-price index (European prices
 data,twanders2.dat,T W Anderson (1971),Trend free wheat-price index (European prices) 1500-1869,1,1500,0,Microeconomic,Row
 data,nm560.dat,"T.W. Swetnam, A.C. Caprio, A.M. Lynch","Tree: Italian Canyon, New Mexico. Limber Pine 2894m +3644-10528",1,837,0,Tree-rings,Row
 data,pola006.dat,Tomasz Wazny,"Tree: East Pomerania, North Poland English Oak. 20m 5330 01600",1,996,0,Tree-rings,Row
-data,Hveravellir_rain.dat,Tong (1990),"Daily precipitation (mm), Hveravellir, 1 Jan 1972 � 31 Dec 1974",365,1972,1,Meteorology,Column
-data,Hveravellir_temp.dat,Tong (1990),Hveravellir: 1 Jan 1972 � 31 Dec 1974: Daily temperature (degrees centigrade),365,1972,1,Meteorology,Column
-data,ibm.dat,Tong (1990),IBM closing stock price relative changes: 18/5/61 � 30/3/62,,1,0,Finance,Column
-data,ibm1.dat,Tong (1990),IBM closing stock prices relative changes: 18/12/59 � 12/5/60,,1,0,Finance,Column
-htong,jokulsa.dat,Tong (1990),"Mean daily flow (cumecs), Jokulsa Eystri River, 1 Jan 1972 � 31 Dec 1974",365,1972,1,Hydrology,Row
-data,sunspot.dat,Tong (1990),Wolf�s Sunspot Numbers. 1700 � 1988,1,1700,0,Physics,Row
-data,vatnsdalsa_river.dat,Tong (1990),"Mean daily flow (cumecs), Vatnsdalsa River, 1 Jan 1972 � 31 Dec 1974",365,1972,1,Hydrology,Column
+data,Hveravellir_rain.dat,Tong (1990),"Daily precipitation (mm), Hveravellir, 1 Jan 1972 – 31 Dec 1974",365,1972,1,Meteorology,Column
+data,Hveravellir_temp.dat,Tong (1990),Hveravellir: 1 Jan 1972 – 31 Dec 1974: Daily temperature (degrees centigrade),365,1972,1,Meteorology,Column
+data,ibm.dat,Tong (1990),IBM closing stock price relative changes: 18/5/61 – 30/3/62,,1,0,Finance,Column
+data,ibm1.dat,Tong (1990),IBM closing stock prices relative changes: 18/12/59 – 12/5/60,,1,0,Finance,Column
+htong,jokulsa.dat,Tong (1990),"Mean daily flow (cumecs), Jokulsa Eystri River, 1 Jan 1972 – 31 Dec 1974",365,1972,1,Hydrology,Row
+data,sunspot.dat,Tong (1990),Wolf–s Sunspot Numbers. 1700 – 1988,1,1700,0,Physics,Row
+data,vatnsdalsa_river.dat,Tong (1990),"Mean daily flow (cumecs), Vatnsdalsa River, 1 Jan 1972 – 31 Dec 1974",365,1972,1,Hydrology,Column
 data,bicoal.dat,US Bureau of Mines,Annual bituminous coal production USA: millions of net tons. 1920-1968,1,1920,0,Production,Row
 data,ausl006.dat,"V. Lamarche, J. Ogden, D. Campbell, P. Dunwiddie: 03/04/77","Tree: Beyond Burn, Australia. Pencil Pine.",1,1028,0,Tree-rings,Row
 data,ausl009.dat,"V. Lamarche, J. Ogden, P. Dunwiddie: 03/04/77","Tree: Mount Field (beyond Burn BEB139 + Lake Newdegate), Australia. Pencil Pine.",1,1028,0,Tree-rings,Row
@@ -657,7 +657,7 @@ Location: CHILE        CIPRES            1600M -3347-07015
 Authors: V. LAMARCHE, R.HOLMES, P. DUNWIDDIE, J. GUTIERREZ              12/30/76
 Years: 1131-1975",1,1131,0,Tree-rings,Row
 data,nv500.dat,V.C. Lamarche and C.W. Ferguson: 1967,"Tree: Hill 10842, Nevada. Bristlecone Pine 2926m 03857-11413 180 30",1,1,0,Tree-rings,Row
-data,cows.dat,Velleman (1981),Daily temperature of a cow at 6.30 am measured by counting chirps from�a telemetric thermometer implanted in the cow. Data are chirps per 5-minute�interval -800,,,0,Agriculture,Row
+data,cows.dat,Velleman (1981),Daily temperature of a cow at 6.30 am measured by counting chirps from–a telemetric thermometer implanted in the cow. Data are chirps per 5-minute–interval -800,,,0,Agriculture,Row
 data,chil015.dat,"Villalba, R. (1989)","Tree: TIUCHUE, ISLA DE CHILOE                            FICU
 Location: CHILE        ALERCE            750M -4230-07350
 Author: VILLALBA, R.(1989)
@@ -666,20 +666,20 @@ data,10m_radioactivity.dat,"Walter Harms, Germany","Radioactivity in the ground 
 data,1m_radioactivity.dat,"Walter Harms, Germany","Radioactivity in the ground at 1 minute intervals over one day (8 August 2006). Columns: date, time, rate (counts per minute) and error. Note the minor temperature dependency",,1,0,Physics,Column
 data,2h_radioactivity.dat,"Walter Harms, Germany","Radioactivity in the ground at 2 hourly intervals over one year (July 2005 to June 2006). Columns: date, time, dose rate (microsievert per hour). A few data are missing due to a technical problem. Note the snow cover effect",,1,0,Physics,Column
 data,equiptemp.dat,"Walter Harms, Germany",Offset equipment temperature (degrees Celsius) observed every 10 minutes for one month (July 2006). Equipment used for radioactive measurement,,1,0,Physics,Column
-data,coffee.dat,,U.S. annual coffee consumption. 1910 � 1970.,1,1910,0,Production,Row
-data,eriel.dat,,"Monthly Lake Erie Levels 1921 � 1970,",12,1921,0,Hydrology,Row
-data,forex.dat,,"Daily foreign exchange rates: Australia/US, British/US, Canadian/US, Dutch/US, French/US, German/US, Japanese/US, Swiss/US. 31 December 1979 � 31 December 1998",365,1,1,Finance,Column
-data,mmitta.dat,,"Monthly flows for Mitta Mitta River, Tallandoon. Jan 1936 � Dec 1968.",12,1936,0,Hydrology,Column
-data,nytemps.dat,,Monthly New York City average temperature: degrees C (?). Jan 1946 � Dec 1959.,12,1946,0,Meteorology,Row
-data,raineast.dat,,"Annual rainfall, eastern U.S.A. 1817 � 1922.",1,1817,0,Meteorology,Row
-data,soi.dat,,Monthly Southern oscillation index measured as the difference in sea-surface air pressure between Darwin and Tahiti. Jan 1882 � May 1993.,12,1882,0,Meteorology,Row
-data,turnover.dat,,Quarterly retail turnover: $m current. Jun 1982 � Dec 1991.,4,1982.5,0,Sales,Row
-data,twirate.dat,,Exchange Rate TWI. May 1970 � Aug 1995.,12,1970.333333,0,Finance,Row
-data,usexch.dat,,Exchange rate of Australian dollar: $A for 1 US dollar. Annual average: 1971 � 1991,1,1971,0,Finance,Row
-data,usexchm.dat,,Exchange rate of Australian dollar: $A for 1 US dollar. Monthly average: Jul 1969 � Aug 1995,12,1969.5,0,Finance,Row
-cortez,A1D.txt,"�P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.",Internet traffic data (in bits) from a private ISP with centres in 11 European cities. The data corresponds to a transatlantic link and was collected from 06:57 hours on 7 June to 11:17 hours on 31 July 2005. Daily data.,,,0,Computing,Row
-cortez,A1H.txt,"�P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.",Internet traffic data (in bits) from a private ISP with centres in 11 European cities. The data corresponds to a transatlantic link and was collected from 06:57 hours on 7 June to 11:17 hours on 31 July 2005. Hourly data.,,,0,Computing,Row
-cortez,A5M.txt,"�P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.",Internet traffic data (in bits) from a private ISP with centres in 11 European cities. The data corresponds to a transatlantic link and was collected from 06:57 hours on 7 June to 11:17 hours on 31 July 2005. Data collected at five minute intervals.,,,0,Computing,Row
-cortez,B1D.txt,"�P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Daily data",,,0,Computing,Row
-cortez,B1H.txt,"�P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Hourly data",,,0,Computing,Row
-cortez,B5M.txt,"�P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Data collected at five minute intervals.",,,0,Computing,Row
+data,coffee.dat,,U.S. annual coffee consumption. 1910 – 1970.,1,1910,0,Production,Row
+data,eriel.dat,,"Monthly Lake Erie Levels 1921 – 1970,",12,1921,0,Hydrology,Row
+data,forex.dat,,"Daily foreign exchange rates: Australia/US, British/US, Canadian/US, Dutch/US, French/US, German/US, Japanese/US, Swiss/US. 31 December 1979 – 31 December 1998",365,1,1,Finance,Column
+data,mmitta.dat,,"Monthly flows for Mitta Mitta River, Tallandoon. Jan 1936 – Dec 1968.",12,1936,0,Hydrology,Column
+data,nytemps.dat,,Monthly New York City average temperature: degrees C (?). Jan 1946 – Dec 1959.,12,1946,0,Meteorology,Row
+data,raineast.dat,,"Annual rainfall, eastern U.S.A. 1817 – 1922.",1,1817,0,Meteorology,Row
+data,soi.dat,,Monthly Southern oscillation index measured as the difference in sea-surface air pressure between Darwin and Tahiti. Jan 1882 – May 1993.,12,1882,0,Meteorology,Row
+data,turnover.dat,,Quarterly retail turnover: $m current. Jun 1982 – Dec 1991.,4,1982.5,0,Sales,Row
+data,twirate.dat,,Exchange Rate TWI. May 1970 – Aug 1995.,12,1970.333333,0,Finance,Row
+data,usexch.dat,,Exchange rate of Australian dollar: $A for 1 US dollar. Annual average: 1971 – 1991,1,1971,0,Finance,Row
+data,usexchm.dat,,Exchange rate of Australian dollar: $A for 1 US dollar. Monthly average: Jul 1969 – Aug 1995,12,1969.5,0,Finance,Row
+cortez,A1D.txt,"–P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.",Internet traffic data (in bits) from a private ISP with centres in 11 European cities. The data corresponds to a transatlantic link and was collected from 06:57 hours on 7 June to 11:17 hours on 31 July 2005. Daily data.,,,0,Computing,Row
+cortez,A1H.txt,"–P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.",Internet traffic data (in bits) from a private ISP with centres in 11 European cities. The data corresponds to a transatlantic link and was collected from 06:57 hours on 7 June to 11:17 hours on 31 July 2005. Hourly data.,,,0,Computing,Row
+cortez,A5M.txt,"–P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.",Internet traffic data (in bits) from a private ISP with centres in 11 European cities. The data corresponds to a transatlantic link and was collected from 06:57 hours on 7 June to 11:17 hours on 31 July 2005. Data collected at five minute intervals.,,,0,Computing,Row
+cortez,B1D.txt,"–P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Daily data",,,0,Computing,Row
+cortez,B1H.txt,"–P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Hourly data",,,0,Computing,Row
+cortez,B5M.txt,"–P. Cortez, M. Rio, M. Rocha and P. Sousa. Multiscale Internet Traffic Forecasting using Neural Networks and Time Series Methods. In Expert Systems, Wiley-Blackwell, In press.","Internet traffic data (in bits) from an ISP. Aggregated traffic in the United Kingdom academic network backbone. It was collected between 19 November 2004, at 09:30 hours and 27 January 2005, at 11:11 hours. Data collected at five minute intervals.",,,0,Computing,Row

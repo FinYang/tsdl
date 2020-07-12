@@ -18,10 +18,20 @@ read.tsdl <- function(i, silent = TRUE) {
   if (series[,"File"] == "niagra.dat") {
     x <- scan(fn, skip = series[,"Skip"])
     x <- x[x > 2000]
-  }
-  else if (series[,"Format"] == "Column") {
-    if (class(try(x <- read.table(fn, skip = series[,"Skip"], header = TRUE, colClasses = "character", flush = TRUE, fill = TRUE), silent = silent)) == "try-error") {
-      if (class(try(x <- read.csv(fn, sep = ",", skip = series[,"Skip"], header = TRUE, colClasses = "character", flush = TRUE, fill = TRUE), silent = silent)) == "try-error") {
+  } else if (series[, "File"] == "qconsum.dat") {
+    x <- read.table(fn, skip = series[, "Skip"], header = FALSE, colClasses = "character", flush = TRUE, fill = TRUE)
+    colnames(x) <- c(
+      "Durable_goods",
+      "All_other_goods_and_services",
+      "Investment",
+      "Inventory_investment",
+      "Imports_of_goods_and_services",
+      "Gross_domestic_product",
+      "Personal_disposable_income"
+    )
+  } else if (series[, "Format"] == "Column") {
+    if (class(try(x <- read.table(fn, skip = series[, "Skip"], header = TRUE, colClasses = "character", flush = TRUE, fill = TRUE), silent = silent)) == "try-error") {
+      if (class(try(x <- read.csv(fn, sep = ",", skip = series[, "Skip"], header = TRUE, colClasses = "character", flush = TRUE, fill = TRUE), silent = silent)) == "try-error") {
         stop(paste("Problem with series", fn))
       }
     }

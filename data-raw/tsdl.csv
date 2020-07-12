@@ -365,7 +365,7 @@ sanfran,precip.dat,Hipel and McLeod (1994),"Monthly precipitation (mm), Southwes
 lamarche,precip.dat,Hipel and McLeod (1994),"Mean monthly precipitation, 1907 – 1972",12,1907,1,Tree-rings,Row
 hurst,precip1.dat,Hipel and McLeod (1994),"Total annual rainfall (in inches), London, England, 1813 – 1912",1,1813,1,Meteorology,Row
 misc,qbirths.dat,Hipel and McLeod (1994),"Number of daily births in Quebec, Jan. 01, 1977 to Dec. 31, 1990",365,1977,2,Demography,Row
-prothero,qconsum.dat,Hipel and McLeod (1994),Quarterly U.K. economic time series from a case study reported by D.L. Prothero and K.F. Wallis (1976),4,1,3,Macroeconomic,Row
+prothero,qconsum.dat,Hipel and McLeod (1994),Quarterly U.K. economic time series from a case study reported by D.L. Prothero and K.F. Wallis (1976),4,1,3,Macroeconomic,Column
 ecology1,racoon.dat,Hipel and McLeod (1994),"Fur sales, racoon, H. B. Co., 1850-1911",1,1850,3,Ecology,Row
 noakes,rappahan.dat,Hipel and McLeod (1994),"Monthly riverflow in cms, Rappahannock River near fredericksburg, VA, 1911 – 1960",12,1911,1,Hydrology,Row
 monthly,reddeer.dat,Hipel and McLeod (1994),"Monthly Riverflow of red deer River at red deer Alberta, 1942-1974",12,1942,1,Hydrology,Row

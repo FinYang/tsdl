@@ -11,12 +11,12 @@ tsdl <- read_csv(here::here("data-raw/tsdl.csv")) %>%
   )
 
 read.tsdl <- function(i, silent = TRUE) {
-  series <- as.data.frame(tsdl[i,])
+  series <- as.data.frame(tsdl[i, ])
   # print(fn)
-  fn <- paste0(here::here(), "/data-raw/", series[,"Folder"], "/", series[,"File"])
+  fn <- paste0(here::here(), "/data-raw/", series[, "Folder"], "/", series[, "File"])
 
-  if (series[,"File"] == "niagra.dat") {
-    x <- scan(fn, skip = series[,"Skip"])
+  if (series[, "File"] == "niagra.dat") {
+    x <- scan(fn, skip = series[, "Skip"])
     x <- x[x > 2000]
   } else if (series[, "File"] == "qconsum.dat") {
     x <- read.table(fn, skip = series[, "Skip"], header = FALSE, colClasses = "character", flush = TRUE, fill = TRUE)
@@ -36,7 +36,7 @@ read.tsdl <- function(i, silent = TRUE) {
       }
     }
     if (ncol(x) == 1) {
-      if (class(try(x <- read.table(fn, sep = ",", skip = series[,"Skip"], header = TRUE, colClasses = "character", flush = TRUE, fill = TRUE), silent = silent)) == "try-error") {
+      if (class(try(x <- read.table(fn, sep = ",", skip = series[, "Skip"], header = TRUE, colClasses = "character", flush = TRUE, fill = TRUE), silent = silent)) == "try-error") {
         stop(paste("Problem with series", fn))
       }
     }
@@ -66,16 +66,16 @@ read.tsdl <- function(i, silent = TRUE) {
     if (length(drop) > 0) {
       x <- x[, -drop, drop = FALSE]
     }
-  }
-  else {
-    x <- scan(fn, skip = series[,"Skip"], na.strings = c("NA", "-", "*", "999999", "000"))
+  } else {
+    x <- scan(fn, skip = series[, "Skip"], na.strings = c("NA", "-", "*", "999999", "000"))
   }
   # Add time series characteristics
-  x <- ts(x, frequency = series[,"Frequency"], start = series[,"Start"])
+  x <- ts(x, frequency = series[, "Frequency"], start = series[, "Start"])
   attributes(x) <- c(attributes(x),
-                     source = series[, "Source"],
-                     description = series[, "Description"],
-                     subject = series[, "Subject"])
+    source = series[, "Source"],
+    description = series[, "Description"],
+    subject = series[, "Subject"]
+  )
   return(x)
 }
 

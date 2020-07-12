@@ -1,6 +1,6 @@
 library(tidyverse)
 
-tsdl <- read_csv("tsdl.csv") %>%
+tsdl <- read_csv(here::here("data-raw/tsdl.csv")) %>%
   mutate(
     Subject = recode(Subject, `Finan+H77ce` = "Finance"),
     Description = str_replace_all(Description, "Biomonthly", "Bimonthly"),
@@ -12,8 +12,8 @@ tsdl <- read_csv("tsdl.csv") %>%
 
 read.tsdl <- function(i, silent = TRUE) {
   series <- as.data.frame(tsdl[i,])
-  fn <- paste0(series[,"Folder"], "/", series[,"File"])
   # print(fn)
+  fn <- paste0(here::here(), "/data-raw/", series[,"Folder"], "/", series[,"File"])
 
   if (series[,"File"] == "niagra.dat") {
     x <- scan(fn, skip = series[,"Skip"])

@@ -4,7 +4,8 @@
 \name{meta_tsdl}
 \alias{meta_tsdl}
 \title{Time Series Data Library metadata.}
-\format{\code{meta_tsdl} is a data frame containing information about the tsdl series
+\format{
+\code{meta_tsdl} is a data frame containing information about the tsdl series
 with the following structure:
 \describe{
   \item{source}{Source of the time series.}
@@ -12,7 +13,8 @@ with the following structure:
   \item{frequency}{Frequency of the time series.}
   \item{start}{Start year of the time series.}
   \item{subject}{Subject (or type) of the time series.}
-}}
+}
+}
 \usage{
 meta_tsdl
 }

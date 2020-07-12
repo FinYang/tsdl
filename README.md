@@ -21,6 +21,9 @@ devtools::install_github("FinYang/tsdl")
 ``` r
 library(tsdl)
 library(forecast)
+#> Registered S3 method overwritten by 'quantmod':
+#>   method            from
+#>   as.zoo.data.frame zoo
 tsdl
 #> Time Series Data Library: 648 time series  
 #> 

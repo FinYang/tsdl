@@ -4,7 +4,8 @@
 \name{tsdl}
 \alias{tsdl}
 \title{Time Series Data Library data}
-\format{\code{tsdl} is a list of 648 series of class \code{tsdl}.
+\format{
+\code{tsdl} is a list of 648 series of class \code{tsdl}.
 Each series within \code{tsdl} is of class \code{ts} with the following attributes:
 \describe{
   \item{tsp}{Start time in time units, End time and Frequency. See \code{?tsp} for details.}
@@ -12,7 +13,8 @@ Each series within \code{tsdl} is of class \code{ts} with the following attribut
   \item{source}{Source of the time series.}
   \item{description}{A short description of the time series.}
   \item{subject}{Subject (or type) of the time series.}
-}}
+}
+}
 \source{
 \url{https://datamarket.com/data/list/?q=provider:tsdl}.
 }
